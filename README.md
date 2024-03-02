@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hari-hara7</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img  align="right" alt="imoj" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fhow-can-developer-improve-skill-developing-mahim-hossain&psig=AOvVaw13BJQC1zYVdRm05ofY5Xng&ust=1709454041515000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDxg9mS1YQDFQAAAAAdAAAAABAY">
+<img  align="right" alt="imoj" width="400" src="![Uploading image.png…]()
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hari-hara7&label=Profile%20views&color=0e75b6&style=flat" alt="hari-hara7" /> </p>
 
 - 🔭 I’m currently working on [Academic pal](https://academicpal.vercel.app/)
