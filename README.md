@@ -35,6 +35,8 @@ Exploring prompt engineering for web development and UI/UX design.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harihara77&theme=dark&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harihara77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🔝 Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harihara77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harihara77&theme=radical&no-frame=false&no-bg=false&margin-w=4)
