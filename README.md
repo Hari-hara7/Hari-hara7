@@ -31,9 +31,9 @@ Skilled in JavaScript, React.js, Three.js, GSAP, and more, I enjoy building web 
 
 **Academic Pal:** A platform for students to access educational resources. [Link to Academic Pal](https://academicpal7.onrender.com/)
 
-**Academic Pal 2.0:** The enhanced version featuring a chatbot for personalized educational resources. [Link to Academic Pal](https://academic-pal-v9t9.onrender.com/)
+**Academic Pal 2.0:** The enhanced version featuring a chatbot for personalized educational resources. [Link to Academic Pal2.0](https://academic-pal-v9t9.onrender.com/)
 
-**Skill Crafters:** Providing tutorial videos, notes, and roadmaps for web development, UI/UX design, and DSA.  [Link to Academic Pal](https://academicpal.netlify.app/)
+**Skill Crafters:** Providing tutorial videos, notes, and roadmaps for web development, UI/UX design, and DSA.  [Link to Skill Crafters](https://academicpal.netlify.app/)
 
 **Design Grid:** Offering free website background patterns and 3D backgrounds, built using GSAP and Three.js. [Link to Design Grid](https://designgrid-two.vercel.app/)
 
