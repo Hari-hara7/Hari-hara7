@@ -36,6 +36,76 @@ Skilled in JavaScript, React.js, Three.js, GSAP, and more, I enjoy building web 
 **Skill Crafters:** Providing tutorial videos, notes, and roadmaps for web development, UI/UX design, and DSA.  [Link to Skill Crafters](https://academicpal.netlify.app/)
 
 **Design Grid:** Offering free website background patterns and 3D backgrounds, built using GSAP and Three.js. [Link to Design Grid](https://designgrid-two.vercel.app/)
+
+
+
+
+
+
+## 📚 Learning and Goals
+
+### React.js
+Currently focusing on mastering React.js with a structured plan over two months.
+
+### Startup Strategy
+Learning about startup strategies to build successful ventures.
+
+### Prompt Engineering
+Exploring prompt engineering for web development and UI/UX design.
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Hari-hara7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hari-hara7&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Hari-hara7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Hari-hara7&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Hari-hara7&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
+## 🚀 What I Do
+
+### 📚 Educational Resources
+Through Academic Pal, I aim to solve academic challenges by offering comprehensive notes, past question papers, detailed syllabi, and extensive question banks. The latest version, **Academic Pal 2.0**, introduces a chatbot that provides notes and other resources tailored to students' semester and branch.
+
+### 🚀 Startup Enthusiast
+Currently learning and experimenting with startup strategies and planning to launch new ventures that address real-world problems.
+
+### 💻 Developer
+Skilled in JavaScript, React.js, Three.js, GSAP, and more, I enjoy building web applications and exploring the latest in web development.
+
+## 🔨 Projects
+
+**Academic Pal:** A platform for students to access educational resources. [Link to Academic Pal](https://academicpal7.onrender.com/)
+
+**Academic Pal 2.0:** The enhanced version featuring a chatbot for personalized educational resources. [Link to Academic Pal2.0](https://academic-pal-v9t9.onrender.com/)
+
+**Skill Crafters:** Providing tutorial videos, notes, and roadmaps for web development, UI/UX design, and DSA.  [Link to Skill Crafters](https://academicpal.netlify.app/)
+
+**Design Grid:** Offering free website background patterns and 3D backgrounds, built using GSAP and Three.js. [Link to Design Grid](https://designgrid-two.vercel.app/)
+
+## 📚 Learning and Goals
+
+### React.js
+Currently focusing on mastering React.js with a structured plan over two months.
+
+### Startup Strategy
+Learning about startup strategies to build successful ventures.
+
+### Prompt Engineering
+Exploring prompt engineering for web development and UI/UX design.
+
 ## 🌟 Infinity Slideshow
 
 <div align="center">
@@ -88,13 +158,13 @@ Skilled in JavaScript, React.js, Three.js, GSAP, and more, I enjoy building web 
 
   <div class="slideshow-container">
     <div class="mySlides fade">
-      <img src="logo academic pal.jpg" style="width:100%">
+      <img src="https://via.placeholder.com/800x400.png?text=Slide+1" style="width:100%">
     </div>
     <div class="mySlides fade">
-      <img src="Designer.png" style="width:100%">
+      <img src="https://via.placeholder.com/800x400.png?text=Slide+2" style="width:100%">
     </div>
     <div class="mySlides fade">
-      <img src="Designer (71).jpeg" style="width:100%">
+      <img src="https://via.placeholder.com/800x400.png?text=Slide+3" style="width:100%">
     </div>
     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
     <a class="next" onclick="plusSlides(1)">&#10095;</a>
@@ -121,39 +191,5 @@ Skilled in JavaScript, React.js, Three.js, GSAP, and more, I enjoy building web 
     showSlides(slideIndex += n);
   }
 </script>
-
-
-
-
-
-
-## 📚 Learning and Goals
-
-### React.js
-Currently focusing on mastering React.js with a structured plan over two months.
-
-### Startup Strategy
-Learning about startup strategies to build successful ventures.
-
-### Prompt Engineering
-Exploring prompt engineering for web development and UI/UX design.
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hari-hara7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hari-hara7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hari-hara7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hari-hara7&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Hari-hara7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
