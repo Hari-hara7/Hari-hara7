@@ -36,6 +36,96 @@ Skilled in JavaScript, React.js, Three.js, GSAP, and more, I enjoy building web 
 **Skill Crafters:** Providing tutorial videos, notes, and roadmaps for web development, UI/UX design, and DSA.  [Link to Skill Crafters](https://academicpal.netlify.app/)
 
 **Design Grid:** Offering free website background patterns and 3D backgrounds, built using GSAP and Three.js. [Link to Design Grid](https://designgrid-two.vercel.app/)
+## 🌟 Infinity Slideshow
+
+<div align="center">
+  <style>
+    .slideshow-container {
+      max-width: 800px;
+      position: relative;
+      margin: auto;
+    }
+    .mySlides {
+      display: none;
+    }
+    .prev, .next {
+      cursor: pointer;
+      position: absolute;
+      top: 50%;
+      width: auto;
+      padding: 16px;
+      margin-top: -22px;
+      color: white;
+      font-weight: bold;
+      font-size: 18px;
+      transition: 0.6s ease;
+      border-radius: 0 3px 3px 0;
+      user-select: none;
+    }
+    .next {
+      right: 0;
+      border-radius: 3px 0 0 3px;
+    }
+    .prev {
+      left: 0;
+      border-radius: 3px 0 0 3px;
+    }
+    .fade {
+      -webkit-animation-name: fade;
+      -webkit-animation-duration: 1.5s;
+      animation-name: fade;
+      animation-duration: 1.5s;
+    }
+    @-webkit-keyframes fade {
+      from {opacity: .4} 
+      to {opacity: 1}
+    }
+    @keyframes fade {
+      from {opacity: .4} 
+      to {opacity: 1}
+    }
+  </style>
+
+  <div class="slideshow-container">
+    <div class="mySlides fade">
+      <img src="logo academic pal.jpg" style="width:100%">
+    </div>
+    <div class="mySlides fade">
+      <img src="Designer.png" style="width:100%">
+    </div>
+    <div class="mySlides fade">
+      <img src="Designer (71).jpeg" style="width:100%">
+    </div>
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+  </div>
+</div>
+
+<script>
+  let slideIndex = 0;
+  showSlides();
+
+  function showSlides() {
+    let i;
+    let slides = document.getElementsByClassName("mySlides");
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";  
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) {slideIndex = 1}    
+    slides[slideIndex-1].style.display = "block";  
+    setTimeout(showSlides, 2000); // Change image every 2 seconds
+  }
+
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
+  }
+</script>
+
+
+
+
+
 
 ## 📚 Learning and Goals
 
