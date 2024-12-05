@@ -8,7 +8,13 @@
 
 
 # 💫 About Me:
-👋 Hi there! I'm Hariharanath, a passionate second-year B.Tech student specializing in CSE (Full Stack Development) at NMAMIT. I am the founder of Academic Pal, a platform dedicated to providing valuable educational resources and notes to college students.
+
+👋 Hi there! I'm **Hariharanath**, a passionate second-year **B.Tech student** specializing in **CSE (Full Stack Development)** at **NMAMIT**.  
+
+🚀 I am the **Founder of Academic Pal**, a platform dedicated to providing **educational resources and notes** to college students, making learning more accessible and effective.  
+
+🤝 **Co-founder of We4Tech**, a budding initiative focused on **tech innovation and community building**, empowering developers to create impactful solutions.  
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Hari_hara_nath77) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Harihara-nath) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/HARIHARANATH) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Hariharana70309) 
