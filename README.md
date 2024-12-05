@@ -18,8 +18,7 @@
 
 ## 🚀 What I Do
 
-### 📚 Educational Resources
-Through Academic Pal, I aim to solve academic challenges by offering comprehensive notes, past question papers, detailed syllabi, and extensive question banks. The latest version, **Academic Pal 2.0**, introduces a chatbot that provides notes and other resources tailored to students' semester and branch.
+
 
 ### 🚀 Startup Enthusiast
 Currently learning and experimenting with startup strategies and planning to launch new ventures that address real-world problems.
@@ -27,31 +26,34 @@ Currently learning and experimenting with startup strategies and planning to lau
 ### 💻 Developer
 Skilled in JavaScript, React.js, Three.js, GSAP, and more, I enjoy building web applications and exploring the latest in web development.
 
-## 🔨 Projects
-
-**Academic Pal:** A platform for students to access educational resources. [Link to Academic Pal](https://academicpal7.onrender.com/)
-
-**Academic Pal 2.0:** The enhanced version featuring a chatbot for personalized educational resources. [Link to Academic Pal2.0](https://academic-pal-v9t9.onrender.com/)
-
-**Skill Crafters:** Providing tutorial videos, notes, and roadmaps for web development, UI/UX design, and DSA.  [Link to Skill Crafters](https://academicpal.netlify.app/)
-
-**Design Grid:** Offering free website background patterns and 3D backgrounds, built using GSAP and Three.js. [Link to Design Grid](https://designgrid-two.vercel.app/)
 
 
 
 
 
 
-## 📚 Learning and Goals
+## 🔥 **Skills & Interests**
 
-### React.js
-Currently focusing on mastering React.js with a structured plan over two months.
+- **🌐 Developer Expertise**: Skilled in **JavaScript**, **React.js**, **Three.js**, **GSAP**, and other modern web technologies to create seamless, dynamic applications.  
+- **🚀 Startup Strategy**: Exploring strategies to build successful ventures that address real-world problems.  
 
-### Startup Strategy
-Learning about startup strategies to build successful ventures.
+    
 
-### Prompt Engineering
-Exploring prompt engineering for web development and UI/UX design.
+---
+
+## 📚 **Learning and Goals**
+
+- **⚛️ React.js**  
+  Currently focusing on mastering React.js with a structured plan over two months.  
+
+- **🌟 MERN Stack**  
+  Learning to build full-stack applications using **MongoDB**, **Express.js**, **React.js**, and **Node.js**.  
+
+- **☕ Spring Boot**  
+  Diving into backend development with **Spring Boot** to build scalable and secure applications.  
+
+- **🚀 Startup Strategy**  
+  Experimenting with innovative strategies to launch successful ventures.
 
 
 # 📊 GitHub Stats:
