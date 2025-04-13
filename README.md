@@ -49,11 +49,7 @@ Skilled in JavaScript, React.js, Three.js, GSAP, and more, I enjoy building web 
 
 ## 📚 **Learning and Goals**
 
-- **⚛️ React.js**  
-  Currently focusing on mastering React.js with a structured plan over two months.  
 
-- **🌟 MERN Stack**  
-  Learning to build full-stack applications using **MongoDB**, **Express.js**, **React.js**, and **Node.js**.  
 
 - **☕ Spring Boot**  
   Diving into backend development with **Spring Boot** to build scalable and secure applications.  
