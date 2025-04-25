@@ -82,20 +82,48 @@ Passionate about coding, I specialize in **JavaScript**, **React.js**, **Next.js
 - **💡 Web Development**  
   Continuously improving my knowledge of **Next.js**, the **MERN stack**, and **TypeScript**, while diving deeper into interactive web technologies and full-stack development.
 
+## 📊 GitHub Stats
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hari-hara7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hari-hara7&theme=dark&hide_border=false)<br/>
+<div align="center" style="background-color:#000000; padding: 15px; border: 2px solid #00FFFF; border-radius: 12px;">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hari-hara7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br><br>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hari-hara7&theme=dark&hide_border=false)<br><br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&hide_border=false&include_all_commits=true&count_private=true&langs_count=6&bg_color=000000&title_color=00FFFF&text_color=FFFFFF)
 
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hari-hara7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<div align="center" style="background-color:#000000; padding: 15px; border: 2px solid #00FFFF; border-radius: 12px;">
+  
+![Trophies](https://github-profile-trophy.vercel.app/?username=Hari-hara7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
+
+---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<div align="center" style="background-color:#000000; padding: 15px; border: 2px solid #00FFFF; border-radius: 12px;">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hari-hara7&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<div align="center" style="background-color:#000000; padding: 15px; border: 2px solid #00FFFF; border-radius: 12px;">
+
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=Hari-hara7&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
+
 
 
 <p align="center">
