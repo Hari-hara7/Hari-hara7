@@ -1,6 +1,7 @@
 <div align="center">
 
-![Hello](gig.gif)
+<img src="gig.gif" alt="Hello" style="width: 800px; height: 600px;">
+
 
 # 💫 About Me:
 
