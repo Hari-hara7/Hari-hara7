@@ -116,7 +116,12 @@ Experimenting with innovative strategies to launch successful ventures that solv
 ---
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hari-hara7&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+<div align="center" style="background-color:#000000; padding:20px; border: 2px solid #00FFFF; border-radius:15px;">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hari-hara7&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+
+</div>
+
 
 
 ## ✍️ Random Dev Quote
