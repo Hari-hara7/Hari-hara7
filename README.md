@@ -51,30 +51,42 @@
 
 
 
-
 ## 🚀 What I Do
 
-### 🌱 Startup Enthusiast
-Currently learning and experimenting with startup strategies, aiming to launch ventures that tackle real-world challenges and foster innovation.  
-![Startup Enthusiast](https://img.shields.io/badge/Startup%20Enthusiast-32CD32?style=for-the-badge&logo=rocket&logoColor=white)
+<div style="background-color:#000000; padding:20px; border-radius:10px; color:#00FFFF">
 
-### 💻 Developer
+### 🌱 Startup Enthusiast  
+Currently learning and experimenting with startup strategies, aiming to launch ventures that tackle real-world challenges and foster innovation.  
+<img src="https://img.shields.io/badge/Startup%20Enthusiast-00FFFF?style=for-the-badge&logo=rocket&logoColor=black"/>
+
+### 💻 Developer  
 Passionate about coding, I specialize in **JavaScript**, **React.js**, **Next.js**, and the **MERN stack**. I love building dynamic web applications and exploring the latest web development trends.  
-![Developer](https://img.shields.io/badge/Developer-32CD32?style=for-the-badge&logo=developer-mode&logoColor=white)
+<img src="https://img.shields.io/badge/Developer-00FFFF?style=for-the-badge&logo=developer-mode&logoColor=black"/>
+
+</div>
+
+---
 
 ## 🔥 **Skills & Interests**
 
-- **🌐 Developer Expertise**:  
-  Skilled in **JavaScript**, **React.js**, **Next.js**, and the **MERN stack** (MongoDB, Express, React, Node.js). I create seamless, interactive web applications using modern technologies.  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React.js](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![MERN Stack](https://img.shields.io/badge/MERN%20Stack-32CD32?style=for-the-badge&logo=mern&logoColor=white)
+<div style="background-color:#000000; padding:20px; border-radius:10px; color:#00FFFF">
 
-- **🚀 Startup Strategy**:  
-  Experimenting with innovative strategies to launch successful ventures that solve real-world problems, creating impact and value.  
-  ![Startup Strategy](https://img.shields.io/badge/Startup%20Strategy-32CD32?style=for-the-badge&logo=business&logoColor=white)
+- **🌐 Developer Expertise**  
+Skilled in **JavaScript**, **React.js**, **Next.js**, and the **MERN stack** (MongoDB, Express, React, Node.js). I create seamless, interactive web applications using modern technologies.  
+
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FFFF"/>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FFFF"/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FFFF"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00FFFF"/>
+<img src="https://img.shields.io/badge/MERN%20Stack-000000?style=for-the-badge&logo=code&logoColor=00FFFF"/>
+
+- **🚀 Startup Strategy**  
+Experimenting with innovative strategies to launch successful ventures that solve real-world problems, creating impact and value.  
+
+<img src="https://img.shields.io/badge/Startup%20Strategy-000000?style=for-the-badge&logo=launchpad&logoColor=00FFFF"/>
+
+</div>
+
 
 ---
 
