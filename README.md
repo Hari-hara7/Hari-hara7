@@ -84,28 +84,18 @@ Passionate about coding, I specialize in **JavaScript**, **React.js**, **Next.js
 
 
 # 📊 GitHub Stats:
-
-<div style="background-color: #000000; padding: 20px; border: 2px solid #00FFFF; border-radius: 10px; max-width: 100%; text-align: center; color: white;">
-  ![](https://github-readme-stats.vercel.app/api?username=Hari-hara7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Hari-hara7&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&hide_border=false&include_all_commits=true&count_private=true&langs_count=6&bg_color=000000&title_color=00FFFF&text_color=FFFFFF)
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Hari-hara7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hari-hara7&theme=dark&hide_border=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&hide_border=false&include_all_commits=true&count_private=true&langs_count=6&bg_color=000000&title_color=00FFFF&text_color=FFFFFF)
 
 ## 🏆 GitHub Trophies
-
-<div style="background-color: #000000; padding: 20px; border: 2px solid #00FFFF; border-radius: 10px; max-width: 100%; text-align: center;">
-  ![](https://github-profile-trophy.vercel.app/?username=Hari-hara7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-</div>
+![](https://github-profile-trophy.vercel.app/?username=Hari-hara7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-<div style="background-color: #000000; padding: 20px; border: 2px solid #00FFFF; border-radius: 10px; max-width: 100%; text-align: center; color: white;">
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
-<div style="background-color: #000000; padding: 20px; border: 2px solid #00FFFF; border-radius: 10px; max-width: 100%; text-align: center;">
-  ![](https://github-contributor-stats.vercel.app/api?username=Hari-hara7&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</div>
+![](https://github-contributor-stats.vercel.app/api?username=Hari-hara7&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 <p align="center">
