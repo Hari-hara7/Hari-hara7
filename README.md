@@ -130,7 +130,8 @@ Experimenting with innovative strategies to launch successful ventures that solv
 
 ## 🔝 Top Contributed Repos
 
-[![Top Repos](https://github-contributor-stats.vercel.app/api?username=Hari-hara7&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github-contributor-stats.vercel.app/api?username=Hari-hara7&limit=5&theme=black&text_color=cyan&combine_all_yearly_contributions=true
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=Hari-hara7&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=000000&text_color=00FFFF)
+
 )
 
 
