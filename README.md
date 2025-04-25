@@ -126,7 +126,8 @@ Experimenting with innovative strategies to launch successful ventures that solv
 
 ## ✍️ Random Dev Quote
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=000000&text_color=00FFFF)
+
 
 ## 🔝 Top Contributed Repos
 
