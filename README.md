@@ -50,36 +50,37 @@
 
 ## 🚀 What I Do
 
-
-
-### 🚀 Startup Enthusiast
-Currently learning and experimenting with startup strategies and planning to launch new ventures that address real-world problems.
+### 🌱 Startup Enthusiast
+Currently learning and experimenting with startup strategies, aiming to launch ventures that tackle real-world challenges and foster innovation.  
+![Startup Enthusiast](https://img.shields.io/badge/Startup%20Enthusiast-32CD32?style=for-the-badge&logo=rocket&logoColor=white)
 
 ### 💻 Developer
-Skilled in JavaScript, React.js, Three.js, GSAP, and more, I enjoy building web applications and exploring the latest in web development.
-
-
-
-
+Passionate about coding, I specialize in **JavaScript**, **React.js**, **Next.js**, and the **MERN stack**. I love building dynamic web applications and exploring the latest web development trends.  
+![Developer](https://img.shields.io/badge/Developer-32CD32?style=for-the-badge&logo=developer-mode&logoColor=white)
 
 ## 🔥 **Skills & Interests**
 
-- **🌐 Developer Expertise**: Skilled in **JavaScript**, **React.js**, **Three.js**, **GSAP**, and other modern web technologies to create seamless, dynamic applications.  
-- **🚀 Startup Strategy**: Exploring strategies to build successful ventures that address real-world problems.  
+- **🌐 Developer Expertise**:  
+  Skilled in **JavaScript**, **React.js**, **Next.js**, and the **MERN stack** (MongoDB, Express, React, Node.js). I create seamless, interactive web applications using modern technologies.  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![React.js](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![MERN Stack](https://img.shields.io/badge/MERN%20Stack-32CD32?style=for-the-badge&logo=mern&logoColor=white)
 
-    
+- **🚀 Startup Strategy**:  
+  Experimenting with innovative strategies to launch successful ventures that solve real-world problems, creating impact and value.  
+  ![Startup Strategy](https://img.shields.io/badge/Startup%20Strategy-32CD32?style=for-the-badge&logo=business&logoColor=white)
 
 ---
 
 ## 📚 **Learning and Goals**
 
-
-
-- **☕ Spring Boot**  
-  Diving into backend development with **Spring Boot** to build scalable and secure applications.  
-
 - **🚀 Startup Strategy**  
-  Experimenting with innovative strategies to launch successful ventures.
+  Experimenting with new strategies to launch and grow innovative ventures that address key challenges and create meaningful solutions.
+  
+- **💡 Web Development**  
+  Continuously improving my knowledge of **Next.js**, the **MERN stack**, and **TypeScript**, while diving deeper into interactive web technologies and full-stack development.
+
 
 
 # 📊 GitHub Stats:
