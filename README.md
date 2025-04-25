@@ -85,6 +85,8 @@ Passionate about coding, I specialize in **JavaScript**, **React.js**, **Next.js
 ## 📊 GitHub Stats
 
 <div align="center" style="background-color:#000000; padding: 15px; border: 2px solid #00FFFF; border-radius: 12px;">
+
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hari-hara7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF)
 
 <br/>
