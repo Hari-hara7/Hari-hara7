@@ -2,13 +2,13 @@
 
 ![Hello](icegif-505.gif)
 
-# 💫 About Me:
-
 👋 Hi there! I'm **Hariharanath**, a passionate second-year **B.Tech student** specializing in **CSE (Full Stack Development)** at **NMAMIT**.  
 
-🚀 I am the **Founder of Academic Pal**, a platform dedicated to providing **educational resources and notes** to college students, making learning more accessible and effective.  
+🚀 I am the **Founder of [Academic Pal](#)**, a platform dedicated to providing **educational resources and notes** to college students, making learning more accessible and effective.  
+![Academic Pal](https://img.shields.io/badge/Academic%20Pal-FF6347?style=for-the-badge&logo=education&logoColor=white)
 
-🤝 **Co-founder of We4Tech**, a budding initiative focused on **tech innovation and community building**, empowering developers to create impactful solutions.  
+🤝 **Co-founder of [We4Tech](#)**, a budding initiative focused on **tech innovation and community building**, empowering developers to create impactful solutions.  
+![We4Tech](https://img.shields.io/badge/We4Tech-00BFFF?style=for-the-badge&logo=technology&logoColor=white)
 
 
 ## 🌐 Socials:
