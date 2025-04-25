@@ -87,7 +87,8 @@ Skilled in JavaScript, React.js, Three.js, GSAP, and more, I enjoy building web 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hari-hara7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hari-hara7&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&hide_border=false&include_all_commits=true&count_private=true&langs_count=6&bg_color=000000&title_color=00FFFF&text_color=FFFFFF)
+
 
 
 
