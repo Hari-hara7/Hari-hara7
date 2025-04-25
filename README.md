@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="gig.gif" alt="Hello" style="width: 800px; height: 600px;">
+<img src="gig.gif" alt="Hello" style="width: 600px; height: 800px;">
 
 
 # 💫 About Me:
