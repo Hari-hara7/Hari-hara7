@@ -133,6 +133,9 @@ Experimenting with innovative strategies to launch successful ventures that solv
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=Hari-hara7&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
+<p align="center">
+  <img src="medium-shot-man-holding-device (1).jpg" alt="Banner" width="100%" style="border: 2px solid cyan; border-radius: 10px;" />
+</p>
 
 
 <p align="center">Designed with ❤️ by Hari</p>
