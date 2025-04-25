@@ -63,6 +63,7 @@ Passionate about coding, I specialize in **JavaScript**, **React.js**, **Next.js
 - **🌐 Developer Expertise**:  
   Skilled in **JavaScript**, **React.js**, **Next.js**, and the **MERN stack** (MongoDB, Express, React, Node.js). I create seamless, interactive web applications using modern technologies.  
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![React.js](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![MERN Stack](https://img.shields.io/badge/MERN%20Stack-32CD32?style=for-the-badge&logo=mern&logoColor=white)
