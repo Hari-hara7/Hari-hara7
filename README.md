@@ -133,9 +133,7 @@ Experimenting with innovative strategies to launch successful ventures that solv
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=Hari-hara7&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&hide_border=false&include_all_commits=true&count_private=true&langs_count=6&bg_color=000000&title_color=00FFFF&text_color=FFFFFF" />
-</p>
+
 
 <p align="center">Designed with ❤️ by Hari</p>
 
