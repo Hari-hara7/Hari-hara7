@@ -116,7 +116,8 @@ Experimenting with innovative strategies to launch successful ventures that solv
 ---
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hari-hara7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hari-hara7&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+
 
 ## ✍️ Random Dev Quote
 
