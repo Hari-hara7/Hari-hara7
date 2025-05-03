@@ -106,10 +106,10 @@ Experimenting with innovative strategies to launch successful ventures that solv
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hari-hara7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF)
 
 <br/>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hari-hara7&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=00ffff&icon_color=00ffff&text_color=ffffff" alt="GitHub Stats" />
 </p>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hari-hara7&theme=dark&hide_border=false&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&hide_border=false&include_all_commits=true&count_private=true&langs_count=6&bg_color=000000&title_color=00FFFF&text_color=FFFFFF)
 
