@@ -142,7 +142,7 @@ Experimenting with innovative strategies to launch successful ventures that solv
 
 
 
-<p align="center">Designed with ❤️ by Hari</p>
+<p align="center">Designed with 💙 by Hari</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hari-hara7&icon=0&color=0)](https://visitcount.itsvg.in)
