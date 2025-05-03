@@ -100,20 +100,22 @@ Experimenting with innovative strategies to launch successful ventures that solv
 
 ## 📊 GitHub Stats
 
+
 <div align="center" style="background-color:#000000; padding: 15px; border: 2px solid #00FFFF; border-radius: 12px;">
 
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hari-hara7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF)
-
-<br/>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hari-hara7&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=00ffff&icon_color=00ffff&text_color=ffffff" alt="GitHub Stats" />
 </p>
 
+<br/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hari-hara7&theme=dark&hide_border=false&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&hide_border=false&include_all_commits=true&count_private=true&langs_count=6&bg_color=000000&title_color=00FFFF&text_color=FFFFFF)
 
 </div>
+
 
 ---
 ## 🏆 GitHub Trophies
@@ -137,32 +139,7 @@ Experimenting with innovative strategies to launch successful ventures that solv
 
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hari-hara7&label=Profile%20views&color=0e75b6&style=flat" alt="hari-hara7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hari-hara7" alt="hari-hara7" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hari-hara7&show_icons=true&locale=en&layout=compact" alt="hari-hara7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hari-hara7&show_icons=true&locale=en" alt="hari-hara7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hari-hara7&" alt="hari-hara7" /></p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hari-hara7&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=00ffff&icon_color=00ffff&text_color=00ffff" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hari-hara7&theme=dark&background=000000&currStreakLabel=00ffff&sideLabels=00ffff&currStreakNum=00ffff&sideNums=00ffff&dates=00ffff&fire=00ffff" alt="GitHub Streak" />
-</p>
 
 
 <p align="center">Designed with ❤️ by Hari</p>
