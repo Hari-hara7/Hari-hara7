@@ -154,6 +154,13 @@ Experimenting with innovative strategies to launch successful ventures that solv
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hari-hara7&" alt="hari-hara7" /></p>
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hari-hara7&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=00ffff&icon_color=00ffff&text_color=00ffff" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hari-hara7&theme=dark&background=000000&currStreakLabel=00ffff&sideLabels=00ffff&currStreakNum=00ffff&sideNums=00ffff&dates=00ffff&fire=00ffff" alt="GitHub Streak" />
+</p>
 
 
 <p align="center">Designed with ❤️ by Hari</p>
