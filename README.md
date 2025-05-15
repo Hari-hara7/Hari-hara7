@@ -19,7 +19,13 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=00FFFF)](https://x.com/@Hariharana70309) 
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech Stack-Full Stack-cyan?style=for-the-badge&logo=appveyor">
+  <img src="https://img.shields.io/badge/Open to Work-Startups & MNCs-cyan?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Available-Internships & Freelance-cyan?style=for-the-badge">
+</p>
 
+---
 ## 💻 Tech Stack
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00FFFF)
 ![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=00FFFF)
