@@ -9,6 +9,12 @@
 🚀 I am the **Founder of Academic Pal**, a platform dedicated to providing **educational resources and notes** to college students, making learning more accessible and effective.  
 
 🤝 **Co-founder of We4Tech**, a budding initiative focused on **tech innovation and community building**, empowering developers to create impactful solutions.  
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech Stack-Full Stack-000000?style=for-the-badge&logo=vercel&logoColor=cyan&labelColor=000000">
+  <img src="https://img.shields.io/badge/Open to Work-Startups & MNCs-000000?style=for-the-badge&logo=github&logoColor=cyan&labelColor=000000">
+  <img src="https://img.shields.io/badge/Available-Internships & Freelance-000000?style=for-the-badge&logo=codewars&logoColor=cyan&labelColor=000000">
+</p>
+
 
 
 ## 🌐 Socials
@@ -18,12 +24,7 @@
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-000000?style=for-the-badge&logo=stack-overflow&logoColor=00FFFF)](https://stackoverflow.com/users/HARIHARANATH) 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=00FFFF)](https://x.com/@Hariharana70309) 
 
----
-<p align="center">
-  <img src="https://img.shields.io/badge/Tech Stack-Full Stack-cyan?style=for-the-badge&logo=appveyor">
-  <img src="https://img.shields.io/badge/Open to Work-Startups & MNCs-cyan?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Available-Internships & Freelance-cyan?style=for-the-badge">
-</p>
+
 
 ---
 ## 💻 Tech Stack
