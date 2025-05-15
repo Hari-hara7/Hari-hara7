@@ -16,6 +16,20 @@
 </p>
 
 
+### 📲 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Hariharanath-000000?style=for-the-badge&logo=linkedin&logoColor=cyan" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-your.email@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=cyan"/>
+  </a>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Hariharanath-000000?style=for-the-badge&logo=github&logoColor=cyan"/>
+  </a>
+</p>
+
 
 ## 🌐 Socials
 
@@ -93,6 +107,8 @@ Experimenting with innovative strategies to launch successful ventures that solv
 <img src="https://img.shields.io/badge/Startup%20Strategy-000000?style=for-the-badge&logo=launchpad&logoColor=00FFFF"/>
 
 </div>
+
+
 
 
 ---
