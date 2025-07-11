@@ -392,51 +392,6 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
 
 ---
 
-## 📊 GitHub Stats
-
-
-<div align="center" style="background-color:#000000; padding: 15px; border: 2px solid #00FFFF; border-radius: 12px;">
-
-  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hari-hara7&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=00ffff&icon_color=00ffff&text_color=ffffff" alt="GitHub Stats" />
-</p>
-
-<br/>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hari-hara7&theme=dark&hide_border=false&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&hide_border=false&include_all_commits=true&count_private=true&langs_count=6&bg_color=000000&title_color=00FFFF&text_color=FFFFFF)
-
-</div>
-
-
----
-## 🏆 GitHub Trophies
-
-<div align="center" style="background-color:#000000; padding:20px; border: 2px solid #00FFFF; border-radius:15px;">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hari-hara7&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-
-</div>
-
-
-
-## ✍️ Random Dev Quote
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=000000&text_color=00FFFF)
-
-
-## 🔝 Top Contributed Repos
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Hari-hara7&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=000000&text_color=00FFFF)
-
-
-
-
-
-
----
 
 ## 🤖 AI & Automation Expertise
 
