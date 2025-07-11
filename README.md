@@ -97,8 +97,8 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
 - 📚 **Academic Pal**: Revolutionizing education through technology
 - 🚀 **We4Tech**: Building tech community and innovation
 - 💻 **Open Source**: Contributing to meaningful projects
-- 🏗️ **System Design**: Mastering scalable architecture
-- 🤖 **AI/ML**: Exploring machine learning applications
+
+
 - 📖 **Content Creation**: Sharing knowledge through blogs
 
 </td>
@@ -129,7 +129,7 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
 - 📊 Progress tracking and analytics
 - 🔍 Smart search functionality
 
-**Impact**: Serving **1000+** students with **500+** resources
+**Impact**: Serving **4000+** students with **500+** resources
 
 </td>
 <td width="30%">
