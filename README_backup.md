@@ -76,6 +76,8 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
 
 ## 👨‍💻 About Me
 
+
+
 <table>
 <tr>
 <td width="50%">
@@ -464,380 +466,105 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
   <img src="https://img.shields.io/badge/Community%20Members-200+-purple?style=for-the-badge&logo=community" />
 </p>
 
+
+
+
+## 🚀 What I Do
+
+<div style="background-color:#000000; padding:20px; border-radius:10px; color:#00FFFF">
+
+### 🌱 Startup Enthusiast  
+Currently learning and experimenting with startup strategies, aiming to launch ventures that tackle real-world challenges and foster innovation.  
+<img src="https://img.shields.io/badge/Startup%20Enthusiast-00FFFF?style=for-the-badge&logo=rocket&logoColor=black"/>
+
+### 💻 Developer  
+Passionate about coding, I specialize in **JavaScript**, **React.js**, **Next.js**, and the **MERN stack**. I love building dynamic web applications and exploring the latest web development trends.  
+<img src="https://img.shields.io/badge/Developer-00FFFF?style=for-the-badge&logo=developer-mode&logoColor=black"/>
+
+</div>
+
 ---
 
-## 📊 GitHub Statistics
+## 🔥 **Skills & Interests**
+
+<div style="background-color:#000000; padding:20px; border-radius:10px; color:#00FFFF">
+
+- **🌐 Developer Expertise**  
+Skilled in **JavaScript**, **React.js**, **Next.js**, and the **MERN stack** (MongoDB, Express, React, Node.js). I create seamless, interactive web applications using modern technologies.  
+
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FFFF"/>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FFFF"/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FFFF"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00FFFF"/>
+<img src="https://img.shields.io/badge/MERN%20Stack-000000?style=for-the-badge&logo=code&logoColor=00FFFF"/>
+
+- **🚀 Startup Strategy**  
+Experimenting with innovative strategies to launch successful ventures that solve real-world problems, creating impact and value.  
+
+<img src="https://img.shields.io/badge/Startup%20Strategy-000000?style=for-the-badge&logo=launchpad&logoColor=00FFFF"/>
+
+</div>
+
+
+
+
+---
+
+## 📚 **Learning and Goals**
+
+- **🚀 Startup Strategy**  
+  Experimenting with new strategies to launch and grow innovative ventures that address key challenges and create meaningful solutions.
+  
+- **💡 Web Development**  
+  Continuously improving my knowledge of **Next.js**, the **MERN stack**, and **TypeScript**, while diving deeper into interactive web technologies and full-stack development.
+
+## 📊 GitHub Stats
+
 
 <div align="center" style="background-color:#000000; padding: 15px; border: 2px solid #00FFFF; border-radius: 12px;">
 
-### 📈 Profile Analytics
+  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hari-hara7&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=00ffff&icon_color=00ffff&text_color=ffffff&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hari-hara7&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=00ffff&icon_color=00ffff&text_color=ffffff" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hari-hara7&theme=dark&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="GitHub Streak" />
-</p>
+<br/>
 
-### 🏅 Language Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&hide_border=true&include_all_commits=true&count_private=true&langs_count=8&bg_color=000000&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hari-hara7&theme=dark&hide_border=false&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF)
 
-### 📊 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-hara7&theme=react-dark&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
-### 🎯 Detailed Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hari-hara7&theme=github_dark" alt="Profile Summary" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&hide_border=false&include_all_commits=true&count_private=true&langs_count=6&bg_color=000000&title_color=00FFFF&text_color=FFFFFF)
 
 </div>
 
----
 
-## 🏅 GitHub Trophies
+---
+## 🏆 GitHub Trophies
 
 <div align="center" style="background-color:#000000; padding:20px; border: 2px solid #00FFFF; border-radius:15px;">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hari-hara7&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Hari-hara7&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 
 </div>
 
----
 
-## 👀 Code Review Practices
-
-<div align="center">
-  <h3>🔍 Ensuring Quality & Collaboration</h3>
-</div>
-
-### 🎯 My Code Review Philosophy
-> **"Great code is not just functional—it's readable, maintainable, and secure."**
-
-<table>
-<tr>
-<td width="50%">
-
-### ✅ What I Look For
-- 🔍 **Code Quality**: Clean, readable, and maintainable code
-- 🧪 **Testing**: Comprehensive test coverage
-- 🔐 **Security**: Vulnerability assessments
-- 📚 **Documentation**: Clear comments and README
-- ⚡ **Performance**: Optimized algorithms and queries
-- 🎨 **Standards**: Consistent coding patterns
-
-</td>
-<td width="50%">
-
-### 🤝 Collaboration Approach
-- 💬 **Constructive Feedback**: Helpful, not harmful
-- 🎓 **Knowledge Sharing**: Teaching opportunities
-- 🔄 **Iterative Improvement**: Multiple review rounds
-- 👥 **Team Learning**: Collective code ownership
-- 📖 **Best Practices**: Industry standard guidelines
-- 🚀 **Growth Mindset**: Learning from each review
-
-</td>
-</tr>
-</table>
-
-### 🛠️ Review Tools & Metrics
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Reviews-50+-success?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Code%20Quality-A+-blue?style=for-the-badge&logo=codeclimate" />
-  <img src="https://img.shields.io/badge/Response%20Time-<2hrs-orange?style=for-the-badge&logo=clock" />
-  <img src="https://img.shields.io/badge/Review%20Approval-95%25-green?style=for-the-badge&logo=checkmark" />
-</p>
-
----
-
-## 🔐 Security Practices
-
-<div align="center">
-  <h3>🛡️ Building Secure Applications</h3>
-</div>
-
-### 🔒 Security-First Development
-> **"Security is not a feature—it's a foundation."**
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛡️ Security Measures
-- 🔐 **Authentication**: JWT, OAuth, Multi-factor
-- 🔑 **Authorization**: Role-based access control
-- 🛡️ **Input Validation**: Sanitization and validation
-- 🔒 **Data Encryption**: At rest and in transit
-- 🚫 **OWASP Compliance**: Top 10 vulnerabilities
-- 📊 **Security Audits**: Regular assessments
-
-</td>
-<td width="50%">
-
-### 🔧 Security Tools
-- 🔍 **Static Analysis**: ESLint Security, Snyk
-- 🧪 **Dependency Scanning**: npm audit, Dependabot
-- 🔒 **Secret Management**: Environment variables
-- 🛡️ **HTTPS Enforcement**: SSL/TLS certificates
-- 🚨 **Monitoring**: Real-time threat detection
-- 📝 **Documentation**: Security guidelines
-
-</td>
-</tr>
-</table>
-
-### 🔒 Security Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/OWASP-Compliant-red?style=for-the-badge&logo=owasp" />
-  <img src="https://img.shields.io/badge/SSL%2FTLS-Enforced-green?style=for-the-badge&logo=letsencrypt" />
-  <img src="https://img.shields.io/badge/Dependencies-Audited-blue?style=for-the-badge&logo=npm" />
-  <img src="https://img.shields.io/badge/Code%20Scan-Automated-purple?style=for-the-badge&logo=sonarqube" />
-</p>
-
----
-
-## 🤝 Contribution Guide
-
-<div align="center">
-  <h3>🌟 Let's Build Something Amazing Together!</h3>
-</div>
-
-### 🚀 How to Contribute
-
-<details>
-<summary>📋 Contribution Guidelines</summary>
-
-#### 🔧 Getting Started
-1. 🍴 **Fork** the repository
-2. 🌿 **Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. 💻 **Make** your changes
-4. ✅ **Test** your changes thoroughly
-5. 📝 **Commit** your changes (`git commit -m 'Add amazing feature'`)
-6. 🚀 **Push** to the branch (`git push origin feature/amazing-feature`)
-7. 🔄 **Open** a Pull Request
-
-#### 📏 Code Standards
-- 🎨 **Style**: Follow existing code patterns
-- 🧪 **Testing**: Include tests for new features
-- 📚 **Documentation**: Update relevant documentation
-- 🔍 **Linting**: Ensure code passes all linters
-- 💬 **Comments**: Write clear, concise comments
-
-#### 🎯 What We Welcome
-- 🐛 **Bug Fixes**: Help improve stability
-- ✨ **New Features**: Innovative enhancements
-- 📖 **Documentation**: Improve clarity
-- 🎨 **UI/UX**: Better user experience
-- ⚡ **Performance**: Optimization improvements
-
-</details>
-
-### 💝 Ways to Contribute
-<table>
-<tr>
-<td width="33%">
-
-#### 💻 Code Contributions
-- 🔧 Bug fixes and improvements
-- ✨ New feature development
-- 🎨 UI/UX enhancements
-- ⚡ Performance optimizations
-
-</td>
-<td width="33%">
-
-#### 📚 Documentation
-- 📖 README improvements
-- 💡 Tutorial creation
-- 🔧 API documentation
-- 🎥 Video guides
-
-</td>
-<td width="33%">
-
-#### 🤝 Community
-- 🐛 Bug reporting
-- 💡 Feature suggestions
-- ❓ Answering questions
-- 🎉 Spreading the word
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Fun Facts
-
-<div align="center">
-  <h3>🎉 Getting to Know Me Better</h3>
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 😄 Personal Quirks
-- ☕ **Coffee Addict**: 5+ cups daily ☕
-- 🌙 **Night Owl**: Most productive at 2 AM 🦉
-- 🎮 **Gamer**: Strategy games enthusiast 🎯
-- 📚 **Bookworm**: Sci-fi and tech books 📖
-- 🎵 **Music Lover**: Coding with lo-fi beats 🎧
-- 🏃‍♂️ **Fitness**: Morning runs for clarity 🌅
-
-</td>
-<td width="50%">
-
-### 🤓 Developer Habits
-- 🔧 **Debug Method**: `console.log()` warrior 🐛
-- 💻 **Setup**: Multiple monitors and mechanical keyboard ⌨️
-- 🎨 **Favorite Theme**: Dark mode everything 🌚
-- 📱 **Always Learning**: New tech every month 📚
-- 🚀 **Side Projects**: Weekend coding sessions 💻
-- 🔄 **Version Control**: Commit early, commit often 📝
-
-</td>
-</tr>
-</table>
-
-### 🎲 Random Developer Facts
-<p align="center">
-  <img src="https://img.shields.io/badge/Tabs%20vs%20Spaces-Spaces%20Winner!-blue?style=for-the-badge&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/Favorite%20Language-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Lines%20of%20Code-10000+-green?style=for-the-badge&logo=code" />
-  <img src="https://img.shields.io/badge/Coffee%20Consumed-∞-brown?style=for-the-badge&logo=coffee" />
-</p>
-
----
-
-## 📞 Contact & Connect
-
-<div align="center">
-  <h3>🌟 Let's Connect and Collaborate!</h3>
-</div>
-
-### 📬 Direct Contact
-<table>
-<tr>
-<td width="50%">
-
-#### 💼 Professional
-- 📧 **Email**: [hariharanath.dev@gmail.com](mailto:hariharanath.dev@gmail.com)
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/Harihara-nath)
-- 📱 **WhatsApp**: Available for business inquiries
-- 📅 **Calendar**: [Schedule a meeting](https://calendly.com/hariharanath)
-
-</td>
-<td width="50%">
-
-#### 🌐 Social Media
-- 📘 **Instagram**: [@Hari_hara_nath77](https://instagram.com/Hari_hara_nath77)
-- 🐦 **Twitter/X**: [@Hariharana70309](https://x.com/@Hariharana70309)
-- 💻 **GitHub**: [@Hari-hara7](https://github.com/Hari-hara7)
-- 🎯 **Portfolio**: [View my work](https://hari-hara7.github.io)
-
-</td>
-</tr>
-</table>
-
----
-
-## 💬 How to Connect
-
-<div align="center">
-  <h3>🤝 Multiple Ways to Reach Out</h3>
-</div>
-
-### 🎯 What I'm Open To
-<table>
-<tr>
-<td width="33%">
-
-#### 💼 Professional
-- 🚀 **Startup Collaborations**
-- 💻 **Freelance Projects**
-- 🎯 **Technical Consulting**
-- 📚 **Mentoring Students**
-
-</td>
-<td width="33%">
-
-#### 🤝 Networking
-- 🌐 **Developer Communities**
-- 🎤 **Speaking Opportunities**
-- 📝 **Content Collaboration**
-- 🏆 **Open Source Projects**
-
-</td>
-<td width="33%">
-
-#### 💡 Casual
-- ☕ **Coffee Chats**
-- 🎮 **Gaming Sessions**
-- 📚 **Book Discussions**
-- 🎵 **Music Recommendations**
-
-</td>
-</tr>
-</table>
-
-### 📱 Quick Connect Options
-<p align="center">
-  <a href="mailto:hariharanath.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/Harihara-nath">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/Hari_hara_nath77">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://x.com/@Hariharana70309">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</p>
-
----
 
 ## ✍️ Random Dev Quote
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=000000&text_color=00FFFF)
 
----
 
 ## 🔝 Top Contributed Repos
 
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=Hari-hara7&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=000000&text_color=00FFFF)
 
----
 
-<div align="center">
-  <h3>🎉 Thanks for Visiting!</h3>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65" alt="Footer" />
-  
-  <p>
-    <strong>🌟 If you found my profile interesting, give it a ⭐!</strong><br>
-    <em>Let's build something amazing together! 🚀</em>
-  </p>
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge&logo=heart" alt="Made with Love" />
-    <img src="https://img.shields.io/badge/Designed%20by-Hari-blue?style=for-the-badge&logo=user" alt="Designed by Hari" />
-  </p>
-  
-</div>
+
+
+
+
+<p align="center">Designed with 💙 by Hari</p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Hari-hara7&icon=2&color=0" alt="Visitor Count" />
-</p>
+[![](https://visitcount.itsvg.in/api?id=Hari-hara7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
