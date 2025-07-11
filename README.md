@@ -63,10 +63,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hari-hara7&theme=radical" alt="GitHub Profile Summary" />
 </div>
 
-
-
-
-
 ---
 
 ## 💡 Skills & Expertise
@@ -267,107 +263,6 @@
 </p>
 
 </div>
-
-
-
-
-## 🚀 What I Do
-
-<div style="background-color:#000000; padding:20px; border-radius:10px; color:#00FFFF">
-
-### 🌱 Startup Enthusiast  
-Currently learning and experimenting with startup strategies, aiming to launch ventures that tackle real-world challenges and foster innovation.  
-<img src="https://img.shields.io/badge/Startup%20Enthusiast-00FFFF?style=for-the-badge&logo=rocket&logoColor=black"/>
-
-### 💻 Developer  
-Passionate about coding, I specialize in **JavaScript**, **React.js**, **Next.js**, and the **MERN stack**. I love building dynamic web applications and exploring the latest web development trends.  
-<img src="https://img.shields.io/badge/Developer-00FFFF?style=for-the-badge&logo=developer-mode&logoColor=black"/>
-
-</div>
-
----
-
-## 🔥 **Skills & Interests**
-
-<div style="background-color:#000000; padding:20px; border-radius:10px; color:#00FFFF">
-
-- **🌐 Developer Expertise**  
-Skilled in **JavaScript**, **React.js**, **Next.js**, and the **MERN stack** (MongoDB, Express, React, Node.js). I create seamless, interactive web applications using modern technologies.  
-
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FFFF"/>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FFFF"/>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FFFF"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00FFFF"/>
-<img src="https://img.shields.io/badge/MERN%20Stack-000000?style=for-the-badge&logo=code&logoColor=00FFFF"/>
-
-- **🚀 Startup Strategy**  
-Experimenting with innovative strategies to launch successful ventures that solve real-world problems, creating impact and value.  
-
-<img src="https://img.shields.io/badge/Startup%20Strategy-000000?style=for-the-badge&logo=launchpad&logoColor=00FFFF"/>
-
-</div>
-
-
-
-
----
-
-## 📚 **Learning and Goals**
-
-- **🚀 Startup Strategy**  
-  Experimenting with new strategies to launch and grow innovative ventures that address key challenges and create meaningful solutions.
-  
-- **💡 Web Development**  
-  Continuously improving my knowledge of **Next.js**, the **MERN stack**, and **TypeScript**, while diving deeper into interactive web technologies and full-stack development.
-
-## 📊 GitHub Stats
-
-
-<div align="center" style="background-color:#000000; padding: 15px; border: 2px solid #00FFFF; border-radius: 12px;">
-
-  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hari-hara7&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=00ffff&icon_color=00ffff&text_color=ffffff" alt="GitHub Stats" />
-</p>
-
-<br/>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hari-hara7&theme=dark&hide_border=false&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&hide_border=false&include_all_commits=true&count_private=true&langs_count=6&bg_color=000000&title_color=00FFFF&text_color=FFFFFF)
-
-</div>
-
-
----
-## 🏆 GitHub Trophies
-
-<div align="center" style="background-color:#000000; padding:20px; border: 2px solid #00FFFF; border-radius:15px;">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hari-hara7&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-
-</div>
-
-
-
-## ✍️ Random Dev Quote
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=000000&text_color=00FFFF)
-
-
-## 🔝 Top Contributed Repos
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Hari-hara7&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=000000&text_color=00FFFF)
-
-
-
-
-
-
-<p align="center">Designed with 💙 by Hari</p>
-
----
-[![](https://visitcount.itsvg.in/api?id=Hari-hara7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
