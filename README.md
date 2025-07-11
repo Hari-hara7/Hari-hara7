@@ -140,9 +140,9 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
 
 **Tech Stack**: `Next.js` `TypeScript` `MongoDB` `Tailwind CSS` `Vercel`
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=rocket" alt="Status" />
-  <img src="https://img.shields.io/badge/Users-1000+-blue?style=for-the-badge&logo=users" alt="Users" />
+  <img src="https://img.shields.io/badge/Users-4000+-blue?style=for-the-badge&logo=users" alt="Users" />
   <img src="https://img.shields.io/badge/Resources-500+-green?style=for-the-badge&logo=book" alt="Resources" />
 </p>
 
