@@ -62,7 +62,7 @@
   </h3>
 </div>
 
-> **"Innovation distinguishes between a leader and a follower."** - *Steve Jobs*
+**"Innovation distinguishes between a leader and a follower."** - *Steve Jobs*
 
 I'm a passionate technologist on a mission to **transform ideas into reality** through code, creativity, and collaboration. From building scalable web applications to founding educational platforms, I believe in the power of technology to create meaningful impact.
 
@@ -251,7 +251,7 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FFFF" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=00FFFF" />
+ 
 
 </p>
 
@@ -292,7 +292,7 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=00FFFF" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FFFF" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=00FFFF" />
+  
 </p>
 
 ---
