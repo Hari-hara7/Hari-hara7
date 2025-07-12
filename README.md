@@ -387,8 +387,7 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
 <tr>
 <td width="50%">
 
-### 🎉 Academic Excellence
--00.
+
 
 - 🏆 **Coding Competition Winner** - *Regional Level*
 
