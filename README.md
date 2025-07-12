@@ -674,7 +674,7 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
 <td width="50%">
 
 #### 💼 Professional
-- 📧 **Email**: [hariharanath.dev@gmail.com](mailto:hariharanath.dev@gmail.com)
+- 📧 **Email**: [hariharanath247@gmail.com](mailto:hariharanath247@gmail.com)
 - 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/Harihara-nath)
 - 📱 **WhatsApp**: Available for business inquiries
 - 📅 **Calendar**: [Schedule a meeting](https://calendly.com/hariharanath)
@@ -724,7 +724,7 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
 <td width="33%">
 
 #### 💡 Casual
-- ☕ **Coffee Chats**
+
 - 🎮 **Gaming Sessions**
 - 📚 **Book Discussions**
 - 🎵 **Music Recommendations**
@@ -774,7 +774,7 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
   </p>
   
   <p align="center">
-    <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge&logo=heart" alt="Made with Love" />
+    <img src="https://img.shields.io/badge/Made%20with-❤️-black?style=for-the-badge&logo=heart" alt="Made with Love" />
     <img src="https://img.shields.io/badge/Designed%20by-Hari-blue?style=for-the-badge&logo=user" alt="Designed by Hari" />
   </p>
   
