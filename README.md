@@ -390,17 +390,17 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
 
 
 - 🏆 **SAP Hackfest Winner** - *Regional Level*
-- 🏆 **Hackathon Winner** - *First Place*
+- 🏆 **Upgrade Campus Hackathon Winner** - *First Place*
 - 🏆 **web development ACE Competition Winner** - *First Place*
 
 </td>
 <td width="50%">
 
 ### 🚀 Professional Achievements
-- 👑 **Founder** - *Academic Pal (1000+ Users)*
+- 👑 **Founder** - *Academic Pal (4000+ Users)*
 - 🤝 **Co-founder** - *We4Tech Community*
-- 💼 **Freelance Success** - *5+ Happy Clients*
-- 🌟 **Open Source** - *50+ Contributions*
+- 💼 **Freelance Success** - *17+ Happy Clients*
+- 🌟 **Open Source** - *10+ Contributions*
 
 </td>
 </tr>
