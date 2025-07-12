@@ -195,13 +195,9 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
 - 🤖 **ML Integration**: TensorFlow.js
 - 📊 **Analytics**: Real-time data processing
 - 🎨 **UI/UX**: Figma to Code workflow
-- 🔄 **CI/CD**: GitHub Actions, Vercel
 
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-</p>
+
+
 
 </td>
 </tr>
