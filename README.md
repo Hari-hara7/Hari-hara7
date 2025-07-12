@@ -313,11 +313,6 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
 - 🔧 **"Advanced TypeScript Patterns for Better Code"** - *Hashnode*
 - 🌐 **"Full Stack Development Best Practices"** - *Personal Blog*
 
-### 🎤 Speaking Engagements
-- 💬 **Tech Talk**: "Modern Web Development Trends" at College Tech Fest
-- 🎓 **Workshop**: "React Fundamentals" for Junior Developers
-- 🚀 **Panel Discussion**: "Future of Educational Technology"
-
 <p align="center">
   <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=00FFFF" />
   <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=00FFFF" />
