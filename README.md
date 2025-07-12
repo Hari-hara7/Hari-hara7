@@ -389,7 +389,9 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
 
 
 
-- 🏆 **Coding Competition Winner** - *Regional Level*
+- 🏆 **SAP Hackfest Winner** - *Regional Level*
+- 🏆 **Hackathon Winner** - *First Place*
+- 🏆 **web development ACE Competition Winner** - *First Place*
 
 </td>
 <td width="50%">
