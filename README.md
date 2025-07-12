@@ -178,7 +178,7 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
 - 🚀 **Performance**: 95+ Lighthouse Score
 - 🔐 **Security**: JWT Authentication, OWASP Compliant
 - 📱 **Responsive**: Mobile-first design
-- ⚡ **Tech**: React, Node.js, PostgreSQL, Redis
+- ⚡ **Tech**: React, Node.js, PostgreSQL.
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
@@ -196,7 +196,6 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
 - 📊 **Analytics**: Real-time data processing
 - 🎨 **UI/UX**: Figma to Code workflow
 - 🔄 **CI/CD**: GitHub Actions, Vercel
-- 📈 **Scalability**: Auto-scaling with Kubernetes
 
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
@@ -237,8 +236,7 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00FFFF" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FFFF" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=00FFFF" />
+
 </p>
 
 ### 🎨 Styling & UI
@@ -246,9 +244,7 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
   <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=00FFFF" />
   <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=radixui&logoColor=00FFFF" />
   <img src="https://img.shields.io/badge/Material UI-000000?style=for-the-badge&logo=mui&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Chakra UI-000000?style=for-the-badge&logo=chakraui&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Styled Components-000000?style=for-the-badge&logo=styled-components&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=00FFFF" />
+
 </p>
 
 ### ⚙️ Backend & Server
@@ -256,9 +252,7 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FFFF" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=00FFFF" />
   <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FFFF" />
+
 </p>
 
 ### 🗄️ Databases & Storage
@@ -266,7 +260,7 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FFFF" />
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FFFF" />
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=00FFFF" />
+ 
   <img src="https://img.shields.io/badge/Neon-000000?style=for-the-badge&logo=neon&logoColor=00FFFF" />
   <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=00FFFF" />
 </p>
@@ -274,7 +268,7 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
 ### 🔧 DevOps & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00FFFF" />
+
   <img src="https://img.shields.io/badge/GitHub Actions-000000?style=for-the-badge&logo=github-actions&logoColor=00FFFF" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00FFFF" />
   <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00FFFF" />
@@ -294,7 +288,7 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
 ### 📱 Development Tools
 <p align="center">
   <img src="https://img.shields.io/badge/VS Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=00FFFF" />
+  
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=00FFFF" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FFFF" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFFF" />
@@ -303,48 +297,9 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
 
 ---
 
-## 🤖 AI/ML Interests
 
-<div align="center">
-  <h3>🧠 Exploring the Future of Technology</h3>
-</div>
 
-<table>
-<tr>
-<td width="50%">
 
-### 🎯 Current Focus Areas
-- 🤖 **Machine Learning**: Building predictive models
-- 🧠 **Deep Learning**: Neural networks and AI applications
-- 🔍 **Natural Language Processing**: Text analysis and chatbots
-- 👁️ **Computer Vision**: Image recognition and processing
-- 📊 **Data Science**: Analytics and insights generation
-
-</td>
-<td width="50%">
-
-### 🛠️ AI/ML Tech Stack
-- 🐍 **Python**: Core programming language
-- 📚 **TensorFlow**: Deep learning framework
-- 🔥 **PyTorch**: Research and experimentation
-- 🔢 **NumPy/Pandas**: Data manipulation
-- 📈 **Scikit-learn**: Traditional ML algorithms
-- 📊 **Matplotlib/Seaborn**: Data visualization
-
-</td>
-</tr>
-</table>
-
-### 🚀 AI Projects & Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
-
----
 
 ## 📝 Blog & Talks
 
@@ -383,11 +338,11 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
 <td width="50%">
 
 ### 💻 Technical Certifications
-- ✅ **AWS Cloud Practitioner** - *Amazon Web Services*
+
 - ✅ **React Developer Certification** - *Meta*
 - ✅ **Node.js Application Development** - *OpenJS Foundation*
 - ✅ **MongoDB Developer** - *MongoDB University*
-- 🔄 **Google Cloud Associate** - *In Progress*
+
 
 </td>
 <td width="50%">
@@ -396,8 +351,8 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
 - ✅ **Startup Fundamentals** - *Coursera*
 - ✅ **Agile Project Management** - *PMI*
 - ✅ **Digital Marketing** - *Google*
-- ✅ **Data Analytics** - *IBM*
-- 🔄 **Machine Learning** - *Stanford Online*
+
+
 
 </td>
 </tr>
@@ -438,9 +393,8 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
 <td width="50%">
 
 ### 🎉 Academic Excellence
-- 🏅 **Dean's List** - *Consistent Academic Performance*
-- 🎓 **Best Project Award** - *Final Year Project*
-- 📚 **Academic Scholarship** - *Merit-based Recognition*
+-00.
+
 - 🏆 **Coding Competition Winner** - *Regional Level*
 
 </td>
