@@ -83,7 +83,7 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
 ### 🚀 Quick Facts
 - 🎓 **B.Tech CSE** (Full Stack Development) at **NMAMIT**
 - 📍 **Location**: India
-- 🎂 **Age**: 20
+- 🎂 **Age**: 19
 - 💼 **Role**: Founder & Full Stack Developer
 - 🌱 **Currently Learning**: Advanced React Patterns, System Design
 - 👯 **Looking to Collaborate**: Open Source Projects, Startups
