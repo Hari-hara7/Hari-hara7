@@ -388,7 +388,9 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
 - 🏆 **SAP Hackfest Winner** - *Regional Level*
 - 🏆 **Upgrade Campus Hackathon Winner** - *First Place*
 - 🏆 **web development ACE Competition Winner** - *First Place*
-
+- 🏆 **Acethon Winner** - *First Place*
+- 🏆 **Reality Rewritten** - *2nd Runner up*
+- 🏆 **Srinathon Runner in 2 problem statements** - *Runner up*
 </td>
 <td width="50%">
 
