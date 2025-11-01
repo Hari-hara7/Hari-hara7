@@ -85,7 +85,7 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
 - 📍 **Location**: India
 - 🎂 **Age**: 19
 - 💼 **Role**: Founder & Full Stack Developer
-- 🌱 **Currently Learning**: Advanced React Patterns, System Design
+- 🌱 **Currently Learning**: Advanced React Patterns, System Design,DSA
 - 👯 **Looking to Collaborate**: Open Source Projects, Startups
 - 💬 **Ask Me About**: React, Node.js, Startup Strategy
 - ⚡ **Fun Fact**: I debug with console.log() and I'm proud of it! 😄
