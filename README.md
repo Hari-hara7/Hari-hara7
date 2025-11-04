@@ -88,8 +88,8 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
 - 🌱 **Currently Learning**: Advanced React Patterns, System Design,DSA
 - 👯 **Looking to Collaborate**: Open Source Projects, Startups
 - 💬 **Ask Me About**: React, Node.js, Startup Strategy
-- ⚡ **Fun Fact**: I debug with console.log() and I'm proud of it! 😄
-
+- ⚡ **Fun Fact**: I debug with console.log() and I'm proud of it!
+- ❤️‍🩹 **One side ** : Loyal to one, even if she never looks back.
 </td>
 <td width="50%">
 
