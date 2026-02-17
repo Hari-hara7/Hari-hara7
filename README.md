@@ -386,7 +386,7 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
 
 - 🏆 **SAP Hackfest Winner** - *Regional Level*
 - 🏆 **Upgrade Campus Hackathon Winner** - *First Place*
-- 🏆 **web development ACE Competition Winner 2hrs** - *First Place*
+- 🏆 **web development ACE Competition Winner** - *First Place*
 - 🏆 **Acethon Winner** - *First Place*
 - 🏆 **Reality Rewritten 24hrs** - *2nd Runner up*
 - 🏆 **Codesprint Hacakthon 32hrs** - *2nd Runner up*
