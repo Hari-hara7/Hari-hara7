@@ -35,9 +35,6 @@
 - [⭐ Featured Projects](#-featured-projects)
 - [💻 Advanced Tech Stack](#-advanced-tech-stack)
 - [🤖 AI/ML Interests](#-aiml-interests)
-- [📝 Blog & Talks](#-blog--talks)
-- [🎓 Certifications](#-certifications)
-- [🔧 Open Source Contributions](#-open-source-contributions)
 - [🏆 Achievements](#-achievements)
 - [📊 GitHub Statistics](#-github-statistics)
 - [🏅 GitHub Trophies](#-github-trophies)
@@ -83,7 +80,7 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
 ### 🚀 Quick Facts
 - 🎓 **B.Tech CSE** (Full Stack Development) at **NMAMIT**
 - 📍 **Location**: India
-- 🎂 **Age**: 19
+- 🎂 **Age**: 20
 - 💼 **Role**: Founder & Full Stack Developer
 - 🌱 **Currently Learning**: Advanced React Patterns, System Design,DSA
 - 👯 **Looking to Collaborate**: Open Source Projects, Startups
@@ -210,7 +207,6 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
 
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=00FFFF)](https://instagram.com/Hari_hara_nath77) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF)](https://linkedin.com/in/Harihara-nath) 
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-000000?style=for-the-badge&logo=stack-overflow&logoColor=00FFFF)](https://stackoverflow.com/users/HARIHARANATH) 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=00FFFF)](https://x.com/@Hariharana70309)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFFF)](https://github.com/Hari-hara7)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00FFFF)](https://hari-hara7.github.io)
@@ -290,87 +286,10 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
   
 </p>
 
----
 
 
 
 
-
-## 📝 Blog & Talks
-
-<div align="center">
-  <h3>✍️ Sharing Knowledge & Experiences</h3>
-</div>
-
-### 📚 Recent Blog Posts
-- 🚀 **"Building Scalable React Applications with Next.js"** - *Dev.to*
-- 🎯 **"From Idea to MVP: My Startup Journey"** - *Medium*
-- 🔧 **"Advanced TypeScript Patterns for Better Code"** - *Hashnode*
-- 🌐 **"Full Stack Development Best Practices"** - *Personal Blog*
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Hashnode-000000?style=for-the-badge&logo=hashnode&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=00FFFF" />
-</p>
-
----
-
-## 🎓 Certifications
-
-<div align="center">
-  <h3>🏅 Professional Development & Learning</h3>
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 💻 Technical Certifications
-
-- ✅ **React Developer Certification** - *Meta*
-- ✅ **Node.js Application Development** - *OpenJS Foundation*
-- ✅ **MongoDB Developer** - *MongoDB University*
-
-
-</td>
-<td width="50%">
-
-### 🎯 Leadership & Business
-- ✅ **Startup Fundamentals** - *Coursera*
-- ✅ **Agile Project Management** - *PMI*
-- ✅ **Digital Marketing** - *Google*
-
-
-
-</td>
-</tr>
-</table>
-
----
-
-## 🔧 Open Source Contributions
-
-<div align="center">
-  <h3>🌟 Contributing to the Developer Community</h3>
-</div>
-
-### 🎯 Active Contributions
-- 🔥 **React Ecosystem**: Bug fixes and feature enhancements
-- 📚 **Documentation**: Improving developer experience
-- 🛠️ **Tools & Libraries**: Creating useful developer tools
-- 🎨 **UI Components**: Open source component libraries
-
-### 📊 Contribution Stats
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributions-50+-green?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/PRs%20Merged-25+-blue?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Issues%20Resolved-15+-orange?style=for-the-badge&logo=bug" />
-  <img src="https://img.shields.io/badge/Repositories%20Starred-500+-yellow?style=for-the-badge&logo=star" />
-</p>
-
----
 
 ## 🏆 Achievements
 
@@ -458,211 +377,11 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
 
 ---
 
-## 👀 Code Review Practices
 
-<div align="center">
-  <h3>🔍 Ensuring Quality & Collaboration</h3>
-</div>
 
-### 🎯 My Code Review Philosophy
-> **"Great code is not just functional—it's readable, maintainable, and secure."**
 
-<table>
-<tr>
-<td width="50%">
 
-### ✅ What I Look For
-- 🔍 **Code Quality**: Clean, readable, and maintainable code
-- 🧪 **Testing**: Comprehensive test coverage
-- 🔐 **Security**: Vulnerability assessments
-- 📚 **Documentation**: Clear comments and README
-- ⚡ **Performance**: Optimized algorithms and queries
-- 🎨 **Standards**: Consistent coding patterns
 
-</td>
-<td width="50%">
-
-### 🤝 Collaboration Approach
-- 💬 **Constructive Feedback**: Helpful, not harmful
-- 🎓 **Knowledge Sharing**: Teaching opportunities
-- 🔄 **Iterative Improvement**: Multiple review rounds
-- 👥 **Team Learning**: Collective code ownership
-- 📖 **Best Practices**: Industry standard guidelines
-- 🚀 **Growth Mindset**: Learning from each review
-
-</td>
-</tr>
-</table>
-
-### 🛠️ Review Tools & Metrics
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Reviews-50+-success?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Code%20Quality-A+-blue?style=for-the-badge&logo=codeclimate" />
-  <img src="https://img.shields.io/badge/Response%20Time-<2hrs-orange?style=for-the-badge&logo=clock" />
-  <img src="https://img.shields.io/badge/Review%20Approval-95%25-green?style=for-the-badge&logo=checkmark" />
-</p>
-
----
-
-## 🔐 Security Practices
-
-<div align="center">
-  <h3>🛡️ Building Secure Applications</h3>
-</div>
-
-### 🔒 Security-First Development
-> **"Security is not a feature—it's a foundation."**
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛡️ Security Measures
-- 🔐 **Authentication**: JWT, OAuth, Multi-factor
-- 🔑 **Authorization**: Role-based access control
-- 🛡️ **Input Validation**: Sanitization and validation
-- 🔒 **Data Encryption**: At rest and in transit
-- 🚫 **OWASP Compliance**: Top 10 vulnerabilities
-- 📊 **Security Audits**: Regular assessments
-
-</td>
-<td width="50%">
-
-### 🔧 Security Tools
-- 🔍 **Static Analysis**: ESLint Security, Snyk
-- 🧪 **Dependency Scanning**: npm audit, Dependabot
-- 🔒 **Secret Management**: Environment variables
-- 🛡️ **HTTPS Enforcement**: SSL/TLS certificates
-- 🚨 **Monitoring**: Real-time threat detection
-- 📝 **Documentation**: Security guidelines
-
-</td>
-</tr>
-</table>
-
-### 🔒 Security Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/OWASP-Compliant-red?style=for-the-badge&logo=owasp" />
-  <img src="https://img.shields.io/badge/SSL%2FTLS-Enforced-green?style=for-the-badge&logo=letsencrypt" />
-  <img src="https://img.shields.io/badge/Dependencies-Audited-blue?style=for-the-badge&logo=npm" />
-  <img src="https://img.shields.io/badge/Code%20Scan-Automated-purple?style=for-the-badge&logo=sonarqube" />
-</p>
-
----
-
-## 🤝 Contribution Guide
-
-<div align="center">
-  <h3>🌟 Let's Build Something Amazing Together!</h3>
-</div>
-
-### 🚀 How to Contribute
-
-<details>
-<summary>📋 Contribution Guidelines</summary>
-
-#### 🔧 Getting Started
-1. 🍴 **Fork** the repository
-2. 🌿 **Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. 💻 **Make** your changes
-4. ✅ **Test** your changes thoroughly
-5. 📝 **Commit** your changes (`git commit -m 'Add amazing feature'`)
-6. 🚀 **Push** to the branch (`git push origin feature/amazing-feature`)
-7. 🔄 **Open** a Pull Request
-
-#### 📏 Code Standards
-- 🎨 **Style**: Follow existing code patterns
-- 🧪 **Testing**: Include tests for new features
-- 📚 **Documentation**: Update relevant documentation
-- 🔍 **Linting**: Ensure code passes all linters
-- 💬 **Comments**: Write clear, concise comments
-
-#### 🎯 What We Welcome
-- 🐛 **Bug Fixes**: Help improve stability
-- ✨ **New Features**: Innovative enhancements
-- 📖 **Documentation**: Improve clarity
-- 🎨 **UI/UX**: Better user experience
-- ⚡ **Performance**: Optimization improvements
-
-</details>
-
-### 💝 Ways to Contribute
-<table>
-<tr>
-<td width="33%">
-
-#### 💻 Code Contributions
-- 🔧 Bug fixes and improvements
-- ✨ New feature development
-- 🎨 UI/UX enhancements
-- ⚡ Performance optimizations
-
-</td>
-<td width="33%">
-
-#### 📚 Documentation
-- 📖 README improvements
-- 💡 Tutorial creation
-- 🔧 API documentation
-- 🎥 Video guides
-
-</td>
-<td width="33%">
-
-#### 🤝 Community
-- 🐛 Bug reporting
-- 💡 Feature suggestions
-- ❓ Answering questions
-- 🎉 Spreading the word
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Fun Facts
-
-<div align="center">
-  <h3>🎉 Getting to Know Me Better</h3>
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 😄 Personal Quirks
-- ☕ **Coffee Addict**: 5+ cups daily ☕
-- 🌙 **Night Owl**: Most productive at 2 AM 🦉
-- 🎮 **Gamer**: Strategy games enthusiast 🎯
-- 📚 **Bookworm**: Sci-fi and tech books 📖
-- 🎵 **Music Lover**: Coding with lo-fi beats 🎧
-- 🏃‍♂️ **Fitness**: Morning runs for clarity 🌅
-
-</td>
-<td width="50%">
-
-### 🤓 Developer Habits
-- 🔧 **Debug Method**: `console.log()` warrior 🐛
-- 💻 **Setup**: Multiple monitors and mechanical keyboard ⌨️
-- 🎨 **Favorite Theme**: Dark mode everything 🌚
-- 📱 **Always Learning**: New tech every month 📚
-- 🚀 **Side Projects**: Weekend coding sessions 💻
-- 🔄 **Version Control**: Commit early, commit often 📝
-
-</td>
-</tr>
-</table>
-
-### 🎲 Random Developer Facts
-<p align="center">
-  <img src="https://img.shields.io/badge/Tabs%20vs%20Spaces-Spaces%20Winner!-blue?style=for-the-badge&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/Favorite%20Language-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Lines%20of%20Code-10000+-green?style=for-the-badge&logo=code" />
-  <img src="https://img.shields.io/badge/Coffee%20Consumed-∞-brown?style=for-the-badge&logo=coffee" />
-</p>
-
----
 
 ## 📞 Contact & Connect
 
