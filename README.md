@@ -138,41 +138,184 @@ I'm a passionate technologist on a mission to **transform ideas into reality** t
   <h3>🎨 Showcasing Technical Excellence</h3>
 </div>
 
+---
+
+### 📚 Academic Pal
+> **Educational Platform for B.Tech Students | 5000+ Active Users**
+
 <table>
 <tr>
-<td width="50%">
+<td width="65%">
 
-### 🔥 Project Alpha
-**Modern Web Application**
+**A comprehensive platform offering notes and resources for B.Tech students, organized by year and branch.**
 
-- 🏗️ **Architecture**: Microservices with Docker
-- 🚀 **Performance**: 95+ Lighthouse Score
-- 🔐 **Security**: JWT Authentication, OWASP Compliant
-- 📱 **Responsive**: Mobile-first design
-- ⚡ **Tech**: React, Node.js, PostgreSQL.
+**🚀 Key Features:**
+- 📖 Comprehensive study materials organized by year & branch
+- 📝 Curated notes from top performers
+- 🎯 Subject-wise resource organization
+- 👥 Growing student community platform
+- 🔍 Smart search functionality
+- 📊 Progress tracking and analytics
 
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-</p>
+**🌟 Impact**: Serving **5000+** students with high-quality educational resources
 
 </td>
-<td width="50%">
-
-### 🎯 Project Beta
-**AI-Powered Solution**
-
-- 🤖 **ML Integration**: TensorFlow.js
-- 📊 **Analytics**: Real-time data processing
-- 🎨 **UI/UX**: Figma to Code workflow
-
-
-
-
+<td width="35%">
+<img src="academicpal.png" alt="Academic Pal" width="100%" style="border-radius: 10px;">
 </td>
 </tr>
 </table>
+
+**Tech Stack:**
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+</p>
+
+<p>
+  <a href="https://academicpal.in/"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge" /></a>
+  <a href="https://github.com/Hari-hara7/Academicpal--login.git"><img src="https://img.shields.io/badge/📂_GitHub-181717?style=for-the-badge&logo=github" /></a>
+</p>
+
+---
+
+### 🛡️ PhishGuard
+> **Comprehensive Cybersecurity Platform | Chrome Extension + Web Platform**
+
+<table>
+<tr>
+<td width="65%">
+
+**A comprehensive cybersecurity platform designed for students and educational institutions using advanced AI and machine learning for real-time protection.**
+
+**🔐 Key Features:**
+- 🔗 **Link Scanner**: Detect malicious URLs in real-time
+- 📄 **Document Scanner**: Analyze files for potential threats
+- 📧 **Email Scanner**: Identify phishing attempts in emails
+- 🎮 **Gamification**: Engaging security awareness training
+- 🚨 **Scam Reporting System**: Community-driven threat reporting
+- 🔌 **Chrome Extension**: Security at your fingertips
+
+**🤖 AI-Powered**: Advanced machine learning algorithms for threat detection
+
+</td>
+<td width="35%">
+<img src="phishguard.png" alt="PhishGuard" width="100%" style="border-radius: 10px;">
+</td>
+</tr>
+</table>
+
+**Tech Stack:**
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=radixui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+</p>
+
+<p>
+  <a href="https://phish-guard-six.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge" /></a>
+  <a href="https://github.com/Hari-hara7/PhishGuard.git"><img src="https://img.shields.io/badge/📂_GitHub-181717?style=for-the-badge&logo=github" /></a>
+</p>
+
+---
+
+### 📈 Crypto Tracker
+> **Real-Time Cryptocurrency Intelligence Platform**
+
+<table>
+<tr>
+<td width="65%">
+
+**A state-of-the-art web application revolutionizing how users interact with cryptocurrency markets.**
+
+**🎯 Mission**: Democratize cryptocurrency knowledge and trading with an intuitive, feature-rich platform.
+
+**💎 Key Features:**
+- 📊 **Real-time Market Intelligence**: Live price feeds & market analysis
+- 👥 **Social Trading Community**: Connect with fellow crypto enthusiasts
+- 📚 **Educational Resources**: Learn from beginner to expert level
+- 🤖 **AI-Powered Insights**: Smart recommendations & market predictions
+- 📱 **Multi-Platform Support**: Seamless experience across all devices
+- ⚡ **Real-time Communication**: Socket.IO powered live updates
+
+</td>
+<td width="35%">
+<img src="crypto.png" alt="Crypto Tracker" width="100%" style="border-radius: 10px;">
+</td>
+</tr>
+</table>
+
+**Tech Stack:**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+</p>
+
+<p>
+  <a href="https://crypto-beta-five.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge" /></a>
+</p>
+
+---
+
+### 🌾 AgroPulse
+> **Smart Agricultural Marketplace Platform**
+
+<table>
+<tr>
+<td width="65%">
+
+**Empowering farmers with real-time market intelligence and direct buyer connections.**
+
+**❌ Problems Solved:**
+- Unfair pricing for farmers
+- Low bargaining power
+- Inability to decide the right time and place to sell produce
+- Middlemen-dominated markets
+- Delayed price updates
+
+**✅ Key Features:**
+- 📊 **Real-time Market Prices**: Live commodity pricing
+- 📈 **Demand Insights**: Data-driven market analysis
+- 🤝 **Direct Buyer Connections**: Eliminate middlemen
+- 💰 **Fair Pricing System**: Transparent transactions
+- 📱 **User-Friendly Interface**: Easy access for all farmers
+
+**🎯 Impact**: Increasing farmer income through efficient agricultural trade
+
+</td>
+<td width="35%">
+<img src="agropulse.png" alt="AgroPulse" width="100%" style="border-radius: 10px;">
+</td>
+</tr>
+</table>
+
+**Tech Stack:**
+<p>
+  <img src="https://img.shields.io/badge/T3_Stack-000000?style=flat&logo=create-t3-app&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=radixui&logoColor=white" />
+</p>
+
+<p>
+  <a href="https://trikernel-fn61.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge" /></a>
+</p>
 
 ---
 
