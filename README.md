@@ -22,32 +22,7 @@
   <img src="https://img.shields.io/github/languages/count/hari-hara7/hari-hara7?style=for-the-badge&logo=code&color=purple" alt="Languages" />
 </p>
 
----
 
-## 📋 Table of Contents
-
-<details>
-<summary>🗂️ Navigate through my profile</summary>
-
-- [🏠 Introduction](#-introduction)
-- [👨‍💻 About Me](#-about-me)
-- [🚀 Projects & Initiatives](#-projects--initiatives)
-- [⭐ Featured Projects](#-featured-projects)
-- [💻 Advanced Tech Stack](#-advanced-tech-stack)
-- [🤖 AI/ML Interests](#-aiml-interests)
-- [🏆 Achievements](#-achievements)
-- [📊 GitHub Statistics](#-github-statistics)
-- [🏅 GitHub Trophies](#-github-trophies)
-- [👀 Code Review Practices](#-code-review-practices)
-- [🔐 Security Practices](#-security-practices)
-- [🤝 Contribution Guide](#-contribution-guide)
-- [🎯 Fun Facts](#-fun-facts)
-- [📞 Contact & Connect](#-contact--connect)
-- [💬 How to Connect](#-how-to-connect)
-
-</details>
-
----
 
 ## 🏠 Introduction
 
