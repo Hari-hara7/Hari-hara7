@@ -81,11 +81,7 @@ Passionate about transforming ideas into reality through code. Building scalable
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full_Stack-1a1b27?style=for-the-badge&logo=vercel&logoColor=E844FF" />
-  <img src="https://img.shields.io/badge/Open_for_Startups_&_MNCs-1a1b27?style=for-the-badge&logo=github&logoColor=E844FF" />
-  <img src="https://img.shields.io/badge/Freelance_Available-1a1b27?style=for-the-badge&logo=codewars&logoColor=E844FF" />
-</p>
+
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- FEATURED PROJECTS SECTION -->
