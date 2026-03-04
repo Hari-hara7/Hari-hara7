@@ -4,7 +4,7 @@
 <!-- HEADER SECTION -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFE,50:E844FF,100:FF6B6B&height=220&section=header&text=Hariharanath%20&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Hackathon%20Champion%20%7C%20Founder&descAlignY=55&descSize=18&descColor=E0E0E0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFE,100:E844FF&height=220&section=header&text=Harihara%20Nath&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Hackathon%20Champion%20%7C%20Founder&descAlignY=55&descSize=18&descColor=E0E0E0" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E844FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%9A%80+Building+Scalable+Web+Applications;%E2%9C%A8+Transforming+Ideas+Into+Reality;%F0%9F%8E%AF+5000%2B+Users+%7C+17%2B+Happy+Clients" alt="Typing SVG" /></a>
 
@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full_Stack_Developer-1a1b27?style=for-the-badge&logo=stackoverflow&logoColor=E844FF" />
-  <img src="https://img.shields.io/badge/2+_Years_Experience-1a1b27?style=for-the-badge&logo=clockify&logoColor=E844FF" />
+  <img src="https://img.shields.io/badge/2+_Years_Experience-1a1b27?style=for-the-badge&logo=clockify&logoColor=7B2FFE" />
   <img src="https://img.shields.io/badge/Open_to_Work-1a1b27?style=for-the-badge&logo=handshake&logoColor=E844FF" />
 </p>
 
@@ -38,13 +38,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🥇_SAP_Hackfest-Winner-E844FF?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/🥇_Upgrade_Campus-1st_Place-E844FF?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/🥇_Upgrade_Campus-1st_Place-7B2FFE?style=for-the-badge&labelColor=1a1b27" />
   <img src="https://img.shields.io/badge/🥇_Web_Dev_ACE-1st_Place-E844FF?style=for-the-badge&labelColor=1a1b27" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/🥇_Acethon-1st_Place-E844FF?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/🥇_Acethon-1st_Place-7B2FFE?style=for-the-badge&labelColor=1a1b27" />
   <img src="https://img.shields.io/badge/🥈_Reality_Rewritten-2nd_Runner_Up-E844FF?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/🥈_Codesprint-2nd_Runner_Up-E844FF?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/🥈_Codesprint-2nd_Runner_Up-7B2FFE?style=for-the-badge&labelColor=1a1b27" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
@@ -81,7 +81,7 @@ Passionate about transforming ideas into reality through code. Building scalable
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full_Stack-1a1b27?style=for-the-badge&logo=vercel&logoColor=E844FF" />
-  <img src="https://img.shields.io/badge/Open_for_Startups_&_MNCs-1a1b27?style=for-the-badge&logo=github&logoColor=E844FF" />
+  <img src="https://img.shields.io/badge/Open_for_Startups_&_MNCs-1a1b27?style=for-the-badge&logo=github&logoColor=7B2FFE" />
   <img src="https://img.shields.io/badge/Freelance_Available-1a1b27?style=for-the-badge&logo=codewars&logoColor=E844FF" />
 </p>
 
@@ -125,9 +125,9 @@ A comprehensive platform offering notes and resources for B.Tech students, organ
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-1a1b27?style=flat-square&logo=nextdotjs&logoColor=E844FF" />
-  <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=E844FF" />
+  <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=7B2FFE" />
   <img src="https://img.shields.io/badge/Tailwind-1a1b27?style=flat-square&logo=tailwind-css&logoColor=E844FF" />
-  <img src="https://img.shields.io/badge/MongoDB-1a1b27?style=flat-square&logo=mongodb&logoColor=E844FF" />
+  <img src="https://img.shields.io/badge/MongoDB-1a1b27?style=flat-square&logo=mongodb&logoColor=7B2FFE" />
   <img src="https://img.shields.io/badge/Firebase-1a1b27?style=flat-square&logo=firebase&logoColor=E844FF" />
 </p>
 
@@ -166,11 +166,11 @@ A comprehensive cybersecurity platform designed for students and educational ins
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-1a1b27?style=flat-square&logo=nextdotjs&logoColor=E844FF" />
+  <img src="https://img.shields.io/badge/Next.js-1a1b27?style=flat-square&logo=nextdotjs&logoColor=7B2FFE" />
   <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=E844FF" />
-  <img src="https://img.shields.io/badge/Tailwind-1a1b27?style=flat-square&logo=tailwind-css&logoColor=E844FF" />
+  <img src="https://img.shields.io/badge/Tailwind-1a1b27?style=flat-square&logo=tailwind-css&logoColor=7B2FFE" />
   <img src="https://img.shields.io/badge/Firebase-1a1b27?style=flat-square&logo=firebase&logoColor=E844FF" />
-  <img src="https://img.shields.io/badge/ML-1a1b27?style=flat-square&logo=tensorflow&logoColor=E844FF" />
+  <img src="https://img.shields.io/badge/ML-1a1b27?style=flat-square&logo=tensorflow&logoColor=7B2FFE" />
 </p>
 
 <p align="center">
@@ -209,9 +209,9 @@ A state-of-the-art web application revolutionizing how users interact with crypt
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-1a1b27?style=flat-square&logo=react&logoColor=E844FF" />
-  <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=E844FF" />
+  <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=7B2FFE" />
   <img src="https://img.shields.io/badge/Node.js-1a1b27?style=flat-square&logo=node.js&logoColor=E844FF" />
-  <img src="https://img.shields.io/badge/MongoDB-1a1b27?style=flat-square&logo=mongodb&logoColor=E844FF" />
+  <img src="https://img.shields.io/badge/MongoDB-1a1b27?style=flat-square&logo=mongodb&logoColor=7B2FFE" />
   <img src="https://img.shields.io/badge/Socket.IO-1a1b27?style=flat-square&logo=socket.io&logoColor=E844FF" />
 </p>
 
@@ -250,9 +250,9 @@ Empowering farmers with real-time market intelligence and direct buyer connectio
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/T3_Stack-1a1b27?style=flat-square&logo=create-t3-app&logoColor=E844FF" />
+  <img src="https://img.shields.io/badge/T3_Stack-1a1b27?style=flat-square&logo=create-t3-app&logoColor=7B2FFE" />
   <img src="https://img.shields.io/badge/Next.js-1a1b27?style=flat-square&logo=nextdotjs&logoColor=E844FF" />
-  <img src="https://img.shields.io/badge/Prisma-1a1b27?style=flat-square&logo=prisma&logoColor=E844FF" />
+  <img src="https://img.shields.io/badge/Prisma-1a1b27?style=flat-square&logo=prisma&logoColor=7B2FFE" />
   <img src="https://img.shields.io/badge/Tailwind-1a1b27?style=flat-square&logo=tailwind-css&logoColor=E844FF" />
 </p>
 
@@ -277,9 +277,9 @@ Empowering farmers with real-time market intelligence and direct buyer connectio
 ### 🎨 Frontend
 <p align="center">
   <img src="https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=E844FF" /><br/>
-  <img src="https://img.shields.io/badge/Next.js-1a1b27?style=for-the-badge&logo=nextdotjs&logoColor=E844FF" /><br/>
+  <img src="https://img.shields.io/badge/Next.js-1a1b27?style=for-the-badge&logo=nextdotjs&logoColor=7B2FFE" /><br/>
   <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=E844FF" /><br/>
-  <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=E844FF" />
+  <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=7B2FFE" />
 </p>
 
 </td>
@@ -287,9 +287,9 @@ Empowering farmers with real-time market intelligence and direct buyer connectio
 
 ### ⚙️ Backend
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=nodedotjs&logoColor=E844FF" /><br/>
+  <img src="https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=nodedotjs&logoColor=7B2FFE" /><br/>
   <img src="https://img.shields.io/badge/Express.js-1a1b27?style=for-the-badge&logo=express&logoColor=E844FF" /><br/>
-  <img src="https://img.shields.io/badge/tRPC-1a1b27?style=for-the-badge&logo=trpc&logoColor=E844FF" /><br/>
+  <img src="https://img.shields.io/badge/tRPC-1a1b27?style=for-the-badge&logo=trpc&logoColor=7B2FFE" /><br/>
   <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=E844FF" />
 </p>
 
@@ -299,9 +299,9 @@ Empowering farmers with real-time market intelligence and direct buyer connectio
 ### 🗄️ Database
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=E844FF" /><br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=E844FF" /><br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=7B2FFE" /><br/>
   <img src="https://img.shields.io/badge/Firebase-1a1b27?style=for-the-badge&logo=firebase&logoColor=E844FF" /><br/>
-  <img src="https://img.shields.io/badge/Prisma-1a1b27?style=for-the-badge&logo=prisma&logoColor=E844FF" />
+  <img src="https://img.shields.io/badge/Prisma-1a1b27?style=for-the-badge&logo=prisma&logoColor=7B2FFE" />
 </p>
 
 </td>
@@ -315,7 +315,7 @@ Empowering farmers with real-time market intelligence and direct buyer connectio
 ### 🎭 Styling & UI
 <p align="center">
   <img src="https://img.shields.io/badge/TailwindCSS-1a1b27?style=for-the-badge&logo=tailwind-css&logoColor=E844FF" />
-  <img src="https://img.shields.io/badge/shadcn/ui-1a1b27?style=for-the-badge&logo=radixui&logoColor=E844FF" />
+  <img src="https://img.shields.io/badge/shadcn/ui-1a1b27?style=for-the-badge&logo=radixui&logoColor=7B2FFE" />
   <img src="https://img.shields.io/badge/Framer_Motion-1a1b27?style=for-the-badge&logo=framer&logoColor=E844FF" />
 </p>
 
@@ -324,9 +324,9 @@ Empowering farmers with real-time market intelligence and direct buyer connectio
 
 ### 🔧 DevOps & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&logo=docker&logoColor=E844FF" />
+  <img src="https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&logo=docker&logoColor=7B2FFE" />
   <img src="https://img.shields.io/badge/GitHub_Actions-1a1b27?style=for-the-badge&logo=github-actions&logoColor=E844FF" />
-  <img src="https://img.shields.io/badge/Vercel-1a1b27?style=for-the-badge&logo=vercel&logoColor=E844FF" />
+  <img src="https://img.shields.io/badge/Vercel-1a1b27?style=for-the-badge&logo=vercel&logoColor=7B2FFE" />
   <img src="https://img.shields.io/badge/AWS-1a1b27?style=for-the-badge&logo=amazon-aws&logoColor=E844FF" />
 </p>
 
@@ -383,7 +383,7 @@ Freelance Developer
 <!-- Quick Stats Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Total_Repos-50+-E844FF?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Total_Commits-1000+-E844FF?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Total_Commits-1000+-7B2FFE?style=for-the-badge&labelColor=1a1b27" />
   <img src="https://img.shields.io/badge/Pull_Requests-Active-E844FF?style=for-the-badge&labelColor=1a1b27" />
 </p>
 
@@ -391,21 +391,21 @@ Freelance Developer
 
 <!-- Stats + Streak Row -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hari-hara7&show_icons=true&bg_color=1a1b27&title_color=E844FF&icon_color=E844FF&text_color=FFFFFF&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hari-hara7&hide_border=true&background=1a1b27&ring=E844FF&fire=E844FF&currStreakLabel=E844FF&sideLabels=E844FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&border_radius=15&stroke=E844FF" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hari-hara7&show_icons=true&bg_color=1a1b27&title_color=E844FF&icon_color=7B2FFE&text_color=FFFFFF&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hari-hara7&hide_border=true&background=1a1b27&ring=7B2FFE&fire=E844FF&currStreakLabel=E844FF&sideLabels=7B2FFE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&border_radius=15&stroke=7B2FFE" alt="GitHub Streak" />
 </p>
 
 <br/>
 
 <!-- Languages Card -->
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&hide_border=true&include_all_commits=true&count_private=true&langs_count=10&bg_color=1a1b27&title_color=E844FF&text_color=FFFFFF&border_radius=15" alt="Top Languages" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&hide_border=true&include_all_commits=true&count_private=true&langs_count=10&bg_color=1a1b27&title_color=7B2FFE&text_color=FFFFFF&border_radius=15" alt="Top Languages" />
 </p>
 
 <br/>
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-hara7&custom_title=📈%20Contribution%20Graph&bg_color=1a1b27&color=E844FF&line=E844FF&point=FFFFFF&area=true&hide_border=true&area_color=E844FF" alt="Contribution Graph" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-hara7&custom_title=📈%20Contribution%20Graph&bg_color=1a1b27&color=E844FF&line=7B2FFE&point=E844FF&area=true&hide_border=true&area_color=7B2FFE" alt="Contribution Graph" width="98%"/>
 
 <br/><br/>
 
@@ -426,10 +426,10 @@ Freelance Developer
 <!-- Pinned Repos -->
 <p align="center">
   <a href="https://github.com/Hari-hara7/Academicpal--login">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hari-hara7&repo=Academicpal--login&bg_color=1a1b27&title_color=E844FF&icon_color=E844FF&text_color=FFFFFF&hide_border=true&border_radius=15" alt="Academic Pal Repo" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hari-hara7&repo=Academicpal--login&bg_color=1a1b27&title_color=E844FF&icon_color=7B2FFE&text_color=FFFFFF&hide_border=true&border_radius=15" alt="Academic Pal Repo" />
   </a>
   <a href="https://github.com/Hari-hara7/PhishGuard">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hari-hara7&repo=PhishGuard&bg_color=1a1b27&title_color=E844FF&icon_color=E844FF&text_color=FFFFFF&hide_border=true&border_radius=15" alt="PhishGuard Repo" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hari-hara7&repo=PhishGuard&bg_color=1a1b27&title_color=7B2FFE&icon_color=E844FF&text_color=FFFFFF&hide_border=true&border_radius=15" alt="PhishGuard Repo" />
   </a>
 </p>
 
@@ -445,11 +445,11 @@ Freelance Developer
 
 <p align="center">
   <a href="mailto:hariharanath247@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=E844FF" /></a>
-  <a href="https://linkedin.com/in/Harihara-nath"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=E844FF" /></a>
+  <a href="https://linkedin.com/in/Harihara-nath"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7B2FFE" /></a>
   <a href="https://github.com/Hari-hara7"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=E844FF" /></a>
-  <a href="https://x.com/@Hariharana70309"><img src="https://img.shields.io/badge/X-1a1b27?style=for-the-badge&logo=x&logoColor=E844FF" /></a>
+  <a href="https://x.com/@Hariharana70309"><img src="https://img.shields.io/badge/X-1a1b27?style=for-the-badge&logo=x&logoColor=7B2FFE" /></a>
   <a href="https://instagram.com/Hari_hara_nath77"><img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=E844FF" /></a>
-  <a href="https://hari-hara7.github.io"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=firefox&logoColor=E844FF" /></a>
+  <a href="https://hari-hara7.github.io"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=firefox&logoColor=7B2FFE" /></a>
 </p>
 
 <br/>
@@ -460,9 +460,9 @@ Freelance Developer
 
 <p align="center">
   <img src="https://img.shields.io/badge/Startup_Collaborations-E844FF?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Freelance_Projects-E844FF?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Freelance_Projects-7B2FFE?style=for-the-badge&labelColor=1a1b27" />
   <img src="https://img.shields.io/badge/Technical_Consulting-E844FF?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Open_Source-E844FF?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Open_Source-7B2FFE?style=for-the-badge&labelColor=1a1b27" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
@@ -471,7 +471,7 @@ Freelance Developer
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFE,50:E844FF,100:FF6B6B&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFE,100:E844FF&height=120&section=footer" width="100%"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Thanks_for_Visiting!-1a1b27?style=for-the-badge&logo=github&logoColor=E844FF" />
