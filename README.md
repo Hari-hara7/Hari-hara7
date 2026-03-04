@@ -61,7 +61,7 @@
 <tr>
 <td width="55%">
 
-### Hi, I'm Harihara Nath! 👋
+### Hi, I'm Hariharanath! 👋
 
 **B.Tech CSE** at **NMAMIT** | **Founder & Full Stack Developer**
 
