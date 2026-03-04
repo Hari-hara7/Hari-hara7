@@ -4,7 +4,7 @@
 <!-- HEADER SECTION -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFE,50:E844FF,100:FF6B6B&height=220&section=header&text=Harihara%20Nath&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Hackathon%20Champion%20%7C%20Founder&descAlignY=55&descSize=18&descColor=E0E0E0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFE,50:E844FF,100:FF6B6B&height=220&section=header&text=Hariharanath%20&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Hackathon%20Champion%20%7C%20Founder&descAlignY=55&descSize=18&descColor=E0E0E0" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E844FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%9A%80+Building+Scalable+Web+Applications;%E2%9C%A8+Transforming+Ideas+Into+Reality;%F0%9F%8E%AF+5000%2B+Users+%7C+17%2B+Happy+Clients" alt="Typing SVG" /></a>
 
@@ -75,13 +75,15 @@ Passionate about transforming ideas into reality through code. Building scalable
 - 🌟 **10+ Open Source Contributions**
 
 </td>
-<td width="45%">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-</td>
+
 </tr>
 </table>
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Full_Stack-1a1b27?style=for-the-badge&logo=vercel&logoColor=E844FF" />
+  <img src="https://img.shields.io/badge/Open_for_Startups_&_MNCs-1a1b27?style=for-the-badge&logo=github&logoColor=E844FF" />
+  <img src="https://img.shields.io/badge/Freelance_Available-1a1b27?style=for-the-badge&logo=codewars&logoColor=E844FF" />
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- FEATURED PROJECTS SECTION -->
@@ -417,7 +419,8 @@ Freelance Developer
 <br/><br/>
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Hari-hara7&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="98%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Hari-hara7&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" width="98%"/>
+
 <br/><br/>
 
 <!-- Pinned Repos -->
