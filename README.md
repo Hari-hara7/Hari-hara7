@@ -421,8 +421,7 @@ Freelance Developer
 <br/><br/>
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Hari-hara7&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" width="98%"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Hari-hara7&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="98%"/>
 <br/><br/>
 
 <!-- Pinned Repos -->
