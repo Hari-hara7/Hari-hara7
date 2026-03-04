@@ -1,6 +1,5 @@
 <div align="center">
 
-![Header](BlackandBlueNeonTechnologyVideo-ezgif.com-video-to-gif-converter.gif)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full_Stack_Developer-000000?style=for-the-badge&logoColor=00FFFF" />
