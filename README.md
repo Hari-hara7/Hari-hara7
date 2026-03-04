@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFE,100:E844FF&height=220&section=header&text=Hariharanath%20&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Hackathon%20Champion%20%7C%20Founder&descAlignY=55&descSize=18&descColor=E0E0E0" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E844FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%9A%80+Building+Scalable+Web+Applications;%E2%9C%A8+Transforming+Ideas+Into+Reality;%F0%9F%8E%AF+5000%2B+Users+%7C+17%2B+Happy+Clients" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E844FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=+Building+Scalable+Web+Applications;%E2%9C%A8+Transforming+Ideas+Into+Reality;%F0%9F%8E%AF+5000%2B+Users+%7C+17%2B+Happy+Clients" alt="Typing SVG" /></a>
 
 <br/>
 
