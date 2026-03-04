@@ -1,5 +1,12 @@
 <div align="center">
 
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FFFF&height=200&section=header&text=Harihara%20Nath&fontSize=50&fontColor=00FFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Hackathon%20Champion%20|%20Founder&descAlignY=55&descSize=18" width="100%"/>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Scalable+Web+Applications;Transforming+Ideas+Into+Reality;5000%2B+Users+%7C+17%2B+Happy+Clients" alt="Typing SVG" /></a>
+
+<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full_Stack_Developer-000000?style=for-the-badge&logoColor=00FFFF" />
@@ -9,15 +16,54 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hari-hara7&label=Profile%20Views&color=00FFFF&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/hari-hara7?label=Followers&style=flat-square&color=00FFFF&labelColor=000000" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/hari-hara7?label=Stars&style=flat-square&color=00FFFF&labelColor=000000" alt="Stars" />
 </p>
 
 ---
 
-## About Me
+## 🏆 Hackathon Wins
+
+<img src="download.png" alt="Hackathon Wins Collage" width="100%" style="border-radius: 15px; margin: 20px 0;"/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🥇_SAP_Hackfest-Winner-00FFFF?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🥇_Upgrade_Campus-1st_Place-00FFFF?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🥇_Web_Dev_ACE-1st_Place-00FFFF?style=for-the-badge&labelColor=000000" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🥇_Acethon-1st_Place-00FFFF?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🥈_Reality_Rewritten-2nd_Runner_Up-00FFFF?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🥈_Codesprint-2nd_Runner_Up-00FFFF?style=for-the-badge&labelColor=000000" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+### Hi, I'm Harihara Nath! 👋
 
 **B.Tech CSE** at **NMAMIT** | **Founder & Full Stack Developer**
 
 Passionate about transforming ideas into reality through code. Building scalable web applications and educational platforms that create meaningful impact.
+
+- 🎓 Currently pursuing B.Tech in Computer Science
+- 🚀 Founder of **Academic Pal** (5000+ Active Users)
+- 💼 Co-founder of **We4Tech Community**
+- 🏆 Multiple **Hackathon Champion**
+- 💻 **17+ Happy Freelance Clients**
+- 🌟 **10+ Open Source Contributions**
+
+</td>
+<td width="40%">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full_Stack-000000?style=for-the-badge&logo=vercel&logoColor=00FFFF" />
@@ -27,10 +73,10 @@ Passionate about transforming ideas into reality through code. Building scalable
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
-  <h3>Technical Excellence in Action</h3>
+  <img src="https://img.shields.io/badge/⭐_Technical_Excellence_in_Action-000000?style=for-the-badge&logoColor=00FFFF" />
 </div>
 
 ---
@@ -208,11 +254,11 @@ Empowering farmers with real-time market intelligence and direct buyer connectio
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Frontend
+### 🎨 Frontend
 <p align="center">
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FFFF" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00FFFF" />
@@ -220,21 +266,21 @@ Empowering farmers with real-time market intelligence and direct buyer connectio
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FFFF" />
 </p>
 
-### Styling
+### 🎭 Styling
 <p align="center">
   <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=00FFFF" />
   <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=radixui&logoColor=00FFFF" />
   <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=00FFFF" />
 </p>
 
-### Backend
+### ⚙️ Backend
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FFFF" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=00FFFF" />
   <img src="https://img.shields.io/badge/tRPC-000000?style=for-the-badge&logo=trpc&logoColor=00FFFF" />
 </p>
 
-### Databases
+### 🗄️ Databases
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FFFF" />
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FFFF" />
@@ -243,7 +289,7 @@ Empowering farmers with real-time market intelligence and direct buyer connectio
   <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=00FFFF" />
 </p>
 
-### DevOps & Tools
+### 🔧 DevOps & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FFFF" />
   <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=00FFFF" />
@@ -255,65 +301,44 @@ Empowering farmers with real-time market intelligence and direct buyer connectio
 
 ---
 
-## Achievements
-
-<table>
-<tr>
-<td width="50%">
-
-### Hackathon Wins
-- **SAP Hackfest Winner** - Regional Level
-- **Upgrade Campus Hackathon** - First Place
-- **Web Development ACE Competition** - First Place
-- **Acethon** - First Place
-- **Reality Rewritten 24hrs** - 2nd Runner up
-- **Codesprint Hackathon 32hrs** - 2nd Runner up
-- **Srinathon** - Runner up (2 problem statements)
-
-</td>
-<td width="50%">
-
-### Professional
-- **Founder** - Academic Pal (5000+ Users)
-- **Co-founder** - We4Tech Community
-- **Freelance** - 17+ Happy Clients
-- **Open Source** - 10+ Contributions
-
-</td>
-</tr>
-</table>
-
----
-
-## GitHub Statistics
+## 🏅 Achievements & Impact
 
 <div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hari-hara7&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hari-hara7&theme=dark&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&hide_border=true&include_all_commits=true&count_private=true&langs_count=8&bg_color=000000&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-hara7&theme=react-dark&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hari-hara7&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
-</p>
+| 🏆 Hackathons | 💼 Professional | 📈 Impact |
+|:---:|:---:|:---:|
+| **7+ Hackathon Wins** | **Founder** - Academic Pal | **5000+ Users** |
+| SAP Hackfest Winner | **Co-founder** - We4Tech | **17+ Clients** |
+| Multiple 1st Places | Freelance Developer | **10+ Open Source** |
 
 </div>
 
 ---
 
-## Connect
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hari-hara7&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&hide_border=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hari-hara7&theme=dark&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&hide_border=true&include_all_commits=true&count_private=true&langs_count=8&bg_color=000000&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-hara7&theme=react-dark&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="98%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hari-hara7&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -326,7 +351,7 @@ Empowering farmers with real-time market intelligence and direct buyer connectio
   <a href="https://hari-hara7.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00FFFF" /></a>
 </p>
 
-### Open To
+### 💼 Open To
 <p align="center">
   <img src="https://img.shields.io/badge/Startup_Collaborations-000000?style=for-the-badge&logoColor=00FFFF" />
   <img src="https://img.shields.io/badge/Freelance_Projects-000000?style=for-the-badge&logoColor=00FFFF" />
@@ -340,11 +365,17 @@ Empowering farmers with real-time market intelligence and direct buyer connectio
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FFFF&height=120&section=footer" width="100%"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made_with_Code-000000?style=for-the-badge&logo=github&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/Thanks_for_Visiting!-000000?style=for-the-badge&logo=github&logoColor=00FFFF" />
 </p>
+
+<p align="center">
+  <b>⭐ Star my repos if you find them useful!</b>
+</p>
+
+**Made with 💙 and Code**
 
 </div>
 
