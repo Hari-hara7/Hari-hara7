@@ -7,10 +7,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=root%40hari%3A~%24+whoami;Full+Stack+Developer+%2F+Founder+%2F+Hacker;root%40hari%3A~%24+uptime+--since+2022;Building+products+that+actually+ship.)](https://git.io/typing-svg)
 
 <br/>
+
 ![](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-FF6B00?style=flat-square&labelColor=0d0d0d)
 ![](https://img.shields.io/badge/LOCATION-INDIA-FF6B00?style=flat-square&labelColor=0d0d0d)
 ![](https://komarev.com/ghpvc/?username=hari-hara7&label=VISITORS&color=FF6B00&style=flat-square&labelColor=0d0d0d)
-
 
 </div>
 
