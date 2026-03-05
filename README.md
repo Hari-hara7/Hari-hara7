@@ -211,6 +211,30 @@ Currently open to **full-time roles**, **startups**, and **freelance** work.
 
 ---
 
+**`$ ossinsight --user hari-hara7`**
+
+<br/>
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=154905590" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154905590&image_size=auto&color_scheme=dark" width="771">
+    <img alt="Dashboard stats of @Hari-hara7" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154905590&image_size=auto&color_scheme=light" width="771">
+  </picture>
+</a>
+
+<br/>
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=154905590&period=all_times" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=154905590&period=all_times&image_size=auto&color_scheme=dark">
+    <img alt="Contribution Time Distribution of @Hari-hara7" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=154905590&period=all_times&image_size=auto&color_scheme=light">
+  </picture>
+</a>
+
+<br/>
+
+---
+
 <!-- CONNECT -->
 
 **`$ ping hariharanath`**
