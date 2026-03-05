@@ -215,7 +215,9 @@ Currently open to **full-time roles**, **startups**, and **freelance** work.
 
 <br/>
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=154905590" target="_blank">
+📊 **GitHub Dashboard Statistics**
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=154905590" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154905590&image_size=auto&color_scheme=dark" width="771">
     <img alt="Dashboard stats of @Hari-hara7" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154905590&image_size=auto&color_scheme=light" width="771">
@@ -224,16 +226,75 @@ Currently open to **full-time roles**, **startups**, and **freelance** work.
 
 <br/>
 
-<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=154905590&period=all_times" target="_blank">
+📊 **GitHub Dashboard Statistics** *(compact)*
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=154905590" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=154905590&period=all_times&image_size=auto&color_scheme=dark">
-    <img alt="Contribution Time Distribution of @Hari-hara7" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=154905590&period=all_times&image_size=auto&color_scheme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154905590&image_size=auto&color_scheme=dark">
+    <img alt="Dashboard stats of @Hari-hara7" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154905590&image_size=auto&color_scheme=light">
   </picture>
 </a>
 
 <br/>
 
-<a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=YOUR_REPO_ID" target="_blank">
+📊 **GitHub Dashboard Statistics** *(variant 3)*
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=154905590" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154905590&image_size=auto&color_scheme=dark">
+    <img alt="Dashboard stats of @Hari-hara7" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154905590&image_size=auto&color_scheme=light">
+  </picture>
+</a>
+
+<br/>
+
+📊 **GitHub Dashboard Statistics** *(variant 4)*
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=154905590" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154905590&image_size=auto&color_scheme=dark">
+    <img alt="Dashboard stats of @Hari-hara7" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154905590&image_size=auto&color_scheme=light">
+  </picture>
+</a>
+
+<br/>
+
+📊 **GitHub Dashboard Statistics** *(variant 5)*
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=154905590" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154905590&image_size=auto&color_scheme=dark">
+    <img alt="Dashboard stats of @Hari-hara7" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154905590&image_size=auto&color_scheme=light">
+  </picture>
+</a>
+
+<br/>
+
+📊 **GitHub Dashboard Statistics** *(variant 6)*
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=154905590" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154905590&image_size=auto&color_scheme=dark">
+    <img alt="Dashboard stats of @Hari-hara7" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154905590&image_size=auto&color_scheme=light">
+  </picture>
+</a>
+
+<br/>
+
+📊 **GitHub Dashboard Statistics** *(variant 7)*
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=154905590" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154905590&image_size=auto&color_scheme=dark">
+    <img alt="Dashboard stats of @Hari-hara7" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154905590&image_size=auto&color_scheme=light">
+  </picture>
+</a>
+
+<br/>
+
+📈 **Repository Activity Trends**
+
+<a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=YOUR_REPO_ID" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=YOUR_REPO_ID&image_size=auto&color_scheme=dark">
     <img alt="Activity Trends" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=YOUR_REPO_ID&image_size=auto&color_scheme=light">
@@ -242,25 +303,42 @@ Currently open to **full-time roles**, **startups**, and **freelance** work.
 
 <br/>
 
-<a href="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month?repo_id=YOUR_REPO_ID" target="_blank">
+⏰ **Contribution Time Distribution**
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=154905590&period=all_times" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=154905590&period=all_times&image_size=auto&color_scheme=dark" width="721">
+    <img alt="Contribution Time Distribution of @Hari-hara7" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=154905590&period=all_times&image_size=auto&color_scheme=light" width="721">
+  </picture>
+</a>
+
+<br/>
+
+🔀 **Pull Request Size per Month**
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month?repo_id=YOUR_REPO_ID" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=YOUR_REPO_ID&image_size=auto&color_scheme=dark">
-    <img alt="Pull Request Size per Month" src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=YOUR_REPO_ID&image_size=auto&color_scheme=light">
+    <img alt="Pull Request Size of Repo" src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=YOUR_REPO_ID&image_size=auto&color_scheme=light">
   </picture>
 </a>
 
 <br/>
 
-<a href="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month?repo_id=YOUR_REPO_ID" target="_blank">
+🧑‍💻 **Pushes & Commits per Month**
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month?repo_id=YOUR_REPO_ID" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=YOUR_REPO_ID&image_size=auto&color_scheme=dark">
-    <img alt="Pushes and Commits per Month" src="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=YOUR_REPO_ID&image_size=auto&color_scheme=light">
+    <img alt="Pushes and Commits of Repo" src="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=YOUR_REPO_ID&image_size=auto&color_scheme=light">
   </picture>
 </a>
 
 <br/>
 
-<a href="https://next.ossinsight.io/widgets/official/analyze-repo-issue-opened-and-closed?repo_id=YOUR_REPO_ID" target="_blank">
+🐛 **Issues Opened vs Closed**
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-repo-issue-opened-and-closed?repo_id=YOUR_REPO_ID" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-issue-opened-and-closed/thumbnail.png?repo_id=YOUR_REPO_ID&image_size=auto&color_scheme=dark">
     <img alt="Issues Opened and Closed" src="https://next.ossinsight.io/widgets/official/analyze-repo-issue-opened-and-closed/thumbnail.png?repo_id=YOUR_REPO_ID&image_size=auto&color_scheme=light">
@@ -269,7 +347,9 @@ Currently open to **full-time roles**, **startups**, and **freelance** work.
 
 <br/>
 
-<a href="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month?repo_id=YOUR_REPO_ID" target="_blank">
+📊 **Lines of Code Changes**
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month?repo_id=YOUR_REPO_ID" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=YOUR_REPO_ID&image_size=auto&color_scheme=dark">
     <img alt="Lines of Code Changes" src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=YOUR_REPO_ID&image_size=auto&color_scheme=light">
@@ -278,7 +358,20 @@ Currently open to **full-time roles**, **startups**, and **freelance** work.
 
 <br/>
 
-<a href="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map?repo_id=YOUR_REPO_ID&activity=stars" target="_blank">
+🔀 **Pull Request Size** *(detailed)*
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month?repo_id=YOUR_REPO_ID" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=YOUR_REPO_ID&image_size=auto&color_scheme=dark">
+    <img alt="Pull Request Size" src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=YOUR_REPO_ID&image_size=auto&color_scheme=light">
+  </picture>
+</a>
+
+<br/>
+
+⭐ **Star Geographic Distribution**
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map?repo_id=YOUR_REPO_ID&activity=stars" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?repo_id=YOUR_REPO_ID&activity=stars&image_size=auto&color_scheme=dark">
     <img alt="Star Geographical Distribution" src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?repo_id=YOUR_REPO_ID&activity=stars&image_size=auto&color_scheme=light">
