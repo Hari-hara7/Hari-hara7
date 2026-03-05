@@ -1,373 +1,168 @@
 <div align="center">
 
-```
-██╗  ██╗ █████╗ ██████╗ ██╗██╗  ██╗ █████╗ ██████╗  █████╗ ███╗   ██╗ █████╗ ████████╗██╗  ██╗
-██║  ██║██╔══██╗██╔══██╗██║██║  ██║██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗╚══██╔══╝██║  ██║
-███████║███████║██████╔╝██║███████║███████║██████╔╝███████║██╔██╗ ██║███████║   ██║   ███████║
-██╔══██║██╔══██║██╔══██╗██║██╔══██║██╔══██║██╔══██╗██╔══██║██║╚██╗██║██╔══██║   ██║   ██╔══██║
-██║  ██║██║  ██║██║  ██║██║██║  ██║██║  ██║██║  ██║██║  ██║██║ ╚████║██║  ██║   ██║   ██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=root%40hari%3A~%24+whoami;Full+Stack+Developer+%2F+Founder+%2F+Hacker;root%40hari%3A~%24+uptime+--since+2022;Building+products+that+actually+ship.)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FF6B00&height=1&section=header" width="100%"/>
 
 <br/>
 
-![](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-FF6B00?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/LOCATION-INDIA-FF6B00?style=flat-square&labelColor=0d0d0d)
-![](https://komarev.com/ghpvc/?username=hari-hara7&label=VISITORS&color=FF6B00&style=flat-square&labelColor=0d0d0d)
+# Hariharanath
+
+**Designer &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; Problem Solver**
+
+<sub>I build products that look great, work flawlessly, and solve real problems.</sub>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=15&duration=3000&pause=1200&color=FF6B00&center=true&vCenter=true&width=520&lines=Crafting+interfaces+people+love+to+use.;Engineering+backends+that+scale.;Turning+complex+problems+into+simple+solutions.;Founder+of+Academic+Pal+%E2%80%94+5000%2B+users.;7%2B+Hackathon+wins+across+India.)](https://git.io/typing-svg)
+
+<br/>
+
+![](https://img.shields.io/badge/Open%20to%20Work-FF6B00?style=flat-square&labelColor=111111&color=FF6B00)
+&nbsp;
+![](https://img.shields.io/badge/B.Tech%20CSE%20%40%20NMAMIT-111111?style=flat-square&labelColor=111111&color=333333)
+&nbsp;
+![](https://komarev.com/ghpvc/?username=hari-hara7&label=Profile+Views&color=FF6B00&style=flat-square&labelColor=111111)
 
 </div>
 
-<br/>
+<br/><br/>
 
-```bash
-$ cat /etc/profile
-```
+---
 
-```
-  name     : Hariharanath
-  role     : Full Stack Developer & Founder
-  college  : B.Tech CSE @ NMAMIT (2026)
-  founded  : Academic Pal (5000+ users) · We4Tech Community
-  wins     : 7+ Hackathon Champion — SAP Hackfest · Acethon · Web Dev ACE
-  clients  : 17+ Freelance Projects Delivered
-  seeking  : Startups · MNCs · Consulting · Freelance
-```
+## About
 
-<br/>
+I'm a **Full Stack Developer** and **UI/UX Designer** from India who believes that great software is both functional *and* beautiful. I obsess over clean interfaces, scalable architecture, and user experience that feels effortless.
 
-```bash
-$ ls -la ~/projects/
-```
-
-```
-drwxr-xr-x  academic-pal/       ── Ed-tech platform · 5000+ active users
-drwxr-xr-x  phishguard/         ── AI cybersecurity · Chrome extension
-drwxr-xr-x  crypto-tracker/     ── Real-time market intelligence · Socket.IO
-drwxr-xr-x  agropulse/          ── AgriTech marketplace · Direct trade
-```
+- 🎓 &nbsp;B.Tech Computer Science at **NMAMIT** (2026)
+- 🚀 &nbsp;Founder of **[Academic Pal](https://academicpal.in)** — serving 5000+ students
+- 🤝 &nbsp;Co-founder of **We4Tech**, a developer community
+- 🏆 &nbsp;**7+ Hackathon wins** across India including SAP Hackfest & Acethon
+- 💼 &nbsp;**17+ freelance clients** — startups to individuals
+- 🌱 &nbsp;**10+ open source contributions**
+- 💬 &nbsp;Always up for collabs, consulting, and conversations about design & tech
 
 <br/>
 
-**`~/projects/academic-pal`**
-> Notes, resources & study tools for B.Tech students. Organized by year, branch & subject. Serving 5000+ students across multiple colleges.
+---
 
-`Next.js` `TypeScript` `MongoDB` `Firebase` `TailwindCSS`
-&nbsp; → &nbsp;[academicpal.in](https://academicpal.in) &nbsp;|&nbsp; [github](https://github.com/Hari-hara7/Academicpal--login)
+## What I Do
 
-<br/>
-
-**`~/projects/phishguard`**
-> AI-powered phishing detection platform. Scans links, documents & emails in real-time. Comes with gamified security training + a Chrome Extension.
-
-`Next.js` `TypeScript` `TensorFlow` `Firebase` `TailwindCSS`
-&nbsp; → &nbsp;[live demo](https://phish-guard-six.vercel.app) &nbsp;|&nbsp; [github](https://github.com/Hari-hara7/PhishGuard)
-
-<br/>
-
-**`~/projects/crypto-tracker`**
-> Live crypto intelligence with AI-driven insights, social trading community, and real-time Socket.IO-powered price feeds.
-
-`React` `TypeScript` `Node.js` `MongoDB` `Socket.IO`
-&nbsp; → &nbsp;[live demo](https://crypto-beta-five.vercel.app)
-
-<br/>
-
-**`~/projects/agropulse`**
-> Smart agri-marketplace connecting farmers directly to buyers. Real-time commodity pricing, zero middlemen, transparent transactions.
-
-`Next.js` `T3 Stack` `Prisma` `TailwindCSS`
-&nbsp; → &nbsp;[live demo](https://trikernel-fn61.vercel.app)
-
-<br/>
-
-```bash
-$ cat ~/.config/stack
 ```
-
-```yaml
-frontend:
-  - React · Next.js · TypeScript · JavaScript
-  - TailwindCSS · shadcn/ui · Framer Motion
-
-backend:
-  - Node.js · Express · tRPC · Python
-
-database:
-  - MongoDB · PostgreSQL · Firebase · Prisma
-
-devops:
-  - Docker · GitHub Actions · Vercel · AWS
+  Design          →   UI/UX, Figma, Design Systems, Component Libraries
+  Frontend        →   React, Next.js, TypeScript, TailwindCSS, Framer Motion
+  Backend         →   Node.js, Express, tRPC, Python
+  Database        →   MongoDB, PostgreSQL, Firebase, Prisma
+  DevOps          →   Docker, GitHub Actions, Vercel, AWS
 ```
 
 <br/>
 
-```bash
-$ github-stats --user hari-hara7
-```
+---
+
+## Featured Work
+
+<br/>
+
+#### 🎓 &nbsp;[Academic Pal](https://academicpal.in) &nbsp;—&nbsp; *EdTech Platform*
+Designed and built a full-stack study resource platform for B.Tech students across years and branches. Clean UI, smart search, curated notes — **5000+ active users** and growing.
+
+`Next.js` &nbsp;`TypeScript` &nbsp;`MongoDB` &nbsp;`Firebase` &nbsp;`TailwindCSS`
+&nbsp;&nbsp;[→ Live](https://academicpal.in) &nbsp;&nbsp;[→ Repo](https://github.com/Hari-hara7/Academicpal--login)
+
+<br/>
+
+#### 🛡️ &nbsp;[PhishGuard](https://phish-guard-six.vercel.app) &nbsp;—&nbsp; *Cybersecurity Platform*
+An AI-powered platform that detects phishing links, scans documents, and flags suspicious emails. Built with a Chrome Extension and gamified security training — won at SAP Hackfest.
+
+`Next.js` &nbsp;`TypeScript` &nbsp;`TensorFlow` &nbsp;`Firebase` &nbsp;`TailwindCSS`
+&nbsp;&nbsp;[→ Live](https://phish-guard-six.vercel.app) &nbsp;&nbsp;[→ Repo](https://github.com/Hari-hara7/PhishGuard)
+
+<br/>
+
+#### 📈 &nbsp;[Crypto Tracker](https://crypto-beta-five.vercel.app) &nbsp;—&nbsp; *Real-time Intelligence*
+Live crypto market dashboard with Socket.IO price feeds, AI-powered insights, and a social trading layer for community discussions.
+
+`React` &nbsp;`TypeScript` &nbsp;`Node.js` &nbsp;`MongoDB` &nbsp;`Socket.IO`
+&nbsp;&nbsp;[→ Live](https://crypto-beta-five.vercel.app)
+
+<br/>
+
+#### 🌾 &nbsp;[AgroPulse](https://trikernel-fn61.vercel.app) &nbsp;—&nbsp; *AgriTech Marketplace*
+Direct farmer-to-buyer marketplace with real-time commodity pricing, transparent transactions, and demand analytics — eliminating the middleman.
+
+`Next.js` &nbsp;`T3 Stack` &nbsp;`Prisma` &nbsp;`TailwindCSS`
+&nbsp;&nbsp;[→ Live](https://trikernel-fn61.vercel.app)
+
+<br/>
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<p align="center">
+<br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hari-hara7&show_icons=true&bg_color=0d0d0d&title_color=FF6B00&icon_color=FF6B00&text_color=aaaaaa&hide_border=false&border_color=FF6B0033&border_radius=4&include_all_commits=true&count_private=true&custom_title=hari-hara7+/+stats" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hari-hara7&hide_border=false&background=0d0d0d&ring=FF6B00&fire=FF4500&currStreakLabel=FF6B00&sideLabels=666666&currStreakNum=ffffff&sideNums=ffffff&dates=555555&border=FF6B0033&border_radius=4" />
-
-</p>
-
-<p align="center">
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=154905590">
-<img width="70%" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154905590&image_size=auto&color_scheme=dark" />
-</a>
-
-</p>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-<br/><br/>
-
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&hide_border=false&bg_color=0d0d0d&title_color=FF6B00&text_color=aaaaaa&border_color=FF6B0033&border_radius=4&langs_count=8&custom_title=top+languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hari-hara7&show_icons=true&bg_color=111111&title_color=FF6B00&icon_color=FF6B00&text_color=aaaaaa&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&custom_title=Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hari-hara7&hide_border=true&background=111111&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=666666&currStreakNum=ffffff&sideNums=ffffff&dates=555555&border_radius=12" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-hara7&bg_color=0d0d0d&color=FF6B00&line=FF6B00&point=FF6B00&area=true&hide_border=false&border_color=FF6B0033&area_color=FF6B0015&custom_title=contribution+graph" width="96%"/>
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&hide_border=true&bg_color=111111&title_color=FF6B00&text_color=aaaaaa&border_radius=12&langs_count=8&custom_title=Languages" />
 
 <br/><br/>
-<p align="center">
 
-<a href="https://next.ossinsight.io/widgets/official/compose-org-activity-map?owner_id=154905590&period=past_28_days&activity=stars&role=pr_creators" target="_blank">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-hara7&bg_color=111111&color=FF6B00&line=FF6B00&point=ffffff&area=true&hide_border=true&area_color=FF6B0018&custom_title=Contribution+Activity" width="96%"/>
 
-<picture>
+<br/><br/>
 
-<source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-map/thumbnail.png?owner_id=11855343&period=past_28_days&activity=stars&role=pr_creators&image_size=4x7&color_scheme=dark" width="40%">
-
-<img alt="Geographical Distribution of pingcap" src="https://next.ossinsight.io/widgets/official/compose-org-activity-map/thumbnail.png?owner_id=11855343&period=past_28_days&activity=stars&role=pr_creators&image_size=4x7&color_scheme=light" width="40%">
-
-</picture>
-
-</a>
-
-</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
   <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="96%"/>
 </picture>
 
-<p align="center">
-
-<a href="https://next.ossinsight.io/widgets/official/compose-org-pull-requests-open-to-review?owner_id=154905590&period=past_28_days" target="_blank">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)" 
-srcset="https://next.ossinsight.io/widgets/official/compose-org-pull-requests-open-to-review/thumbnail.png?owner_id=11855343&period=past_28_days&image_size=3x6&color_scheme=dark" 
-width="40%">
-
-<img alt="Pull Request Review Responses" 
-src="https://next.ossinsight.io/widgets/official/compose-org-pull-requests-open-to-review/thumbnail.png?owner_id=11855343&period=past_28_days&image_size=3x6&color_scheme=light" 
-width="40%">
-
-</picture>
-
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://next.ossinsight.io/widgets/official/compose-org-participants-growth?user_id=154905590&activity=active&period=past_28_days" target="_blank">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)" 
-srcset="https://next.ossinsight.io/widgets/official/compose-org-participants-growth/thumbnail.png?user_id=154905590&activity=active&period=past_28_days&image_size=4x7&color_scheme=dark" 
-width="40%">
-
-<img alt="Active trends of @Hari-hara7" 
-src="https://next.ossinsight.io/widgets/official/compose-org-participants-growth/thumbnail.png?user_id=154905590&activity=active&period=past_28_days&image_size=4x7&color_scheme=light" 
-width="40%">
-
-</picture>
-
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://next.ossinsight.io/widgets/official/compose-org-participants-roles-ratio?user_id=154905590&period=past_28_days" target="_blank">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)" 
-srcset="https://next.ossinsight.io/widgets/official/compose-org-participants-roles-ratio/thumbnail.png?user_id=154905590&period=past_28_days&image_size=5x5&color_scheme=dark" 
-width="40%">
-
-<img alt="Participants roles of @Hari-hara7" 
-src="https://next.ossinsight.io/widgets/official/compose-org-participants-roles-ratio/thumbnail.png?user_id=154905590&period=past_28_days&image_size=5x5&color_scheme=light" 
-width="40%">
-
-</picture>
-
-</a>
-
-</p>
-
-
-<p align="center">
-
-<a href="https://next.ossinsight.io/widgets/official/collection-annually-ranking?collection_id=2&activity=stars" target="_blank">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)" 
-srcset="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?collection_id=2&activity=stars&image_size=auto&color_scheme=dark" 
-width="40%">
-
-<img alt="Repository Annual Ranking in Open Source Database" 
-src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?collection_id=2&activity=stars&image_size=auto&color_scheme=light" 
-width="40%">
-
-</picture>
-
-</a>
-
-</p>
-
-
-<p align="center">
-
-<a href="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month?repo_id=41986369" target="_blank">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)" 
-srcset="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" 
-width="40%">
-
-<img alt="Pushes and Commits of Repository" 
-src="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" 
-width="40%">
-
-</picture>
-
-</a>
-
-</p>
-
-
-<p align="center">
-
-<a href="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month?repo_id=41986369" target="_blank">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)" 
-srcset="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" 
-width="40%">
-
-<img alt="Pull Request Size of Repository" 
-src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" 
-width="40%">
-
-</picture>
-
-</a>
-
-</p>
-
-
-<p align="center">
-
-<a href="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged?repo_id=41986369" target="_blank">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark"
-width="40%">
-
-<img alt="Pull Request Lifecycle of Repository"
-src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light"
-width="40%">
-
-</picture>
-
-</a>
-
-</p>
-
-
-<p align="center">
-
-<a href="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month?repo_id=41986369" target="_blank">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark"
-width="40%">
-
-<img alt="Lines of Code Changes of Repository"
-src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light"
-width="40%">
-
-</picture>
-
-</a>
-
-</p>
-
 </div>
 
 <br/>
 
-```bash
-$ cat ~/achievements.log
-```
+---
 
-```
-[2022–2024] ............................................
-  ✦  SAP Hackfest              → 1st Place
-  ✦  Acethon                   → 1st Place
-  ✦  Web Dev ACE               → 1st Place
-  ✦  Upgrade Campus            → 1st Place
-  ✦  Reality Rewritten         → 2nd Runner Up
-  ✦  Codesprint                → 2nd Runner Up
-  ✦  Academic Pal              → 5000+ users
-  ✦  Freelance                 → 17+ clients
-  ✦  Open Source               → 10+ contributions
-  ✦  We4Tech Community         → Co-founded
-```
+## Wins
+
+| Event | Result |
+|---|---|
+| SAP Hackfest | 🥇 Winner |
+| Acethon | 🥇 1st Place |
+| Web Dev ACE | 🥇 1st Place |
+| Upgrade Campus | 🥇 1st Place |
+| Reality Rewritten | 🥈 2nd Runner Up |
+| Codesprint | 🥈 2nd Runner Up |
 
 <br/>
 
-```bash
-$ ping hariharanath --connect
-```
+---
 
-```
-PING hariharanath ... response time: instant
-```
+## Let's Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/GMAIL-hariharanath247%40gmail.com-FF6B00?style=flat-square&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:hariharanath247@gmail.com)
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-FF6B00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hariharanath247@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Harihara--nath-FF6B00?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/Harihara-nath)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B00?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Harihara-nath)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-hari--hara7.github.io-FF6B00?style=flat-square&logo=firefox&logoColor=white&labelColor=0d0d0d)](https://hari-hara7.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=firefox&logoColor=white)](https://hari-hara7.github.io)
 &nbsp;
-[![X](https://img.shields.io/badge/X-@Hariharana70309-FF6B00?style=flat-square&logo=x&logoColor=white&labelColor=0d0d0d)](https://x.com/@Hariharana70309)
+[![X](https://img.shields.io/badge/X-FF6B00?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@Hariharana70309)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-Hari__hara__nath77-FF6B00?style=flat-square&logo=instagram&logoColor=white&labelColor=0d0d0d)](https://instagram.com/Hari_hara_nath77)
+[![Instagram](https://img.shields.io/badge/Instagram-FF6B00?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Hari_hara_nath77)
 
 <br/><br/>
 
-```
-[session active] root@hari:~$ █
-```
+<sub>⭐ &nbsp; If any of my projects helped you, a star means a lot &nbsp; ⭐</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FF6B00&height=1&section=footer" width="100%"/>
 
 </div>
