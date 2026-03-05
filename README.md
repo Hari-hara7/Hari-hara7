@@ -137,7 +137,7 @@ $ github-stats --user hari-hara7
 <br/><br/>
 <p align="center">
 
-<a href="https://next.ossinsight.io/widgets/official/compose-org-activity-map?owner_id=11855343&period=past_28_days&activity=stars&role=pr_creators" target="_blank">
+<a href="https://next.ossinsight.io/widgets/official/compose-org-activity-map?owner_id=154905590&period=past_28_days&activity=stars&role=pr_creators" target="_blank">
 
 <picture>
 
@@ -154,6 +154,171 @@ $ github-stats --user hari-hara7
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
   <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="96%"/>
 </picture>
+
+<p align="center">
+
+<a href="https://next.ossinsight.io/widgets/official/compose-org-pull-requests-open-to-review?owner_id=154905590&period=past_28_days" target="_blank">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" 
+srcset="https://next.ossinsight.io/widgets/official/compose-org-pull-requests-open-to-review/thumbnail.png?owner_id=11855343&period=past_28_days&image_size=3x6&color_scheme=dark" 
+width="40%">
+
+<img alt="Pull Request Review Responses" 
+src="https://next.ossinsight.io/widgets/official/compose-org-pull-requests-open-to-review/thumbnail.png?owner_id=11855343&period=past_28_days&image_size=3x6&color_scheme=light" 
+width="40%">
+
+</picture>
+
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://next.ossinsight.io/widgets/official/compose-org-participants-growth?user_id=154905590&activity=active&period=past_28_days" target="_blank">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" 
+srcset="https://next.ossinsight.io/widgets/official/compose-org-participants-growth/thumbnail.png?user_id=154905590&activity=active&period=past_28_days&image_size=4x7&color_scheme=dark" 
+width="40%">
+
+<img alt="Active trends of @Hari-hara7" 
+src="https://next.ossinsight.io/widgets/official/compose-org-participants-growth/thumbnail.png?user_id=154905590&activity=active&period=past_28_days&image_size=4x7&color_scheme=light" 
+width="40%">
+
+</picture>
+
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://next.ossinsight.io/widgets/official/compose-org-participants-roles-ratio?user_id=154905590&period=past_28_days" target="_blank">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" 
+srcset="https://next.ossinsight.io/widgets/official/compose-org-participants-roles-ratio/thumbnail.png?user_id=154905590&period=past_28_days&image_size=5x5&color_scheme=dark" 
+width="40%">
+
+<img alt="Participants roles of @Hari-hara7" 
+src="https://next.ossinsight.io/widgets/official/compose-org-participants-roles-ratio/thumbnail.png?user_id=154905590&period=past_28_days&image_size=5x5&color_scheme=light" 
+width="40%">
+
+</picture>
+
+</a>
+
+</p>
+
+
+<p align="center">
+
+<a href="https://next.ossinsight.io/widgets/official/collection-annually-ranking?collection_id=2&activity=stars" target="_blank">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" 
+srcset="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?collection_id=2&activity=stars&image_size=auto&color_scheme=dark" 
+width="40%">
+
+<img alt="Repository Annual Ranking in Open Source Database" 
+src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?collection_id=2&activity=stars&image_size=auto&color_scheme=light" 
+width="40%">
+
+</picture>
+
+</a>
+
+</p>
+
+
+<p align="center">
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month?repo_id=41986369" target="_blank">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" 
+srcset="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" 
+width="40%">
+
+<img alt="Pushes and Commits of Repository" 
+src="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" 
+width="40%">
+
+</picture>
+
+</a>
+
+</p>
+
+
+<p align="center">
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month?repo_id=41986369" target="_blank">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" 
+srcset="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" 
+width="40%">
+
+<img alt="Pull Request Size of Repository" 
+src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" 
+width="40%">
+
+</picture>
+
+</a>
+
+</p>
+
+
+<p align="center">
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged?repo_id=41986369" target="_blank">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark"
+width="40%">
+
+<img alt="Pull Request Lifecycle of Repository"
+src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light"
+width="40%">
+
+</picture>
+
+</a>
+
+</p>
+
+
+<p align="center">
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month?repo_id=41986369" target="_blank">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark"
+width="40%">
+
+<img alt="Lines of Code Changes of Repository"
+src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light"
+width="40%">
+
+</picture>
+
+</a>
+
+</p>
 
 </div>
 
