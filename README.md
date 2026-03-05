@@ -112,6 +112,17 @@ $ github-stats --user hari-hara7
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hari-hara7&show_icons=true&bg_color=0d0d0d&title_color=FF6B00&icon_color=FF6B00&text_color=aaaaaa&hide_border=false&border_color=FF6B0033&border_radius=4&include_all_commits=true&count_private=true&custom_title=hari-hara7+/+stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hari-hara7&hide_border=false&background=0d0d0d&ring=FF6B00&fire=FF4500&currStreakLabel=FF6B00&sideLabels=666666&currStreakNum=ffffff&sideNums=ffffff&dates=555555&border=FF6B0033&border_radius=4" />
 
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=154905590" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=12960671&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @634750802" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=12960671&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 <br/><br/>
 
 <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&hide_border=false&bg_color=0d0d0d&title_color=FF6B00&text_color=aaaaaa&border_color=FF6B0033&border_radius=4&langs_count=8&custom_title=top+languages" />
