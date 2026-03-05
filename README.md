@@ -1,203 +1,180 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=100&section=header&reversal=false&fontColor=ffffff" width="100%"/>
-
-<br/>
-
 <div align="center">
 
 ```
- ██╗  ██╗ █████╗ ██████╗ ██╗
- ██║  ██║██╔══██╗██╔══██╗██║
- ███████║███████║██████╔╝██║
- ██╔══██║██╔══██║██╔══██╗██║
- ██║  ██║██║  ██║██║  ██║██║
- ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
+██╗  ██╗ █████╗ ██████╗ ██╗██╗  ██╗ █████╗ ██████╗  █████╗ ███╗   ██╗ █████╗ ████████╗██╗  ██╗
+██║  ██║██╔══██╗██╔══██╗██║██║  ██║██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗╚══██╔══╝██║  ██║
+███████║███████║██████╔╝██║███████║███████║██████╔╝███████║██╔██╗ ██║███████║   ██║   ███████║
+██╔══██║██╔══██║██╔══██╗██║██╔══██║██╔══██║██╔══██╗██╔══██║██║╚██╗██║██╔══██║   ██║   ██╔══██║
+██║  ██║██║  ██║██║  ██║██║██║  ██║██║  ██║██║  ██║██║  ██║██║ ╚████║██║  ██║   ██║   ██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%2F+Founder+%2F+Hackathon+Champion;Turning+ideas+into+products+that+scale.;5000%2B+users+%7C+7%2B+hackathon+wins+%7C+17%2B+clients" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=root%40hari%3A~%24+whoami;Full+Stack+Developer+%2F+Founder+%2F+Hacker;root%40hari%3A~%24+uptime+--since+2022;Building+products+that+actually+ship.)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="mailto:hariharanath247@gmail.com"><img src="https://img.shields.io/badge/-Email-FF6B00?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/Harihara-nath"><img src="https://img.shields.io/badge/-LinkedIn-FF6B00?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://hari-hara7.github.io"><img src="https://img.shields.io/badge/-Portfolio-FF6B00?style=flat-square&logo=safari&logoColor=white"/></a>
-<a href="https://x.com/@Hariharana70309"><img src="https://img.shields.io/badge/-X-FF6B00?style=flat-square&logo=x&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=hari-hara7&color=FF6B00&style=flat-square&label=views"/>
+![](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-FF6B00?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/LOCATION-INDIA-FF6B00?style=flat-square&labelColor=0d0d0d)
+![](https://komarev.com/ghpvc/?username=hari-hara7&label=VISITORS&color=FF6B00&style=flat-square&labelColor=0d0d0d)
 
 </div>
 
 <br/>
 
----
-
-```
-  ╔══════════════════════════════════════════════════════════╗
-  ║  01  /  ABOUT                                           ║
-  ╚══════════════════════════════════════════════════════════╝
+```bash
+$ cat /etc/profile
 ```
 
-> I'm **Hariharanath** — a full stack developer and founder based in India.
-> I build scalable web apps, lead teams, and ship products that people actually use.
-> Currently pursuing **B.Tech CSE @ NMAMIT** while running **Academic Pal** (5000+ users)
-> and co-leading the **We4Tech** developer community.
-
-&nbsp;&nbsp;&nbsp;&nbsp;🔶 &nbsp;**Founder** — Academic Pal &nbsp;·&nbsp; Co-founder — We4Tech
-&nbsp;&nbsp;&nbsp;&nbsp;🏆 &nbsp;**7+ Hackathon wins** — SAP Hackfest · Acethon · Web Dev ACE · Upgrade Campus
-&nbsp;&nbsp;&nbsp;&nbsp;💼 &nbsp;**17+ freelance clients** delivered end-to-end
-&nbsp;&nbsp;&nbsp;&nbsp;📡 &nbsp;**Open to** — MNCs · Startups · Consulting · Freelance
-
-<br/>
-
----
-
 ```
-  ╔══════════════════════════════════════════════════════════╗
-  ║  02  /  PROJECTS                                        ║
-  ╚══════════════════════════════════════════════════════════╝
+  name     : Hariharanath
+  role     : Full Stack Developer & Founder
+  college  : B.Tech CSE @ NMAMIT (2026)
+  founded  : Academic Pal (5000+ users) · We4Tech Community
+  wins     : 7+ Hackathon Champion — SAP Hackfest · Acethon · Web Dev ACE
+  clients  : 17+ Freelance Projects Delivered
+  seeking  : Startups · MNCs · Consulting · Freelance
 ```
 
 <br/>
 
-**◈ &nbsp;ACADEMIC PAL** &nbsp;·&nbsp; [`academicpal.in ↗`](https://academicpal.in) &nbsp;·&nbsp; [`repo ↗`](https://github.com/Hari-hara7/Academicpal--login)
-
-```
-  Platform serving 5000+ B.Tech students with curated notes,
-  study resources and progress tracking — organized by year & branch.
-  
-  → Next.js  · TypeScript · TailwindCSS · MongoDB · Firebase
+```bash
+$ ls -la ~/projects/
 ```
 
-<br/>
-
-**◈ &nbsp;PHISHGUARD** &nbsp;·&nbsp; [`live ↗`](https://phish-guard-six.vercel.app) &nbsp;·&nbsp; [`repo ↗`](https://github.com/Hari-hara7/PhishGuard)
-
 ```
-  AI-powered cybersecurity platform detecting malicious URLs,
-  documents and phishing emails. Chrome Extension included.
-  
-  → Next.js · TypeScript · TensorFlow · Firebase · TailwindCSS
+drwxr-xr-x  academic-pal/       ── Ed-tech platform · 5000+ active users
+drwxr-xr-x  phishguard/         ── AI cybersecurity · Chrome extension
+drwxr-xr-x  crypto-tracker/     ── Real-time market intelligence · Socket.IO
+drwxr-xr-x  agropulse/          ── AgriTech marketplace · Direct trade
 ```
 
 <br/>
 
-**◈ &nbsp;CRYPTO TRACKER** &nbsp;·&nbsp; [`live ↗`](https://crypto-beta-five.vercel.app)
+**`~/projects/academic-pal`**
+> Notes, resources & study tools for B.Tech students. Organized by year, branch & subject. Serving 5000+ students across multiple colleges.
 
+`Next.js` `TypeScript` `MongoDB` `Firebase` `TailwindCSS`
+&nbsp; → &nbsp;[academicpal.in](https://academicpal.in) &nbsp;|&nbsp; [github](https://github.com/Hari-hara7/Academicpal--login)
+
+<br/>
+
+**`~/projects/phishguard`**
+> AI-powered phishing detection platform. Scans links, documents & emails in real-time. Comes with gamified security training + a Chrome Extension.
+
+`Next.js` `TypeScript` `TensorFlow` `Firebase` `TailwindCSS`
+&nbsp; → &nbsp;[live demo](https://phish-guard-six.vercel.app) &nbsp;|&nbsp; [github](https://github.com/Hari-hara7/PhishGuard)
+
+<br/>
+
+**`~/projects/crypto-tracker`**
+> Live crypto intelligence with AI-driven insights, social trading community, and real-time Socket.IO-powered price feeds.
+
+`React` `TypeScript` `Node.js` `MongoDB` `Socket.IO`
+&nbsp; → &nbsp;[live demo](https://crypto-beta-five.vercel.app)
+
+<br/>
+
+**`~/projects/agropulse`**
+> Smart agri-marketplace connecting farmers directly to buyers. Real-time commodity pricing, zero middlemen, transparent transactions.
+
+`Next.js` `T3 Stack` `Prisma` `TailwindCSS`
+&nbsp; → &nbsp;[live demo](https://trikernel-fn61.vercel.app)
+
+<br/>
+
+```bash
+$ cat ~/.config/stack
 ```
-  Real-time crypto intelligence with Socket.IO feeds, AI-powered
-  market insights and a social trading community layer.
-  
-  → React · TypeScript · Node.js · MongoDB · Socket.IO
+
+```yaml
+frontend:
+  - React · Next.js · TypeScript · JavaScript
+  - TailwindCSS · shadcn/ui · Framer Motion
+
+backend:
+  - Node.js · Express · tRPC · Python
+
+database:
+  - MongoDB · PostgreSQL · Firebase · Prisma
+
+devops:
+  - Docker · GitHub Actions · Vercel · AWS
 ```
 
 <br/>
 
-**◈ &nbsp;AGROPULSE** &nbsp;·&nbsp; [`live ↗`](https://trikernel-fn61.vercel.app)
-
+```bash
+$ github-stats --user hari-hara7
 ```
-  AgriTech marketplace eliminating middlemen between farmers
-  and buyers — with live commodity pricing & fair trade tools.
-  
-  → Next.js · T3 Stack · Prisma · TailwindCSS
-```
-
-<br/>
-
----
-
-```
-  ╔══════════════════════════════════════════════════════════╗
-  ║  03  /  STACK                                           ║
-  ╚══════════════════════════════════════════════════════════╝
-```
-
-<br/>
 
 <div align="center">
 
-| Layer | Technologies |
-|---|---|
-| **Frontend** | React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; TailwindCSS &nbsp;·&nbsp; Framer Motion &nbsp;·&nbsp; shadcn/ui |
-| **Backend** | Node.js &nbsp;·&nbsp; Express &nbsp;·&nbsp; tRPC &nbsp;·&nbsp; Python |
-| **Database** | MongoDB &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Firebase &nbsp;·&nbsp; Prisma |
-| **DevOps** | Docker &nbsp;·&nbsp; GitHub Actions &nbsp;·&nbsp; Vercel &nbsp;·&nbsp; AWS |
-
-</div>
-
-<br/>
-
----
-
-```
-  ╔══════════════════════════════════════════════════════════╗
-  ║  04  /  STATS                                           ║
-  ╚══════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hari-hara7&show_icons=true&bg_color=0d0d0d&title_color=FF6B00&icon_color=FF6B00&text_color=cccccc&hide_border=false&border_color=FF6B0044&border_radius=4&include_all_commits=true&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hari-hara7&hide_border=false&background=0d0d0d&ring=FF6B00&fire=FF4500&currStreakLabel=FF6B00&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555&border=FF6B0044&border_radius=4" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hari-hara7&show_icons=true&bg_color=0d0d0d&title_color=FF6B00&icon_color=FF6B00&text_color=aaaaaa&hide_border=false&border_color=FF6B0033&border_radius=4&include_all_commits=true&count_private=true&custom_title=hari-hara7+/+stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hari-hara7&hide_border=false&background=0d0d0d&ring=FF6B00&fire=FF4500&currStreakLabel=FF6B00&sideLabels=666666&currStreakNum=ffffff&sideNums=ffffff&dates=555555&border=FF6B0033&border_radius=4" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&hide_border=false&border_color=FF6B0044&bg_color=0d0d0d&title_color=FF6B00&text_color=cccccc&border_radius=4&langs_count=8" />
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&hide_border=false&bg_color=0d0d0d&title_color=FF6B00&text_color=aaaaaa&border_color=FF6B0033&border_radius=4&langs_count=8&custom_title=top+languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-hara7&bg_color=0d0d0d&color=FF6B00&line=FF6B00&point=ffffff&area=true&hide_border=true&area_color=FF6B0020&custom_title=Contribution+Activity" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-hara7&bg_color=0d0d0d&color=FF6B00&line=FF6B00&point=FF6B00&area=true&hide_border=false&border_color=FF6B0033&area_color=FF6B0015&custom_title=contribution+graph" width="96%"/>
 
 <br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="97%"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="96%"/>
 </picture>
+
+</div>
+
+<br/>
+
+```bash
+$ cat ~/achievements.log
+```
+
+```
+[2022–2024] ............................................
+  ✦  SAP Hackfest              → 1st Place
+  ✦  Acethon                   → 1st Place
+  ✦  Web Dev ACE               → 1st Place
+  ✦  Upgrade Campus            → 1st Place
+  ✦  Reality Rewritten         → 2nd Runner Up
+  ✦  Codesprint                → 2nd Runner Up
+  ✦  Academic Pal              → 5000+ users
+  ✦  Freelance                 → 17+ clients
+  ✦  Open Source               → 10+ contributions
+  ✦  We4Tech Community         → Co-founded
+```
+
+<br/>
+
+```bash
+$ ping hariharanath --connect
+```
+
+```
+PING hariharanath ... response time: instant
+```
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/GMAIL-hariharanath247%40gmail.com-FF6B00?style=flat-square&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:hariharanath247@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Harihara--nath-FF6B00?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/Harihara-nath)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-hari--hara7.github.io-FF6B00?style=flat-square&logo=firefox&logoColor=white&labelColor=0d0d0d)](https://hari-hara7.github.io)
+&nbsp;
+[![X](https://img.shields.io/badge/X-@Hariharana70309-FF6B00?style=flat-square&logo=x&logoColor=white&labelColor=0d0d0d)](https://x.com/@Hariharana70309)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-Hari__hara__nath77-FF6B00?style=flat-square&logo=instagram&logoColor=white&labelColor=0d0d0d)](https://instagram.com/Hari_hara_nath77)
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hari-hara7&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=7&title_color=FF6B00" width="97%"/>
+```
+[session active] root@hari:~$ █
+```
 
 </div>
-
-<br/>
-
----
-
-```
-  ╔══════════════════════════════════════════════════════════╗
-  ║  05  /  CONNECT                                         ║
-  ╚══════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-```
-  Whether you're building a startup, hiring for your team,
-  or just want to talk tech — my inbox is always open.
-
-  hariharanath247@gmail.com
-```
-
-<div align="center">
-
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-FF6B00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hariharanath247@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B00?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Harihara-nath)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=safari&logoColor=white)](https://hari-hara7.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-FF6B00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hari-hara7)
-[![X](https://img.shields.io/badge/X-FF6B00?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@Hariharana70309)
-[![Instagram](https://img.shields.io/badge/Instagram-FF6B00?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Hari_hara_nath77)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-<sub><code>designed with intent &nbsp;·&nbsp; built with obsession &nbsp;·&nbsp; © Hariharanath</code></sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=80&section=footer" width="100%"/>
