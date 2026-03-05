@@ -135,7 +135,21 @@ $ github-stats --user hari-hara7
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-hara7&bg_color=0d0d0d&color=FF6B00&line=FF6B00&point=FF6B00&area=true&hide_border=false&border_color=FF6B0033&area_color=FF6B0015&custom_title=contribution+graph" width="96%"/>
 
 <br/><br/>
+<p align="center">
 
+<a href="https://next.ossinsight.io/widgets/official/compose-org-activity-map?owner_id=11855343&period=past_28_days&activity=stars&role=pr_creators" target="_blank">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-map/thumbnail.png?owner_id=11855343&period=past_28_days&activity=stars&role=pr_creators&image_size=4x7&color_scheme=dark" width="40%">
+
+<img alt="Geographical Distribution of pingcap" src="https://next.ossinsight.io/widgets/official/compose-org-activity-map/thumbnail.png?owner_id=11855343&period=past_28_days&activity=stars&role=pr_creators&image_size=4x7&color_scheme=light" width="40%">
+
+</picture>
+
+</a>
+
+</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
   <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="96%"/>
