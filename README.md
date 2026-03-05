@@ -114,9 +114,9 @@ $ github-stats --user hari-hara7
 | ----------- | ----------- |
 |<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=991443871&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=991443871&limit=100&image_size=auto"/>|
 
-| Pull Request Lifecycle | Pull Request Response Time |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=991443871&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-org-activity-open-to-close/thumbnail.png?user_id=154905590&period=past_28_days&activity=pull-requests&image_size=auto" />|
+| Pull Request Lifecycle |
+| ----------- |
+|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=991443871&image_size=auto" />|
 
 | Pull Request Size | Pull Request Lifecycle |
 | ----------- | ----------- |
