@@ -130,9 +130,9 @@ $ github-stats --user hari-hara7
 | ----------- | ----------- |
 |<img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=154905590&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=991443871&image_size=auto" />|
 
-| Repository Annual Ranking | Find More |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" />|<a href="https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral">Visit our website</a>|
+| Activity Map - Last 28 days |
+| ----------- |
+|<img src="https://next.ossinsight.io/widgets/official/compose-org-activity-map/thumbnail.png?user_id=154905590&period=past_28_days&activity=stars&role=pr_creators&image_size=auto" />|
 
 
 <br/><br/>
