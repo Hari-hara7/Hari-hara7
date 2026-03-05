@@ -123,9 +123,7 @@ $ github-stats --user hari-hara7
 
 <br/><br/>
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&hide_border=false&bg_color=0d0d0d&title_color=FF6B00&text_color=aaaaaa&border_color=FF6B0033&border_radius=4&langs_count=8&custom_title=top+languages" />
 
-<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-hara7&bg_color=0d0d0d&color=FF6B00&line=FF6B00&point=FF6B00&area=true&hide_border=false&border_color=FF6B0033&area_color=FF6B0015&custom_title=contribution+graph" width="96%"/>
 
