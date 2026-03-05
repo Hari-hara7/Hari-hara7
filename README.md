@@ -233,6 +233,60 @@ Currently open to **full-time roles**, **startups**, and **freelance** work.
 
 <br/>
 
+<a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=YOUR_REPO_ID" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=YOUR_REPO_ID&image_size=auto&color_scheme=dark">
+    <img alt="Activity Trends" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=YOUR_REPO_ID&image_size=auto&color_scheme=light">
+  </picture>
+</a>
+
+<br/>
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month?repo_id=YOUR_REPO_ID" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=YOUR_REPO_ID&image_size=auto&color_scheme=dark">
+    <img alt="Pull Request Size per Month" src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=YOUR_REPO_ID&image_size=auto&color_scheme=light">
+  </picture>
+</a>
+
+<br/>
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month?repo_id=YOUR_REPO_ID" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=YOUR_REPO_ID&image_size=auto&color_scheme=dark">
+    <img alt="Pushes and Commits per Month" src="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=YOUR_REPO_ID&image_size=auto&color_scheme=light">
+  </picture>
+</a>
+
+<br/>
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-repo-issue-opened-and-closed?repo_id=YOUR_REPO_ID" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-issue-opened-and-closed/thumbnail.png?repo_id=YOUR_REPO_ID&image_size=auto&color_scheme=dark">
+    <img alt="Issues Opened and Closed" src="https://next.ossinsight.io/widgets/official/analyze-repo-issue-opened-and-closed/thumbnail.png?repo_id=YOUR_REPO_ID&image_size=auto&color_scheme=light">
+  </picture>
+</a>
+
+<br/>
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month?repo_id=YOUR_REPO_ID" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=YOUR_REPO_ID&image_size=auto&color_scheme=dark">
+    <img alt="Lines of Code Changes" src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=YOUR_REPO_ID&image_size=auto&color_scheme=light">
+  </picture>
+</a>
+
+<br/>
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map?repo_id=YOUR_REPO_ID&activity=stars" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?repo_id=YOUR_REPO_ID&activity=stars&image_size=auto&color_scheme=dark">
+    <img alt="Star Geographical Distribution" src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?repo_id=YOUR_REPO_ID&activity=stars&image_size=auto&color_scheme=light">
+  </picture>
+</a>
+
+<br/>
+
 ---
 
 <!-- CONNECT -->
