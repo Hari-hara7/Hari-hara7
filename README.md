@@ -119,7 +119,7 @@
 
 </div>
 
-```
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=root%40hari%3A~%24+whoami;Full+Stack+Developer+%2F+Founder+%2F+Hacker;root%40hari%3A~%24+uptime+--since+2022;Building+products+that+actually+ship.)](https://git.io/typing-svg)
 
