@@ -220,7 +220,12 @@ A state-of-the-art web application revolutionizing how users interact with crypt
 </p>
 
 <br/>
-
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=154905590" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154905590&image_size=auto&color_scheme=dark" width="771">
+    <img alt="Dashboard stats of @Hari-hara7" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154905590&image_size=auto&color_scheme=light" width="771">
+  </picture>
+</a>
 <!-- PROJECT 4: AgroPulse -->
 <img src="https://img.shields.io/badge/🌾_AgroPulse-1a1b27?style=for-the-badge&logoColor=E844FF" />
 <br/>
