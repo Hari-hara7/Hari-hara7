@@ -114,17 +114,12 @@ $ github-stats --user hari-hara7
 | ----------- | ----------- |
 |<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=991443871&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=991443871&limit=100&image_size=auto"/>|
 
-| Pull Request Lifecycle |
-| ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=991443871&image_size=auto" />|
 
 | Pull Request Size | Pull Request Lifecycle |
 | ----------- | ----------- |
 |<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=991443871&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=991443871&image_size=auto" />|
 
-| Lines of Code Changes |
-| ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=991443871&image_size=auto" />|
+
 
 | Currently Working On - Last 28 days | Top Active Contributors - Last 28 Days |
 | ----------- | ----------- |
