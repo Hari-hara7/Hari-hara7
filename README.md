@@ -3,7 +3,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=root%40hari%3A~%24+whoami;Full+Stack+Developer+%2F+Founder+%2F+Hacker;root%40hari%3A~%24+uptime+--since+2022;Building+products+that+actually+ship.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=root%40hari%3A~%24+whoami;Full+Stack+Developer+%2F+Founder+%2F+Freelancer;root%40hari%3A~%24+uptime+--since+2023;Building+products+that+actually+ship.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -86,13 +86,13 @@ frontend:
   - TailwindCSS · shadcn/ui · Framer Motion
 
 backend:
-  - Node.js · Express · tRPC · Python
+  - Node.js · Express · tRPC 
 
 database:
   - MongoDB · PostgreSQL · Firebase · Prisma
 
 devops:
-  - Docker · GitHub Actions · Vercel · AWS
+  - Docker · GitHub Actions · Vercel . Render
 ```
 
 <br/>
@@ -140,7 +140,7 @@ $ cat ~/achievements.log
 ```
 
 ```
-[2022–2024] ............................................
+[2023–2026] ............................................
   ✦  SAP Hackfest              → 1st Place
   ✦  Acethon                   → 1st Place
   ✦  Web Dev ACE               → 1st Place
