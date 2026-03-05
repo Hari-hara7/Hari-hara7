@@ -1,123 +1,13 @@
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0a0a0a;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#0d0d0d;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#111111;stop-opacity:1" />
-    </linearGradient>
-    <filter id="orangeGlow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
-      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="textGlow" x="-10%" y="-40%" width="120%" height="180%">
-      <feGaussianBlur stdDeviation="12" result="blur"/>
-      <feFlood flood-color="#FF6B00" flood-opacity="0.35" result="color"/>
-      <feComposite in="color" in2="blur" operator="in" result="glowBlur"/>
-      <feMerge><feMergeNode in="glowBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <clipPath id="bannerClip"><rect width="1200" height="300"/></clipPath>
-    <radialGradient id="centerGlow" cx="50%" cy="50%" r="40%">
-      <stop offset="0%" style="stop-color:#FF6B00;stop-opacity:0.08"/>
-      <stop offset="100%" style="stop-color:#FF6B00;stop-opacity:0"/>
-    </radialGradient>
-  </defs>
-  <rect width="1200" height="300" fill="url(#bgGrad)"/>
-  <rect width="1200" height="300" fill="url(#centerGlow)"/>
-  <g clip-path="url(#bannerClip)" opacity="0.07">
-    <line x1="0" y1="0" x2="0" y2="300" stroke="#FF6B00" stroke-width="0.5"/>
-    <line x1="60" y1="0" x2="60" y2="300" stroke="#FF6B00" stroke-width="0.5"/>
-    <line x1="120" y1="0" x2="120" y2="300" stroke="#FF6B00" stroke-width="0.5"/>
-    <line x1="180" y1="0" x2="180" y2="300" stroke="#FF6B00" stroke-width="0.5"/>
-    <line x1="240" y1="0" x2="240" y2="300" stroke="#FF6B00" stroke-width="0.5"/>
-    <line x1="300" y1="0" x2="300" y2="300" stroke="#FF6B00" stroke-width="0.5"/>
-    <line x1="360" y1="0" x2="360" y2="300" stroke="#FF6B00" stroke-width="0.5"/>
-    <line x1="420" y1="0" x2="420" y2="300" stroke="#FF6B00" stroke-width="0.5"/>
-    <line x1="480" y1="0" x2="480" y2="300" stroke="#FF6B00" stroke-width="0.5"/>
-    <line x1="540" y1="0" x2="540" y2="300" stroke="#FF6B00" stroke-width="0.5"/>
-    <line x1="600" y1="0" x2="600" y2="300" stroke="#FF6B00" stroke-width="0.5"/>
-    <line x1="660" y1="0" x2="660" y2="300" stroke="#FF6B00" stroke-width="0.5"/>
-    <line x1="720" y1="0" x2="720" y2="300" stroke="#FF6B00" stroke-width="0.5"/>
-    <line x1="780" y1="0" x2="780" y2="300" stroke="#FF6B00" stroke-width="0.5"/>
-    <line x1="840" y1="0" x2="840" y2="300" stroke="#FF6B00" stroke-width="0.5"/>
-    <line x1="900" y1="0" x2="900" y2="300" stroke="#FF6B00" stroke-width="0.5"/>
-    <line x1="960" y1="0" x2="960" y2="300" stroke="#FF6B00" stroke-width="0.5"/>
-    <line x1="1020" y1="0" x2="1020" y2="300" stroke="#FF6B00" stroke-width="0.5"/>
-    <line x1="1080" y1="0" x2="1080" y2="300" stroke="#FF6B00" stroke-width="0.5"/>
-    <line x1="1140" y1="0" x2="1140" y2="300" stroke="#FF6B00" stroke-width="0.5"/>
-    <line x1="0" y1="0" x2="1200" y2="0" stroke="#FF6B00" stroke-width="0.5"/>
-    <line x1="0" y1="60" x2="1200" y2="60" stroke="#FF6B00" stroke-width="0.5"/>
-    <line x1="0" y1="120" x2="1200" y2="120" stroke="#FF6B00" stroke-width="0.5"/>
-    <line x1="0" y1="180" x2="1200" y2="180" stroke="#FF6B00" stroke-width="0.5"/>
-    <line x1="0" y1="240" x2="1200" y2="240" stroke="#FF6B00" stroke-width="0.5"/>
-    <line x1="0" y1="300" x2="1200" y2="300" stroke="#FF6B00" stroke-width="0.5"/>
-  </g>
-  <g clip-path="url(#bannerClip)" opacity="0.12" stroke="#FF6B00" stroke-width="1" fill="none">
-    <polyline points="40,20 40,80 100,80 100,140 160,140"/>
-    <circle cx="40" cy="80" r="3" fill="#FF6B00"/>
-    <circle cx="100" cy="80" r="3" fill="#FF6B00"/>
-    <circle cx="100" cy="140" r="3" fill="#FF6B00"/>
-    <polyline points="20,200 80,200 80,260 140,260"/>
-    <circle cx="80" cy="200" r="3" fill="#FF6B00"/>
-    <polyline points="160,40 220,40 220,100"/>
-    <circle cx="220" cy="40" r="3" fill="#FF6B00"/>
-    <circle cx="40" cy="20" r="2" fill="#FF6B00"/>
-    <circle cx="160" cy="140" r="2" fill="#FF6B00"/>
-    <circle cx="20" cy="200" r="2" fill="#FF6B00"/>
-    <circle cx="140" cy="260" r="2" fill="#FF6B00"/>
-    <circle cx="220" cy="100" r="2" fill="#FF6B00"/>
-    <circle cx="160" cy="40" r="2" fill="#FF6B00"/>
-  </g>
-  <g clip-path="url(#bannerClip)" opacity="0.12" stroke="#FF6B00" stroke-width="1" fill="none">
-    <polyline points="1160,20 1160,80 1100,80 1100,140 1040,140"/>
-    <circle cx="1160" cy="80" r="3" fill="#FF6B00"/>
-    <circle cx="1100" cy="80" r="3" fill="#FF6B00"/>
-    <circle cx="1100" cy="140" r="3" fill="#FF6B00"/>
-    <polyline points="1180,200 1120,200 1120,260 1060,260"/>
-    <circle cx="1120" cy="200" r="3" fill="#FF6B00"/>
-    <polyline points="1040,40 980,40 980,100"/>
-    <circle cx="980" cy="40" r="3" fill="#FF6B00"/>
-    <circle cx="1160" cy="20" r="2" fill="#FF6B00"/>
-    <circle cx="1040" cy="140" r="2" fill="#FF6B00"/>
-    <circle cx="1180" cy="200" r="2" fill="#FF6B00"/>
-    <circle cx="1060" cy="260" r="2" fill="#FF6B00"/>
-    <circle cx="980" cy="100" r="2" fill="#FF6B00"/>
-    <circle cx="1040" cy="40" r="2" fill="#FF6B00"/>
-  </g>
-  <g clip-path="url(#bannerClip)" opacity="0.06" font-family="'Courier New', monospace" font-size="10" fill="#FF6B00">
-    <text x="20" y="35">const dev = new Developer();</text>
-    <text x="20" y="115">if (passion === true) {</text>
-    <text x="30" y="130">  build(ideas);</text>
-    <text x="20" y="145">}</text>
-    <text x="20" y="225">export default HARIHARANATH;</text>
-    <text x="20" y="275">// v2.0.26</text>
-  </g>
-  <g clip-path="url(#bannerClip)" opacity="0.06" font-family="'Courier New', monospace" font-size="10" fill="#FF6B00" text-anchor="end">
-    <text x="1180" y="35">import { AI, OSS } from 'world';</text>
-    <text x="1180" y="115">function solve(problem) {</text>
-    <text x="1170" y="130">  return elegant(solution);</text>
-    <text x="1180" y="145">}</text>
-    <text x="1180" y="225">// Full Stack + AI Builder</text>
-    <text x="1180" y="275">git commit -m "shipped"</text>
-  </g>
-  <line x1="200" y1="1" x2="1000" y2="1" stroke="#FF6B00" stroke-width="1.5" opacity="0.4"/>
-  <line x1="200" y1="299" x2="1000" y2="299" stroke="#FF6B00" stroke-width="1.5" opacity="0.4"/>
-  <g stroke="#FF6B00" stroke-width="2" fill="none" opacity="0.5">
-    <polyline points="15,40 15,15 40,15"/>
-    <polyline points="1185,40 1185,15 1160,15"/>
-    <polyline points="15,260 15,285 40,285"/>
-    <polyline points="1185,260 1185,285 1160,285"/>
-  </g>
-  <text x="600" y="158" text-anchor="middle" dominant-baseline="middle" font-family="'Arial Black', 'Impact', sans-serif" font-weight="900" font-size="88" letter-spacing="18" fill="#FF6B00" opacity="0.15" filter="url(#orangeGlow)">HARIHARANATH</text>
-  <text x="600" y="155" text-anchor="middle" dominant-baseline="middle" font-family="'Arial Black', 'Impact', sans-serif" font-weight="900" font-size="82" letter-spacing="14" fill="#FF6B00" filter="url(#textGlow)">HARIHARANATH</text>
-  <line x1="390" y1="188" x2="810" y2="188" stroke="#FF6B00" stroke-width="0.8" opacity="0.3"/>
-  <polygon points="600,183 605,188 600,193 595,188" fill="#FF6B00" opacity="0.6"/>
-  <text x="600" y="222" text-anchor="middle" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="15" letter-spacing="3" fill="#aaaaaa">Full Stack Developer  •  Open Source Enthusiast  •  AI Builder</text>
-  <text x="600" y="268" text-anchor="middle" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="10" letter-spacing="4" fill="#FF6B00" opacity="0.35">{ STATUS: BUILDING • LEARNING • SHIPPING }</text>
-</svg>
-
-</div>
+```
+██╗  ██╗ █████╗ ██████╗ ██╗██╗  ██╗ █████╗ ██████╗  █████╗ ███╗   ██╗ █████╗ ████████╗██╗  ██╗
+██║  ██║██╔══██╗██╔══██╗██║██║  ██║██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗╚══██╔══╝██║  ██║
+███████║███████║██████╔╝██║███████║███████║██████╔╝███████║██╔██╗ ██║███████║   ██║   ███████║
+██╔══██║██╔══██║██╔══██╗██║██╔══██║██╔══██║██╔══██╗██╔══██║██║╚██╗██║██╔══██║   ██║   ██╔══██║
+██║  ██║██║  ██║██║  ██║██║██║  ██║██║  ██║██║  ██║██║  ██║██║ ╚████║██║  ██║   ██║   ██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+```
 
 
 
