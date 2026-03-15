@@ -125,22 +125,22 @@ $ github-stats --user hari-hara7
 <tr>
 <td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hari-hara7&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Hari-hara7&show_icons=true&bg_color=000000&title_color=ff8c00&text_color=ffffff&icon_color=ff8c00&border_color=ff8c00&count_private=true" />
 
 </td>
 <td width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&bg_color=000000&title_color=ff8c00&text_color=ffffff&border_color=ff8c00" />
 
 </td>
 </tr>
 </table>
 
 ### 🔥 Contribution Activity
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hari-hara7&bg_color=1a1b27&color=64ffda&line=64ffda&point=ffffff&area=true&hide_border=true)
+<img src="https://activity-graph.herokuapp.com/graph?username=Hari-hara7&bg_color=000000&color=ff8c00&line=ff8c00&point=ffffff&area=true&hide_border=true" />
 
 ### 🏆 GitHub Achievements
-![Trophy](https://github-profile-trophy.vercel.app/?username=Hari-hara7&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)
+<img src="https://github-profile-trophy.vercel.app/?username=Hari-hara7&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15" />
 
 </div>
 
