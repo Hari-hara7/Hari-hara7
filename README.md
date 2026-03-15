@@ -117,6 +117,32 @@ $ github-stats --user hari-hara7
 
 <br/><br/>
 
+## 📈 GitHub Statistics & Analytics
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hari-hara7&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+
+</td>
+<td width="50%">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&theme=tokyonight&hide_border=true)
+
+</td>
+</tr>
+</table>
+
+### 🔥 Contribution Activity
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hari-hara7&bg_color=1a1b27&color=64ffda&line=64ffda&point=ffffff&area=true&hide_border=true)
+
+### 🏆 GitHub Achievements
+![Trophy](https://github-profile-trophy.vercel.app/?username=Hari-hara7&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)
+
+</div>
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-hara7&bg_color=0d0d0d&color=FF6B00&line=FF6B00&point=FF6B00&area=true&hide_border=false&border_color=FF6B0033&area_color=FF6B0015&custom_title=contribution+graph" width="96%"/>
