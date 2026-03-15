@@ -117,7 +117,7 @@ $ github-stats --user hari-hara7
 
 <br/><br/>
 
-## 📈 GitHub Statistics & Analytics
+##  GitHub Statistics & Analytics
 
 <div align="center">
 
@@ -136,10 +136,10 @@ $ github-stats --user hari-hara7
 </tr>
 </table>
 
-### 🔥 Contribution Activity
+###  Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-hara7&bg_color=0d0d0d&color=FF6B00&line=FF6B00&point=FF6B00&area=true&hide_border=false&border_color=FF6B0033&area_color=FF6B0015&custom_title=contribution+graph" width="96%"/>
 
-### 🏆 GitHub Achievements
+###  GitHub Achievements
 <img src="https://github-profile-trophy.vercel.app/?username=Hari-hara7&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" />
 
 
