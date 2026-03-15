@@ -52,13 +52,7 @@ drwxr-xr-x  agropulse/          ── AgriTech marketplace · Direct trade
 
 <br/>
 
-**`~/projects/phishguard`**
-> AI-powered phishing detection platform. Scans links, documents & emails in real-time. Comes with gamified security training + a Chrome Extension.
 
-`Next.js` `TypeScript` `TensorFlow` `Firebase` `TailwindCSS`
-&nbsp; → &nbsp;[live demo](https://phish-guard-six.vercel.app) &nbsp;|&nbsp; [github](https://github.com/Hari-hara7/PhishGuard)
-
-<br/>
 
 **`~/projects/crypto-tracker`**
 > Live crypto intelligence with AI-driven insights, social trading community, and real-time Socket.IO-powered price feeds.
