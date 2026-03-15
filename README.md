@@ -137,7 +137,7 @@ $ github-stats --user hari-hara7
 </table>
 
 ### 🔥 Contribution Activity
-<img src="https://activity-graph.herokuapp.com/graph?username=Hari-hara7&bg_color=000000&color=ff8c00&line=ff8c00&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-hara7&bg_color=0d0d0d&color=FF6B00&line=FF6B00&point=FF6B00&area=true&hide_border=false&border_color=FF6B0033&area_color=FF6B0015&custom_title=contribution+graph" width="96%"/>
 
 ### 🏆 GitHub Achievements
 <img src="https://github-profile-trophy.vercel.app/?username=Hari-hara7&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15" />
@@ -145,7 +145,6 @@ $ github-stats --user hari-hara7
 </div>
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-hara7&bg_color=0d0d0d&color=FF6B00&line=FF6B00&point=FF6B00&area=true&hide_border=false&border_color=FF6B0033&area_color=FF6B0015&custom_title=contribution+graph" width="96%"/>
 
 <br/><br/>
 
