@@ -162,7 +162,7 @@ $ cat ~/achievements.log
 
 ```
 [2023–2026] ............................................
-  ✦  SAP Hackfest(Special Contest)              → 1st Place
+  ✦  SAP Hackfest(SPC)              → 1st Place
   ✦  Acethon                   → 1st Place
   ✦  Web Dev ACE               → 1st Place
   ✦  Upgrade Campus            → 1st Place
