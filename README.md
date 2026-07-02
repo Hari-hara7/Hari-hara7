@@ -23,7 +23,7 @@ $ cat /etc/profile
   name     : Hariharanath
   role     : Full Stack Developer & Founder
   college  : B.Tech CSE @ NMAMIT (2026)
-  founded  : Academic Pal (5000+ users) 
+  founded  : Academic Pal (5000+ users)  and We4Tech Agency
   wins     : 7+ Hackathon Champion — SAP Hackfest · Acethon · Web Dev ACE
   clients  : 17+ Freelance Projects Delivered
   seeking  : Startups · MNCs · Consulting · Freelance
