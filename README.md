@@ -13,16 +13,17 @@ B.Tech CSE, NMAMIT · Class of 2027
 ## About
 Building products end-to-end from idea to 5,000+ users. Founder of **Academic Pal**, freelance developer with 17+ delivered projects, and a 7x hackathon winner. Currently sharpening backend depth and DSA for full-stack roles.
 
-## Hackathons & Wins
-| Event | Category | Result | Prize | Year |
-|---|:---:|:---:|:---:|:---:|
-| SAP Hackfest | Special Contest | 🥇 1st | Winner | 2025 |
-| Acethon | Open | 🥇 1st | Winner | 2025 |
-| Web Dev ACE | Web Dev | 🥇 1st | Winner | 2025 |
-| Upgrade Campus | Open | 🥇 1st | Winner | 2025 |
-| Srinathon 2.0 | Open | 🥈 2nd ×2 | Runner-Up | 2025 |
-| Reality Rewritten | Open | 🥉 2nd Runner-Up | Finalist | 2025 |
-| Codesprint | Open | 🥉 2nd Runner-Up | Finalist | 2026 |
+## 🏆 Achievements
+
+| Event | Category | Result | Prize | Year | Location | Conducted By |
+|-------|----------|--------|-------|------|----------|---------------|
+| SAP Hackfest | Special Contest | 🥇 1st | Winner | 2025 | Coimbatore, Tamil Nadu | SAP (corporate-sponsored hackathon) |
+| Acethon | Open | 🥇 1st | Winner | 2025 | NMAMIT, Nitte, Mangalore, Karnataka | NMAMIT |
+| Web Dev ACE | Web Dev | 🥇 1st | Winner | 2025 | NMAMIT, Mangalore, Karnataka |  ACE Club |
+| Upgrade Campus | Open | 🥇 1st | Winner | 2025 | Mangalore, Karnataka | Upgard Campus |
+| Srinathon 2.0 | Open | 🥈 2nd ×2 | Runner-Up | 2025 | Mangalore, Karnataka | Srinivas University |
+| Reality Rewritten | Open | 🥉 2nd Runner-Up | Finalist | 2025 | Mangalore, Karnataka | NITTE Professional Institute |
+| Codesprint | Open | 🥉 2nd Runner-Up | Finalist | 2026 | Mangalore, Karnataka | St. Aloysius University |
 
 ## Projects
 
