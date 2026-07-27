@@ -17,13 +17,13 @@ Building products end-to-end from idea to 5,000+ users. Founder of **Academic Pa
 
 | Event | Category | Result | Prize | Year | Location | Conducted By |
 |-------|----------|--------|-------|------|----------|---------------|
-| SAP Hackfest | Special Contest | 🥇 1st | Winner | 2025 | Coimbatore, Tamil Nadu | SAP (corporate-sponsored hackathon) |
-| Acethon | Open | 🥇 1st | Winner | 2025 | NMAMIT, Nitte, Mangalore, Karnataka | NMAMIT |
-| Web Dev ACE | Web Dev | 🥇 1st | Winner | 2025 | NMAMIT, Mangalore, Karnataka |  ACE Club |
-| Upgrade Campus | Open | 🥇 1st | Winner | 2025 | Mangalore, Karnataka | Upgard Campus |
-| Srinathon 2.0 | Open | 🥈 2nd ×2 | Runner-Up | 2025 | Mangalore, Karnataka | Srinivas University |
-| Reality Rewritten | Open | 🥉 2nd Runner-Up | 2nd Runner-Up | 2025 | Mangalore, Karnataka | NITTE Professional Institute |
-| Codesprint | Open | 🥉 2nd Runner-Up | 2nd Runner-Up | 2026 | Mangalore, Karnataka | St. Aloysius University |
+| SAP Hackfest | Special Contest |  1st | Winner | 2025 | Coimbatore, Tamil Nadu | SAP (corporate-sponsored hackathon) |
+| Acethon | Open |  1st | Winner | 2025 | NMAMIT, Nitte, Mangalore, Karnataka | NMAMIT |
+| Web Dev ACE | Web Dev |  1st | Winner | 2025 | NMAMIT, Mangalore, Karnataka |  ACE Club |
+| Upgrade Campus | Open |  1st | Winner | 2025 | Mangalore, Karnataka | Upgard Campus |
+| Srinathon 2.0 | Open |  2nd ×2 | Runner-Up | 2025 | Mangalore, Karnataka | Srinivas University |
+| Reality Rewritten | Open |  2nd Runner-Up | 2nd Runner-Up | 2025 | Mangalore, Karnataka | NITTE Professional Institute |
+| Codesprint | Open |  2nd Runner-Up | 2nd Runner-Up | 2026 | Mangalore, Karnataka | St. Aloysius University |
 
 ## Projects
 
