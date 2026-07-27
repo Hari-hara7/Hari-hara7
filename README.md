@@ -26,35 +26,14 @@ Building products end-to-end from idea to 5,000+ users. Founder of **Academic Pa
 
 ## Projects
 
-**Academic Pal** — AI-powered academic companion for smarter learning
-An ed-tech platform serving 5,000+ users at NMAMIT, Google AdSense approved. Features an AI assistant (Gemini API) for doubt-solving, a RAG-based notes Q&A engine (FastAPI + embeddings), real-time group study via Socket.io, and Firebase-authenticated multi-provider login. Deployed on Vercel with Docker + GitHub Actions CI/CD.
-`Next.js` `TypeScript` `Tailwind` `Firebase` `MongoDB`
-[Live ↗](https://academicpal.in) · [Repo ↗](https://github.com/Hari-hara7/Academic-pal.git)
-
-**Querify.AI** — Natural language to SQL query tool
-Converts plain-English questions into optimized SQL using Gemini 2.0 Flash. Includes real-time query validation with security checks, a Spring Boot backend, and a Next.js frontend connected to a serverless Neon PostgreSQL instance.
-`Next.js` `TypeScript` `Spring Boot` `PostgreSQL (Neon)` `Gemini API`
-[Live ↗](https://querify-ai-psi.vercel.app) · [Repo ↗](https://github.com/Hari-hara7/Querify.ai.git)
-
-**Crypto Tracker** — Real-time crypto intelligence platform
-Live price feeds, portfolio tracking, and smart watchlists alongside AI-driven price trend prediction (linear regression models, auto-retraining) and a social layer with community posts, chat rooms, and a learning hub.
-`React` `TypeScript` `Tailwind` `Vite`
-[Live ↗](https://crypto-beta-five.vercel.app) · [Repo ↗](https://github.com/Hari-hara7/Crypto.git)
-
-**PhishGuard** — AI-powered phishing protection suite
-Cybersecurity platform built for students and institutions — AI link scanning, phishing email detection, document analysis, and a gamified security-awareness learning hub with a university-wide analytics dashboard.
-`Next.js` `TypeScript` `Firebase` `Python` `FastAPI`
-[Live ↗](https://phish-guard-six.vercel.app) · [Repo ↗](https://github.com/Hari-hara7/PhishGuard.git)
-
-**AgroPulse** (Team Trikernel) — Direct farmer-to-buyer market platform
-Built for a college hackathon (Problem Statement CS03AE). Aggregates live mandi prices, predicts price trends with AI/ML, and enables real-time bidding with a smart buyer-farmer matchmaking engine — removing middlemen from agricultural trade.
-`Next.js` `tRPC` `PostgreSQL (Neon)` `NextAuth` `Tailwind`
-[Live ↗](https://trikernel-fn61.vercel.app) · [Repo ↗](https://github.com/Hari-hara7/Trikernel.git)
-
-**SynapseDB** — Hybrid SQL + vector search query system
-Lets you query structured databases and uploaded documents using natural language. Combines AI-generated SQL with semantic document search via `pgvector` embeddings.
-`Next.js` `Prisma` `PostgreSQL (pgvector)` `Gemini API`
-[Repo ↗](https://github.com/Hari-hara7/SynapseDB.git)
+| Project | Description | Tech | Links |
+|---|---|---|---|
+| **Academic Pal** | AI academic companion — 5,000+ users at NMAMIT, AdSense approved. Gemini-powered chatbot, RAG notes Q&A, real-time study rooms via Socket.io | `Next.js` `TypeScript` `Tailwind` `Firebase` `MongoDB` | [Live ↗](https://academicpal.in) · [Repo ↗](https://github.com/Hari-hara7/Academic-pal.git) |
+| **Querify.AI** | Converts natural language into SQL using Gemini 2.0 Flash, with real-time validation and a Spring Boot backend on Neon Postgres | `Next.js` `Spring Boot` `PostgreSQL` `Gemini API` | [Live ↗](https://querify-ai-psi.vercel.app) · [Repo ↗](https://github.com/Hari-hara7/Querify.ai.git) |
+| **Crypto Tracker** | Real-time price feeds, portfolio tracking, and AI price-trend prediction (regression models) with a social trading community | `React` `TypeScript` `Tailwind` `Vite` | [Live ↗](https://crypto-beta-five.vercel.app) · [Repo ↗](https://github.com/Hari-hara7/Crypto.git) |
+| **PhishGuard** | AI phishing protection suite for students — link scanning, email/document analysis, gamified security-awareness training | `Next.js` `Firebase` `Python` `FastAPI` | [Live ↗](https://phish-guard-six.vercel.app) · [Repo ↗](https://github.com/Hari-hara7/PhishGuard.git) |
+| **AgroPulse** | Direct farmer-to-buyer marketplace — live mandi prices, AI price prediction, real-time bidding and matchmaking. Built with Team Trikernel | `Next.js` `tRPC` `PostgreSQL` `NextAuth` | [Live ↗](https://trikernel-fn61.vercel.app) · [Repo ↗](https://github.com/Hari-hara7/Trikernel.git) |
+| **SynapseDB** | Hybrid query engine — natural language to SQL plus semantic document search via `pgvector` embeddings | `Next.js` `Prisma` `PostgreSQL` `Gemini API` | [Repo ↗](https://github.com/Hari-hara7/SynapseDB.git) |
 
 ## Stack
 <div align="center">
