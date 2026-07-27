@@ -55,13 +55,13 @@ Building products end-to-end — from idea to 5,000+ users. Founder of **Academi
 
 | Event | Result | Year |
 |---|:---:|:---:|
-| SAP Hackfest | 🥇 1st Place (Special Contest) | 2024 |
-| Acethon | 🥇 1st Place | 2024 |
-| Web Dev ACE | 🥇 1st Place | 2024 |
-| Upgrade Campus | 🥇 1st Place | 2023 |
-| Srinathon 2.0 | 🥈 2nd Place (×2) | 2024 |
-| Reality Rewritten | 🥉 2nd Runner-Up | 2023 |
-| Codesprint | 🥉 2nd Runner-Up | 2023 |
+| SAP Hackfest |  1st Place (Special Contest) | 2025 |
+| Acethon |  1st Place | 2025 |
+| Web Dev ACE |  1st Place | 2025 |
+| Upgrade Campus |  1st Place | 2025 |
+| Srinathon 2.0 |  2nd Place (×2) | 2025 |
+| Reality Rewritten |  2nd Runner-Up | 2025 |
+| Codesprint |  2nd Runner-Up | 2026 |
 
 <br/>
 
