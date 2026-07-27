@@ -28,12 +28,12 @@ Building products end-to-end from idea to 5,000+ users. Founder of **Academic Pa
 
 | Project | Description | Tech | Links |
 |---|---|---|---|
-| **Academic Pal** | AI academic companion — 5,000+ users at NMAMIT, AdSense approved. Gemini-powered chatbot, RAG notes Q&A, real-time study rooms via Socket.io | `Next.js` `TypeScript` `Tailwind` `Firebase` `MongoDB` | [Live ↗](https://academicpal.in) · [Repo ↗](https://github.com/Hari-hara7/Academic-pal.git) |
+| **Academic Pal** | AI academic companion  5,000+ users at NMAMIT, AdSense approved. Gemini-powered chatbot, RAG notes Q&A, real-time study rooms via Socket.io | `Next.js` `TypeScript` `Tailwind` `Firebase` `MongoDB` | [Live ↗](https://academicpal.in) · [Repo ↗](https://github.com/Hari-hara7/Academic-pal.git) |
 | **Querify.AI** | Converts natural language into SQL using Gemini 2.0 Flash, with real-time validation and a Spring Boot backend on Neon Postgres | `Next.js` `Spring Boot` `PostgreSQL` `Gemini API` | [Live ↗](https://querify-ai-psi.vercel.app) · [Repo ↗](https://github.com/Hari-hara7/Querify.ai.git) |
 | **Crypto Tracker** | Real-time price feeds, portfolio tracking, and AI price-trend prediction (regression models) with a social trading community | `React` `TypeScript` `Tailwind` `Vite` | [Live ↗](https://crypto-beta-five.vercel.app) · [Repo ↗](https://github.com/Hari-hara7/Crypto.git) |
-| **PhishGuard** | AI phishing protection suite for students — link scanning, email/document analysis, gamified security-awareness training | `Next.js` `Firebase` `Python` `FastAPI` | [Live ↗](https://phish-guard-six.vercel.app) · [Repo ↗](https://github.com/Hari-hara7/PhishGuard.git) |
-| **AgroPulse** | Direct farmer-to-buyer marketplace — live mandi prices, AI price prediction, real-time bidding and matchmaking. Built with Team Trikernel | `Next.js` `tRPC` `PostgreSQL` `NextAuth` | [Live ↗](https://trikernel-fn61.vercel.app) · [Repo ↗](https://github.com/Hari-hara7/Trikernel.git) |
-| **SynapseDB** | Hybrid query engine — natural language to SQL plus semantic document search via `pgvector` embeddings | `Next.js` `Prisma` `PostgreSQL` `Gemini API` | [Repo ↗](https://github.com/Hari-hara7/SynapseDB.git) |
+| **PhishGuard** | AI phishing protection suite for students  link scanning, email/document analysis, gamified security-awareness training | `Next.js` `Firebase` `Python` `FastAPI` | [Live ↗](https://phish-guard-six.vercel.app) · [Repo ↗](https://github.com/Hari-hara7/PhishGuard.git) |
+| **AgroPulse** | Direct farmer-to-buyer marketplace  live mandi prices, AI price prediction, real-time bidding and matchmaking. Built with Team Trikernel | `Next.js` `tRPC` `PostgreSQL` `NextAuth` | [Live ↗](https://trikernel-fn61.vercel.app) · [Repo ↗](https://github.com/Hari-hara7/Trikernel.git) |
+| **SynapseDB** | Hybrid query engine  natural language to SQL plus semantic document search via `pgvector` embeddings | `Next.js` `Prisma` `PostgreSQL` `Gemini API` | [Repo ↗](https://github.com/Hari-hara7/SynapseDB.git) |
 
 ## Stack
 <div align="center">
@@ -51,8 +51,6 @@ Building products end-to-end from idea to 5,000+ users. Founder of **Academic Pa
 ## GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hari-hara7&show_icons=true&bg_color=ffffff&title_color=111111&text_color=333333&icon_color=6C63FF&border_color=eeeeee&hide_border=false" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&bg_color=ffffff&title_color=111111&text_color=333333&border_color=eeeeee&hide_border=false" width="48%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-hara7&bg_color=ffffff&color=6C63FF&line=6C63FF&point=111111&area=true&hide_border=false&border_color=eeeeee" width="97%"/>
 </div>
