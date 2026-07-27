@@ -1,206 +1,85 @@
 <div align="center">
-  <img src="banner.svg" width="100%" />
-
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=root%40hari%3A~%24+whoami;Full+Stack+Developer+%2F+Founder+%2F+Freelancer;root%40hari%3A~%24+uptime+--since+2023;Building+products+that+actually+ship.)](https://git.io/typing-svg)
 
 <br/>
 
-![](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-FF6B00?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/LOCATION-INDIA-FF6B00?style=flat-square&labelColor=0d0d0d)
-![](https://komarev.com/ghpvc/?username=hari-hara7&label=VISITORS&color=FF6B00&style=flat-square&labelColor=0d0d0d)
+# Hariharanath
+
+**Full Stack Developer · Founder · Freelancer**
+
+B.Tech CSE, NMAMIT · Class of 2027
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://hari-hara7.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Harihara-nath)
+[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hariharanath247@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@Hariharana70309)
 
 </div>
 
 <br/>
 
-```bash
-$ cat /etc/profile
-```
+## About
 
-```
-  name     : Hariharanath
-  role     : Full Stack Developer & Founder
-  college  : B.Tech CSE @ NMAMIT (2026)
-  founded  : Academic Pal (5000+ users)  and We4Tech Agency
-  wins     : 7+ Hackathon Champion — SAP Hackfest · Acethon · Web Dev ACE
-  clients  : 17+ Freelance Projects Delivered
-  seeking  : Startups · MNCs · Consulting · Freelance
-```
+Building products end-to-end — from idea to 5,000+ users. Founder of **Academic Pal**, freelance developer with 17+ delivered projects, and a 7x hackathon winner. Currently sharpening backend depth and DSA for full-stack roles.
 
 <br/>
 
-```bash
-$ ls -la ~/projects/
-```
-
-```
-drwxr-xr-x  academic-pal/       ── Ed-tech platform · 5000+ active users
-drwxr-xr-x  phishguard/         ── AI cybersecurity · Chrome extension
-drwxr-xr-x  crypto-tracker/     ── Real-time market intelligence · Socket.IO
-drwxr-xr-x  agropulse/          ── AgriTech marketplace · Direct trade
-```
-
-<br/>
-
-**`~/projects/academic-pal`**
-> Notes, resources & study tools for B.Tech students. Organized by year, branch & subject. Serving 5000+ students across multiple colleges.
-
-`Next.js` `TypeScript` `MongoDB` `Firebase` `TailwindCSS`
-&nbsp; → &nbsp;[academicpal.in](https://academicpal.in) &nbsp;|&nbsp; [github](https://github.com/Hari-hara7/Academicpal--login)
-
-<br/>
-
-
-
-**`~/projects/crypto-tracker`**
-> Live crypto intelligence with AI-driven insights, social trading community, and real-time Socket.IO-powered price feeds.
-
-`React` `TypeScript` `Node.js` `MongoDB` `Socket.IO`
-&nbsp; → &nbsp;[live demo](https://crypto-beta-five.vercel.app)
-
-<br/>
-
-**`~/projects/agropulse`**
-> Smart agri-marketplace connecting farmers directly to buyers. Real-time commodity pricing, zero middlemen, transparent transactions.
-
-`Next.js` `T3 Stack` `Prisma` `TailwindCSS`
-&nbsp; → &nbsp;[live demo](https://trikernel-fn61.vercel.app)
-
-<br/>
-
-```bash
-$ cat ~/.config/stack
-```
-
-```yaml
-frontend:
-  - React · Next.js · TypeScript · JavaScript
-  - TailwindCSS · shadcn/ui · Framer Motion
-
-backend:
-  - Node.js · Express · tRPC 
-
-database:
-  - MongoDB · PostgreSQL · Firebase · Prisma
-
-devops:
-  - Docker · GitHub Actions · Vercel . Render
-```
-
-<br/>
-
-```bash
-$ github-stats --user hari-hara7
-```
-| Repository Activity Trends | Collaborative Productivity - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=991443871&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=991443871&image_size=auto" />|
-
-| Repository Performance Stats - Last 28 days | Active Contributors - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=991443871&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=991443871&limit=100&image_size=auto"/>|
-
-
-| Pull Request Size | Pull Request Lifecycle |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=991443871&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=991443871&image_size=auto" />|
-
-
-
-| Currently Working On - Last 28 days | Top Active Contributors - Last 28 Days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=154905590&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=991443871&image_size=auto" />|
-
-
-
-<br/><br/>
-
-##  GitHub Statistics & Analytics
+## Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hari-hara7&show_icons=true&bg_color=000000&title_color=ff8c00&text_color=ffffff&icon_color=ff8c00&border_color=ff8c00&count_private=true" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&bg_color=000000&title_color=ff8c00&text_color=ffffff&border_color=ff8c00" />
-
-</td>
-</tr>
-</table>
-
-###  Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-hara7&bg_color=0d0d0d&color=FF6B00&line=FF6B00&point=FF6B00&area=true&hide_border=false&border_color=FF6B0033&area_color=FF6B0015&custom_title=contribution+graph" width="96%"/>
-
-###  GitHub Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=Hari-hara7&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" />
-
-
-
-</div>
-
-
-
-<br/><br/>
-
-
+| Frontend | Backend | Database | Tools |
+|:---:|:---:|:---:|:---:|
+| React | Node.js | MongoDB | Git |
+| Next.js | Express | PostgreSQL | Docker |
+| TypeScript | tRPC | Prisma | Vercel |
+| TailwindCSS |  | Firebase | GitHub Actions |
 
 </div>
 
 <br/>
 
-```bash
-$ cat ~/achievements.log
-```
+## Projects
 
-```
-[2023–2026] ............................................
-  ✦  SAP Hackfest              → 1st Place(Special Contest)
-  ✦  Acethon                   → 1st Place
-  ✦  Web Dev ACE               → 1st Place
-  ✦  Upgrade Campus            → 1st Place
-  ✦  Srinathon 2.0             → 2× 2nd Place Winner
-  ✦  Reality Rewritten         → 2nd Runner Up
-  ✦  Codesprint                → 2nd Runner Up
-  ✦  Academic Pal              → 5000+ users
-  ✦  Freelance                 → 17+ clients
-  ✦  Open Source               → 10+ contributions
-  ✦  We4Tech Community         → Co-founded
-```
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| **Academic Pal** | Ed-tech platform for B.Tech students — notes, roadmaps, and resources | Next.js · TypeScript · MongoDB · Firebase | [Visit ↗](https://academicpal.in) |
+| **AgroPulse** | Agri-marketplace connecting farmers directly to buyers, real-time pricing | Next.js · T3 Stack · Prisma · Tailwind | [Visit ↗](https://trikernel-fn61.vercel.app) |
+| **Crypto Tracker** | Real-time crypto dashboard with live price feeds and social trading | React · Node.js · MongoDB · Socket.IO | [Visit ↗](https://crypto-beta-five.vercel.app) |
+| **PhishGuard** | AI-powered Chrome extension for phishing detection | JavaScript · AI/ML | — |
 
 <br/>
 
-```bash
-$ ping hariharanath --connect
-```
+## Hackathons & Wins
 
-```
-PING hariharanath ... response time: instant
-```
+| Event | Result | Year |
+|---|:---:|:---:|
+| SAP Hackfest | 🥇 1st Place (Special Contest) | 2024 |
+| Acethon | 🥇 1st Place | 2024 |
+| Web Dev ACE | 🥇 1st Place | 2024 |
+| Upgrade Campus | 🥇 1st Place | 2023 |
+| Srinathon 2.0 | 🥈 2nd Place (×2) | 2024 |
+| Reality Rewritten | 🥉 2nd Runner-Up | 2023 |
+| Codesprint | 🥉 2nd Runner-Up | 2023 |
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Hari-hara7&show_icons=true&bg_color=ffffff&title_color=111111&text_color=333333&icon_color=6C63FF&border_color=eeeeee&hide_border=false" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&bg_color=ffffff&title_color=111111&text_color=333333&border_color=eeeeee&hide_border=false" width="48%" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-hara7&bg_color=ffffff&color=6C63FF&line=6C63FF&point=111111&area=true&hide_border=false&border_color=eeeeee" width="97%"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/GMAIL-hariharanath247%40gmail.com-FF6B00?style=flat-square&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:hariharanath247@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Harihara--nath-FF6B00?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/Harihara-nath)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-hari--hara7.github.io-FF6B00?style=flat-square&logo=firefox&logoColor=white&labelColor=0d0d0d)](https://hari-hara7.github.io)
-&nbsp;
-[![X](https://img.shields.io/badge/X-@Hariharana70309-FF6B00?style=flat-square&logo=x&logoColor=white&labelColor=0d0d0d)](https://x.com/@Hariharana70309)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-Hari__hara__nath77-FF6B00?style=flat-square&logo=instagram&logoColor=white&labelColor=0d0d0d)](https://instagram.com/Hari_hara_nath77)
-
-<br/><br/>
-
-```
-[session active] root@hari:~$ █
-```
+*Open to internships, freelance work, and full-time roles.*
 
 </div>
