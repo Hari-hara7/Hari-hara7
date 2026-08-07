@@ -17,7 +17,7 @@ Building products end-to-end from idea to 5,000+ users. Founder of **Academic Pa
 
 | Event | Category | Result | Prize | Year | Location | Conducted By |
 |-------|----------|--------|-------|------|----------|---------------|
-| SAP Hackfest | Special Contest |  1st | Winner | 2025 | Coimbatore, Tamil Nadu | SAP (corporate-sponsored hackathon) |
+| SAP Hackfest | Special Contest |  1st | Winner | 2025 | Coimbatore, Tamil Nadu | SAP |
 | Acethon | Open |  1st | Winner | 2025 | NMAMIT, Nitte, Mangalore, Karnataka | NMAMIT |
 | Web Dev ACE | Web Dev |  1st | Winner | 2025 | NMAMIT, Mangalore, Karnataka |  ACE Club |
 | Upgrade Campus | Open |  1st | Winner | 2025 | Mangalore, Karnataka | Upgard Campus |
