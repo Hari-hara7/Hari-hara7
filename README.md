@@ -46,7 +46,7 @@ Building products end-to-end from idea to 5,000+ users. Founder of **Academic Pa
 | TypeScript | tRPC | Prisma | Vercel |
 | TailwindCSS | REST APIs | Firebase | GitHub Actions |
 | JavaScript | Socket.IO | Mongoose | Postman |
-| HTML / CSS | JWT Auth | Redis | Figma |
+| HTML / CSS | JWT Auth |  | Figma |
 </div>
 
 ## GitHub Stats
