@@ -53,7 +53,7 @@ Building products end-to-end from idea to 5,000+ users. Founder of **Academic Pa
 <div align="center">
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-hara7&bg_color=ffffff&color=6C63FF&line=6C63FF&point=111111&area=true&hide_border=false&border_color=eeeeee" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-hara7&bg_color=ffffff&color=6C63FF&line=6C63FF&point=111111&area=true&hide_border=false&border_color=eeeeee"/>
 </div>
 
 <div align="center">
