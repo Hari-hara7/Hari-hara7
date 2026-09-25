@@ -4,7 +4,7 @@
 **Full Stack Developer · Founder · Freelancer**
 B.Tech CSE, NMAMIT · Class of 2027
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)]([https://hari-hara7.github.io](https://hariharanath.is-cod.in/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://hariharanath.is-cod.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-hara-nath-a13583282/)
 [![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hariharanath247@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@Hariharana70309)
@@ -52,8 +52,10 @@ Building products end-to-end from idea to 5,000+ users. Founder of **Academic Pa
 ## GitHub Stats
 <div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hari-hara7&theme=nord&hide_border=true)](https://git.io/streak-stats)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-hara7&bg_color=ffffff&color=6C63FF&line=6C63FF&point=111111&area=true&hide_border=false&border_color=eeeeee"/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <div align="center">
