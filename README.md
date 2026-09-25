@@ -52,9 +52,7 @@ Building products end-to-end from idea to 5,000+ users. Founder of **Academic Pa
 ## GitHub Stats
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hari-hara7&theme=nord&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-hara7&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hari-hara7&theme=dark&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
