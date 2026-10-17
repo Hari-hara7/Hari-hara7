@@ -21,9 +21,8 @@ Building products end-to-end from idea to 5,000+ users. Founder of **Academic Pa
 | Acethon | Open |  1st | Winner | 2025 | NMAMIT, Nitte, Karnataka | NMAMIT |
 | Web Dev ACE | Web Dev |  1st | Winner | 2025 | NMAMIT, Nitte, Karnataka |  ACE Club |
 | Upgrade Campus | Open |  1st | Winner | 2025 | NMAMIT, Nitte, Karnataka | Upgard Campus |
-| Srinathon 2.0 | DevAppSys Company |  2nd ×2 | Runner-Up | 2025 | Mangalore, Karnataka | Srinivas University |
-| Srinathon 2.0 | SkillSync Company |  2nd ×2 | Runner-Up | 2025 | Mangalore, Karnataka | Srinivas University |
-
+| Srinathon 2.0 | DevAppSys Company |  2nd | Runner-Up | 2025 | Mangalore, Karnataka | Srinivas University |
+| Srinathon 2.0 | SkillSync Company |  2nd | Runner-Up | 2025 | Mangalore, Karnataka | Srinivas University |
 | Reality Rewritten | Open |  2nd Runner-Up | 2nd Runner-Up | 2025 | Mangalore, Karnataka | NITTE  University  |
 | Codesprint | Open |  2nd Runner-Up | 2nd Runner-Up | 2026 | Mangalore, Karnataka | St. Aloysius University |
 
