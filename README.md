@@ -11,7 +11,7 @@ B.Tech CSE, NMAMIT · Class of 2027
 </div>
 
 ## About
-Building products end-to-end from idea to 5,000+ users. Founder of **Academic Pal**, freelance developer with 17+ delivered projects, and a 7x hackathon winner. Currently sharpening backend depth and DSA for full-stack roles.
+Building products end-to-end from idea to 6,500+ users. Founder of **Academic Pal**, freelance developer with 17+ delivered projects, and a 7x hackathon winner. Currently sharpening backend depth and DSA for full-stack roles.
 
 ##  Achievements
 
