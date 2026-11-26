@@ -25,6 +25,8 @@ Building products end-to-end from idea to 6,500+ users. Founder of **Academic Pa
 | Srinathon 2.0 | SkillSync Company |  2nd | Runner-Up | 2025 | Mangalore, Karnataka | Srinivas University |
 | Reality Rewritten | Open |  2nd Runner-Up | 2nd Runner-Up | 2025 | Mangalore, Karnataka | NITTE  University  |
 | Codesprint | Open |  2nd Runner-Up | 2nd Runner-Up | 2026 | Mangalore, Karnataka | St. Aloysius University |
+| Nexus | Open | 2nd Runner-Up  | 2nd Runner-Up | 2026 | Mangalore, Karnataka | CSI |
+
 
 ## Projects
 
